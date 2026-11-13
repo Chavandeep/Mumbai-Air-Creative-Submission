@@ -1,0 +1,457 @@
+ward,status,category,plots,area_m2
+A,Existing (designated),Amenity plot,1,1117.4849315249949
+A,Existing (designated),Education,71,599799.5267406005
+A,Existing (designated),Health,16,99540.33705115579
+A,Existing (designated),Housing,38,166630.84252405234
+A,Existing (designated),Municipal services,14,148249.8799091739
+A,Existing (designated),Open space,98,1050693.2978180568
+A,Existing (designated),Primary activity,7,57014.43074537123
+A,Existing (designated),Public offices,37,304008.81273337995
+A,Existing (designated),Public utilities,68,1391257.902215488
+A,Existing (designated),Social amenities,26,370880.0304665924
+A,Existing (designated),Transport,13,184611.10746837748
+A,Planned (reserved),Education,3,4687.555581470612
+A,Planned (reserved),Health,5,14921.76800829114
+A,Planned (reserved),Housing,4,1004.7783431583983
+A,Planned (reserved),Municipal services,6,8005.802402848754
+A,Planned (reserved),Open space,18,1051979.3281154486
+A,Planned (reserved),Public offices,2,13347.531735587087
+A,Planned (reserved),Public utilities,1,19542.429363799
+A,Planned (reserved),Social amenities,10,20516.503588377273
+A,Planned (reserved),Transport,6,12784.332458023164
+B,Existing (designated),Education,39,63536.61807911036
+B,Existing (designated),Health,17,635391.5822493891
+B,Existing (designated),Housing,14,120158.24158181417
+B,Existing (designated),Municipal services,5,6337.135031871849
+B,Existing (designated),Open space,50,423058.60260657757
+B,Existing (designated),Public offices,3,12416.569419603553
+B,Existing (designated),Public utilities,12,25164.693069356603
+B,Existing (designated),Social amenities,4,23613.91053963772
+B,Existing (designated),Transport,4,8317.186164558498
+B,Planned (reserved),Education,11,12973.850308825979
+B,Planned (reserved),Health,3,6008.067505161602
+B,Planned (reserved),Housing,18,41084.06879630995
+B,Planned (reserved),Municipal services,3,12499.13190622678
+B,Planned (reserved),Open space,35,47000.9673428919
+B,Planned (reserved),Public offices,2,1752.032208878314
+B,Planned (reserved),Public utilities,1,105.77297218773062
+B,Planned (reserved),Social amenities,7,10724.9118753408
+C,Existing (designated),Amenity plot,3,1261.8752111302406
+C,Existing (designated),Education,44,97560.03463555769
+C,Existing (designated),Health,20,33835.21886099363
+C,Existing (designated),Housing,8,31196.732947893008
+C,Existing (designated),Municipal services,1,187.1877843256902
+C,Existing (designated),Open space,39,83229.52080549554
+C,Existing (designated),Public offices,5,43520.5205885167
+C,Existing (designated),Public utilities,12,12086.527579918622
+C,Existing (designated),Social amenities,15,20006.104336220727
+C,Existing (designated),Transport,3,1519.8777844118695
+C,Planned (reserved),Education,40,26871.123548749045
+C,Planned (reserved),Health,18,17888.75078175925
+C,Planned (reserved),Housing,18,227154.00547379436
+C,Planned (reserved),Municipal services,7,1630.722914387496
+C,Planned (reserved),Open space,96,31735.154799391916
+C,Planned (reserved),Public offices,4,1363.9025404705233
+C,Planned (reserved),Public utilities,8,1892.4589858930456
+C,Planned (reserved),Social amenities,21,7578.328397307446
+C,Planned (reserved),Transport,18,8006.101969204822
+D,Existing (designated),Amenity plot,9,8052.104521631147
+D,Existing (designated),Education,88,586234.5993230174
+D,Existing (designated),Health,18,31349.33383590282
+D,Existing (designated),Housing,53,462252.86563728534
+D,Existing (designated),Municipal services,25,76386.33600570996
+D,Existing (designated),Open space,61,476177.2038702428
+D,Existing (designated),Primary activity,3,6652.9373532724385
+D,Existing (designated),Public offices,31,109541.58404627352
+D,Existing (designated),Public utilities,48,132483.41284658137
+D,Existing (designated),Social amenities,56,343570.16110036423
+D,Existing (designated),Transport,35,185833.3280240821
+D,Planned (reserved),Education,2,1064.8057271452858
+D,Planned (reserved),Health,1,321.54786928057143
+D,Planned (reserved),Housing,35,56860.81631620653
+D,Planned (reserved),Municipal services,2,5790.807718986729
+D,Planned (reserved),Open space,29,100459.12845699962
+D,Planned (reserved),Public utilities,7,12259.137427167127
+D,Planned (reserved),Social amenities,14,36374.82551924321
+D,Planned (reserved),Transport,14,23311.389389993295
+E,Existing (designated),Amenity plot,2,5410.870234172996
+E,Existing (designated),Education,47,222314.36488989575
+E,Existing (designated),Health,49,523638.7645206118
+E,Existing (designated),Housing,39,136634.11096826455
+E,Existing (designated),Municipal services,20,73084.53686066855
+E,Existing (designated),Open space,74,285367.1938143554
+E,Existing (designated),Primary activity,2,6984.67322365529
+E,Existing (designated),Public offices,25,104753.43630476986
+E,Existing (designated),Public utilities,55,206190.43495195312
+E,Existing (designated),Social amenities,38,419102.0074117733
+E,Existing (designated),Transport,28,360798.18321519677
+E,Planned (reserved),Education,18,46924.187867456465
+E,Planned (reserved),Health,4,8661.45547260319
+E,Planned (reserved),Housing,47,243439.71798501062
+E,Planned (reserved),Municipal services,9,15824.770285396933
+E,Planned (reserved),Open space,91,403574.3939662886
+E,Planned (reserved),Primary activity,1,10018.486480404577
+E,Planned (reserved),Public offices,1,223.59791261521048
+E,Planned (reserved),Public utilities,3,9983.98936449807
+E,Planned (reserved),Social amenities,16,42833.66401644415
+E,Planned (reserved),Transport,10,72997.84482286147
+FN,Existing (designated),Amenity plot,4,14067.634468377795
+FN,Existing (designated),Education,105,824667.6951134657
+FN,Existing (designated),Health,23,93420.50326028129
+FN,Existing (designated),Housing,58,455361.5763684288
+FN,Existing (designated),Municipal services,29,172543.41455554348
+FN,Existing (designated),Open space,132,1434354.0692357498
+FN,Existing (designated),Primary activity,4,35326.607857533454
+FN,Existing (designated),Public offices,6,6129.243767020336
+FN,Existing (designated),Public utilities,59,169003.15954996066
+FN,Existing (designated),Social amenities,65,259571.75897133612
+FN,Existing (designated),Transport,50,299893.5935159318
+FN,Planned (reserved),Education,31,159660.1538438641
+FN,Planned (reserved),Health,15,121822.96228183554
+FN,Planned (reserved),Housing,11,102356.3266705421
+FN,Planned (reserved),Municipal services,17,160446.0648164262
+FN,Planned (reserved),Open space,74,578892.9560317227
+FN,Planned (reserved),Primary activity,1,2232.9744880711132
+FN,Planned (reserved),Public offices,2,4189.661715039729
+FN,Planned (reserved),Public utilities,2,154821.03832974055
+FN,Planned (reserved),Social amenities,27,352375.54477017076
+FN,Planned (reserved),Transport,3,9114.157273134004
+FS,Existing (designated),Amenity plot,7,18713.69845806873
+FS,Existing (designated),Education,42,336540.15531031886
+FS,Existing (designated),Health,35,119406.50818603364
+FS,Existing (designated),Housing,73,666894.6449346597
+FS,Existing (designated),Municipal services,5,72883.0987692733
+FS,Existing (designated),Open space,120,508916.57478792284
+FS,Existing (designated),Primary activity,2,15235.566049362384
+FS,Existing (designated),Public offices,11,29753.58736904098
+FS,Existing (designated),Public utilities,46,286657.3144994929
+FS,Existing (designated),Social amenities,36,198925.0338393969
+FS,Existing (designated),Transport,17,169548.59599179696
+FS,Planned (reserved),Education,17,51584.470023715134
+FS,Planned (reserved),Health,6,80421.61008184255
+FS,Planned (reserved),Housing,49,339063.8421023798
+FS,Planned (reserved),Municipal services,5,18597.45814229721
+FS,Planned (reserved),Open space,9,20591.172249493353
+FS,Planned (reserved),Public offices,3,17440.84311979672
+FS,Planned (reserved),Public utilities,1,4848.880785559543
+FS,Planned (reserved),Social amenities,45,762482.3843606272
+FS,Planned (reserved),Transport,11,51190.988165371746
+GN,Existing (designated),Education,65,325211.13935118413
+GN,Existing (designated),Health,12,22446.37931517319
+GN,Existing (designated),Housing,27,88888.95857346772
+GN,Existing (designated),Municipal services,12,89998.13751605968
+GN,Existing (designated),Open space,97,672436.4073288839
+GN,Existing (designated),Primary activity,8,18929.743743662955
+GN,Existing (designated),Public offices,13,69452.66156551702
+GN,Existing (designated),Public utilities,32,115750.83785215432
+GN,Existing (designated),Social amenities,36,909514.2191842732
+GN,Existing (designated),Transport,5,28898.275346510996
+GN,Planned (reserved),Amenity plot,2,11311.962547850322
+GN,Planned (reserved),Education,13,28867.42466552463
+GN,Planned (reserved),Health,3,12879.189698359318
+GN,Planned (reserved),Housing,50,109265.72748490634
+GN,Planned (reserved),Municipal services,2,2552.131815766278
+GN,Planned (reserved),Open space,64,161205.4641694483
+GN,Planned (reserved),Primary activity,1,1987.2259571983147
+GN,Planned (reserved),Public offices,1,12176.156830371674
+GN,Planned (reserved),Public utilities,14,70274.29418566899
+GN,Planned (reserved),Social amenities,12,10217.671521187556
+GN,Planned (reserved),Transport,1,62.41398056878243
+GS,Existing (designated),Amenity plot,6,12119.60098959659
+GS,Existing (designated),Education,79,900095.5615119891
+GS,Existing (designated),Health,25,124672.03342799847
+GS,Existing (designated),Housing,59,300508.2182199103
+GS,Existing (designated),Municipal services,28,101719.39938383615
+GS,Existing (designated),Open space,66,392966.405554827
+GS,Existing (designated),Primary activity,3,4202.490299601349
+GS,Existing (designated),Public offices,12,68064.28982146812
+GS,Existing (designated),Public utilities,52,359318.4199784581
+GS,Existing (designated),Social amenities,41,145487.6955425391
+GS,Existing (designated),Transport,34,1041669.7870550675
+GS,Planned (reserved),Education,4,5576.600093495905
+GS,Planned (reserved),Health,3,8400.594069256002
+GS,Planned (reserved),Housing,57,158634.27814776005
+GS,Planned (reserved),Municipal services,3,5755.063409070141
+GS,Planned (reserved),Open space,73,320986.9310544232
+GS,Planned (reserved),Public offices,4,4895.144635619884
+GS,Planned (reserved),Public utilities,6,27878.24776048445
+HE,Existing (designated),Amenity plot,3,22738.156567085447
+HE,Existing (designated),Education,51,232542.64035912268
+HE,Existing (designated),Health,20,108382.56410710813
+HE,Existing (designated),Housing,28,194814.14168117382
+HE,Existing (designated),Municipal services,6,18383.08850604426
+HE,Existing (designated),Open space,71,723411.5873452227
+HE,Existing (designated),Primary activity,8,20364.792915401682
+HE,Existing (designated),Public offices,3,19824.25200343926
+HE,Existing (designated),Public utilities,32,1114872.327679402
+HE,Existing (designated),Social amenities,11,23450.807666284272
+HE,Existing (designated),Transport,8,896294.4266108308
+HE,Planned (reserved),Amenity plot,2,939.1994008556054
+HE,Planned (reserved),Education,64,222724.55476678538
+HE,Planned (reserved),Health,25,90854.83841263253
+HE,Planned (reserved),Municipal services,22,56069.17303490707
+HE,Planned (reserved),Open space,35,118191.78046566615
+HE,Planned (reserved),Public offices,3,7119.149842849534
+HE,Planned (reserved),Transport,7,22039.754858748474
+HW,Existing (designated),Education,75,319468.1810591066
+HW,Existing (designated),Health,23,107832.89294059665
+HW,Existing (designated),Housing,47,281977.09024599456
+HW,Existing (designated),Municipal services,8,108074.69285390397
+HW,Existing (designated),Open space,73,344081.4354790016
+HW,Existing (designated),Primary activity,2,3235.5127556974553
+HW,Existing (designated),Public offices,13,24761.683715302686
+HW,Existing (designated),Public utilities,37,231058.8172366138
+HW,Existing (designated),Social amenities,41,157936.32603321446
+HW,Existing (designated),Transport,29,147808.8226287742
+HW,Planned (reserved),Education,8,30408.06080163719
+HW,Planned (reserved),Health,4,10043.978855183475
+HW,Planned (reserved),Housing,30,131882.54882228115
+HW,Planned (reserved),Municipal services,2,2984.4024351667167
+HW,Planned (reserved),Open space,66,278902.38145035517
+HW,Planned (reserved),Primary activity,7,15279.056921457555
+HW,Planned (reserved),Public offices,9,66395.16252312469
+HW,Planned (reserved),Public utilities,4,3937.0927643196474
+HW,Planned (reserved),Social amenities,19,64665.81969982978
+HW,Planned (reserved),Transport,5,11441.344453304842
+KE,Existing (designated),Amenity plot,22,188875.54569069835
+KE,Existing (designated),Education,101,933455.9752097242
+KE,Existing (designated),Health,29,344746.1298901832
+KE,Existing (designated),Housing,53,806492.02761478
+KE,Existing (designated),Municipal services,25,350420.3752875393
+KE,Existing (designated),Open space,132,841284.8964076317
+KE,Existing (designated),Primary activity,2,13459.493895381587
+KE,Existing (designated),Public offices,9,53818.46273149478
+KE,Existing (designated),Public utilities,67,325511.8848359793
+KE,Existing (designated),Social amenities,59,3472856.998538936
+KE,Existing (designated),Transport,20,137018.46582336476
+KE,Planned (reserved),Education,24,156955.71440790655
+KE,Planned (reserved),Health,16,72126.63863899214
+KE,Planned (reserved),Housing,58,205963.28811801583
+KE,Planned (reserved),Municipal services,8,29944.42483155876
+KE,Planned (reserved),Open space,163,1179860.354949037
+KE,Planned (reserved),Primary activity,8,26525.59667505871
+KE,Planned (reserved),Public offices,2,4346.8380258069965
+KE,Planned (reserved),Public utilities,20,381496.70513263496
+KE,Planned (reserved),Social amenities,49,237529.30984998983
+KE,Planned (reserved),Transport,9,39720.73509825243
+KW,Existing (designated),Amenity plot,5,16833.049608763737
+KW,Existing (designated),Education,68,811165.3145605224
+KW,Existing (designated),Health,25,73282.47599819404
+KW,Existing (designated),Housing,22,246794.80504971492
+KW,Existing (designated),Municipal services,16,147425.02780590134
+KW,Existing (designated),Open space,206,1112267.6690253394
+KW,Existing (designated),Primary activity,1,4732.236433040323
+KW,Existing (designated),Public offices,15,47933.43923820735
+KW,Existing (designated),Public utilities,60,1685602.7838858168
+KW,Existing (designated),Social amenities,88,741954.9663051242
+KW,Existing (designated),Transport,50,543160.2683947723
+KW,Planned (reserved),Amenity plot,27,177800.44618189847
+KW,Planned (reserved),Education,45,170510.5656863045
+KW,Planned (reserved),Health,25,73558.35775570486
+KW,Planned (reserved),Housing,47,149206.8504499819
+KW,Planned (reserved),Municipal services,23,63453.71402068405
+KW,Planned (reserved),Open space,208,1247572.9878325132
+KW,Planned (reserved),Public offices,4,7172.058369940201
+KW,Planned (reserved),Public utilities,9,32558.570238524342
+KW,Planned (reserved),Social amenities,19,73999.12179849946
+KW,Planned (reserved),Transport,15,81681.91365166004
+L,Existing (designated),Amenity plot,4,5653.2157359236935
+L,Existing (designated),Education,87,479409.6370097775
+L,Existing (designated),Health,23,267827.8801305894
+L,Existing (designated),Housing,95,397157.2235512438
+L,Existing (designated),Municipal services,30,298824.5214627487
+L,Existing (designated),Open space,163,1302551.95979111
+L,Existing (designated),Public offices,7,11536.883489149432
+L,Existing (designated),Public utilities,42,384716.21442383464
+L,Existing (designated),Social amenities,35,178072.92240568204
+L,Existing (designated),Transport,13,38152.98761525894
+L,Planned (reserved),Amenity plot,1,118.35328490674468
+L,Planned (reserved),Education,54,146602.73680205527
+L,Planned (reserved),Health,28,239731.5662588837
+L,Planned (reserved),Housing,70,591833.9404702788
+L,Planned (reserved),Municipal services,19,66015.40136434624
+L,Planned (reserved),Open space,129,1412653.6806964388
+L,Planned (reserved),Public offices,11,27347.07631509061
+L,Planned (reserved),Public utilities,13,50475.669229447565
+L,Planned (reserved),Social amenities,41,260571.99809389957
+L,Planned (reserved),Transport,11,66404.58401799476
+ME,Existing (designated),Open space,4,22295.06233922233
+ME,Existing (designated),Social amenities,6,33921.49387920644
+ME,Existing (designated),Transport,1,3567.8968359129067
+ME,Planned (reserved),Education,1,0.7869490456670352
+ME,Planned (reserved),Health,2,3536.0753256072394
+ME,Planned (reserved),Housing,21,145884.07065344456
+ME,Planned (reserved),Open space,10,131245.58163039773
+ME,Planned (reserved),Other,1,4890.3116841925685
+ME,Planned (reserved),Public utilities,14,151367.9677874899
+ME,Planned (reserved),Social amenities,41,384361.2730809762
+ME,Planned (reserved),Transport,9,48917.0880319876
+MW,Existing (designated),Amenity plot,2,13486.034237060438
+MW,Existing (designated),Education,4,6708.507736923507
+MW,Existing (designated),Housing,13,46167.27229868065
+MW,Existing (designated),Municipal services,2,5620.488260859458
+MW,Existing (designated),Open space,7,29253.31013526091
+MW,Existing (designated),Public offices,1,3748.4739214994315
+MW,Existing (designated),Public utilities,3,6586.508360114683
+MW,Planned (reserved),Education,26,65011.77981215837
+MW,Planned (reserved),Health,13,69316.23593452385
+MW,Planned (reserved),Housing,4,48346.08912078921
+MW,Planned (reserved),Municipal services,25,77182.22801977652
+MW,Planned (reserved),Open space,124,768177.8916304564
+MW,Planned (reserved),Public offices,6,32696.285005468395
+MW,Planned (reserved),Social amenities,54,227747.95013312393
+MW,Planned (reserved),Transport,15,132138.664465206
+N,Existing (designated),Amenity plot,13,60850.18532042035
+N,Existing (designated),Education,18,87369.35785245693
+N,Existing (designated),Health,10,46811.15876988076
+N,Existing (designated),Housing,173,1056993.2761358027
+N,Existing (designated),Municipal services,12,73731.38032935958
+N,Existing (designated),Open space,83,264260.91004212206
+N,Existing (designated),Public offices,3,204343.60276992375
+N,Existing (designated),Public utilities,22,131703.44136170635
+N,Existing (designated),Social amenities,29,347940.0986940817
+N,Existing (designated),Transport,14,1371908.1444336767
+N,Planned (reserved),Education,1,2388.7665328295952
+N,Planned (reserved),Housing,61,771773.2337952902
+N,Planned (reserved),Open space,123,1357301.2895810406
+N,Planned (reserved),Public offices,1,6106.147035758135
+N,Planned (reserved),Public utilities,13,24746.541004674815
+N,Planned (reserved),Social amenities,31,119245.48303076898
+PN,Existing (designated),Amenity plot,6,63899.22224019706
+PN,Existing (designated),Education,88,620516.5528393923
+PN,Existing (designated),Health,24,159170.53189292675
+PN,Existing (designated),Housing,22,72745.26160130308
+PN,Existing (designated),Municipal services,18,282258.51284206385
+PN,Existing (designated),Open space,207,1016397.1279801463
+PN,Existing (designated),Primary activity,4,5098.295262974557
+PN,Existing (designated),Public offices,13,70406.95678281959
+PN,Existing (designated),Public utilities,59,1333977.9897804663
+PN,Existing (designated),Social amenities,52,416528.818936716
+PN,Existing (designated),Transport,24,133829.29305151466
+PN,Planned (reserved),Education,12,160909.0196337392
+PN,Planned (reserved),Health,12,76400.30436827398
+PN,Planned (reserved),Housing,71,611930.5183781518
+PN,Planned (reserved),Municipal services,21,64370.71478710881
+PN,Planned (reserved),Open space,210,1175504.329982668
+PN,Planned (reserved),Primary activity,1,2339.245981488199
+PN,Planned (reserved),Public offices,9,31550.04598040069
+PN,Planned (reserved),Public utilities,35,252875.50936126194
+PN,Planned (reserved),Social amenities,55,774003.4040595308
+PN,Planned (reserved),Transport,6,7132.382841229777
+PS,Existing (designated),Amenity plot,6,20991.415522212996
+PS,Existing (designated),Education,68,436286.32695166196
+PS,Existing (designated),Health,9,117042.35483274139
+PS,Existing (designated),Housing,86,521619.3401766108
+PS,Existing (designated),Municipal services,15,105972.9630576797
+PS,Existing (designated),Open space,84,1260527.136869471
+PS,Existing (designated),Primary activity,1,338943.1695009701
+PS,Existing (designated),Public offices,11,125705.33819329785
+PS,Existing (designated),Public utilities,7,50898.86102844806
+PS,Existing (designated),Social amenities,20,54395.249752374424
+PS,Existing (designated),Transport,6,13477.835328744517
+PS,Planned (reserved),Amenity plot,1,3673.049982912763
+PS,Planned (reserved),Education,40,135265.61472401355
+PS,Planned (reserved),Health,24,529572.3416856921
+PS,Planned (reserved),Housing,14,280295.34191571246
+PS,Planned (reserved),Municipal services,31,532226.9092915286
+PS,Planned (reserved),Open space,108,1258188.8958456307
+PS,Planned (reserved),Public offices,1,5228.835778084847
+PS,Planned (reserved),Public utilities,13,68596.05507627926
+PS,Planned (reserved),Social amenities,21,180985.90263696905
+PS,Planned (reserved),Transport,12,112699.2790666665
+RC,Existing (designated),Amenity plot,8,233565.58493907133
+RC,Existing (designated),Education,77,440165.2777909061
+RC,Existing (designated),Health,23,255857.01935794114
+RC,Existing (designated),Housing,29,53678.79197039889
+RC,Existing (designated),Municipal services,23,179506.67507305986
+RC,Existing (designated),Open space,144,711928.0882597336
+RC,Existing (designated),Primary activity,2,2443.4759803582137
+RC,Existing (designated),Public offices,14,48731.49379877288
+RC,Existing (designated),Public utilities,36,77242.01780298799
+RC,Existing (designated),Social amenities,49,503725.60423812974
+RC,Existing (designated),Transport,22,71016.21648106139
+RC,Planned (reserved),Amenity plot,6,26259.57268137222
+RC,Planned (reserved),Education,101,381474.4378109778
+RC,Planned (reserved),Health,25,106679.34898699229
+RC,Planned (reserved),Housing,34,170867.39292993306
+RC,Planned (reserved),Municipal services,21,158353.18300809784
+RC,Planned (reserved),Open space,133,650524.9084187533
+RC,Planned (reserved),Public offices,6,7778.6286451927335
+RC,Planned (reserved),Public utilities,14,50053.7192238129
+RC,Planned (reserved),Social amenities,44,322090.2541611829
+RC,Planned (reserved),Transport,9,47622.526572596325
+RN,Existing (designated),Amenity plot,5,20152.79851921698
+RN,Existing (designated),Education,35,172631.05749897272
+RN,Existing (designated),Housing,9,105688.73552049401
+RN,Existing (designated),Municipal services,13,50204.382936992835
+RN,Existing (designated),Open space,55,364258.81772922643
+RN,Existing (designated),Primary activity,1,3769.0518549132325
+RN,Existing (designated),Public offices,2,9150.038173820873
+RN,Existing (designated),Public utilities,17,166301.36187026635
+RN,Existing (designated),Social amenities,23,111438.1737619725
+RN,Existing (designated),Transport,4,24343.441531428798
+RN,Planned (reserved),Amenity plot,7,47146.837282191715
+RN,Planned (reserved),Education,68,284254.77713416266
+RN,Planned (reserved),Health,22,39257.82837367247
+RN,Planned (reserved),Housing,23,101324.05809953049
+RN,Planned (reserved),Municipal services,20,309170.49817335396
+RN,Planned (reserved),Open space,114,658646.57558638
+RN,Planned (reserved),Public offices,2,9959.856359195017
+RN,Planned (reserved),Public utilities,8,40568.61780394339
+RN,Planned (reserved),Social amenities,24,71099.5737895503
+RN,Planned (reserved),Transport,15,75819.15938175033
+RS,Existing (designated),Amenity plot,17,46832.34472982281
+RS,Existing (designated),Education,52,295049.3993900772
+RS,Existing (designated),Health,14,76391.42269675103
+RS,Existing (designated),Housing,13,34826.890400463024
+RS,Existing (designated),Municipal services,13,39994.33720946447
+RS,Existing (designated),Open space,96,500175.5168974806
+RS,Existing (designated),Primary activity,1,4485.164131754192
+RS,Existing (designated),Public offices,13,98701.43461080382
+RS,Existing (designated),Public utilities,18,69403.44055899724
+RS,Existing (designated),Social amenities,16,56523.920843259104
+RS,Existing (designated),Transport,17,264838.51526095794
+RS,Planned (reserved),Education,26,174062.1525103334
+RS,Planned (reserved),Health,15,36829.95945638295
+RS,Planned (reserved),Housing,68,258697.80032782682
+RS,Planned (reserved),Municipal services,22,209957.28054305076
+RS,Planned (reserved),Open space,182,906214.535941844
+RS,Planned (reserved),Public offices,3,12222.092473831599
+RS,Planned (reserved),Public utilities,17,58478.60076956691
+RS,Planned (reserved),Social amenities,48,232777.62905006885
+RS,Planned (reserved),Transport,10,69658.62857298186
+S,Existing (designated),Amenity plot,14,99026.84779150478
+S,Existing (designated),Education,75,921118.3924328107
+S,Existing (designated),Health,22,87684.91881790245
+S,Existing (designated),Housing,72,529137.9756471999
+S,Existing (designated),Municipal services,25,275922.01388896245
+S,Existing (designated),Open space,128,3898224.715418741
+S,Existing (designated),Public offices,10,175142.06723327006
+S,Existing (designated),Public utilities,39,552889.1501271949
+S,Existing (designated),Social amenities,44,410547.8050052007
+S,Existing (designated),Transport,12,43630.4651583178
+S,Planned (reserved),Education,115,1318830.6259973224
+S,Planned (reserved),Health,30,162480.85405671177
+S,Planned (reserved),Housing,27,392610.6907648728
+S,Planned (reserved),Municipal services,18,116032.09277721347
+S,Planned (reserved),Open space,232,2347756.3107146593
+S,Planned (reserved),Public offices,7,39959.09682072031
+S,Planned (reserved),Public utilities,10,89723.92542073785
+S,Planned (reserved),Social amenities,30,564141.8455587068
+S,Planned (reserved),Transport,21,191123.32105873924
+T,Existing (designated),Amenity plot,21,56856.0279455813
+T,Existing (designated),Education,86,995890.9143945996
+T,Existing (designated),Health,29,360124.8170860639
+T,Existing (designated),Housing,18,100357.45609827305
+T,Existing (designated),Municipal services,24,129885.93521548067
+T,Existing (designated),Open space,73,1284765.662098076
+T,Existing (designated),Public offices,9,56606.80324001343
+T,Existing (designated),Public utilities,26,149032.94174752742
+T,Existing (designated),Social amenities,40,301550.4577668308
+T,Existing (designated),Transport,20,80646.87724808324
+T,Planned (reserved),Education,27,137476.36593502908
+T,Planned (reserved),Housing,33,184827.43030113672
+T,Planned (reserved),Open space,143,1271449.8429135103
+T,Planned (reserved),Public utilities,18,455656.2629919126
+T,Planned (reserved),Social amenities,29,388756.77873583586
+T,Planned (reserved),Transport,3,14441.981804489362

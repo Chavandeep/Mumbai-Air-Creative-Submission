@@ -1,0 +1,643 @@
+status,category,description,plots,area_m2
+Existing (designated),Amenity plot,Amenity Plot,157,904701.6241226359
+Existing (designated),Amenity plot,Amenity Plot (PT),1,5802.073539425791
+Existing (designated),Education,College,112,865809.8646934333
+Existing (designated),Education,College + Old Age Home,2,13861.646495772453
+Existing (designated),Education,College+ Primary & Secondary School,4,44153.60047146006
+Existing (designated),Education,Municipal School,459,3028071.3776434115
+Existing (designated),Education,Municipal School (PT),4,11602.520480928995
+Existing (designated),Education,Municipal School + Care Centre,1,701.2158577436778
+Existing (designated),Education,Municipal School + Multipurpose Community Centre + Students Hostel + Municipal Chowky,1,187.4336926853186
+Existing (designated),Education,Municipal School + Municipal Dispensary/ Health Post,2,4929.823950914248
+Existing (designated),Education,Municipal School + Municipal Dispensary/ Health Post + Multipurpose Housing for Working Women + Care Centre,1,2452.7770606862464
+Existing (designated),Education,Municipal School + Municipal Dispensary/ Health Post + Police Facilities,1,1583.2216305184559
+Existing (designated),Education,Municipal School + Municipal Office,3,57892.347169622204
+Existing (designated),Education,Municipal School + Old Age Home,1,220.16656040204202
+Existing (designated),Education,Municipal School + Other Education,4,11988.42336174553
+Existing (designated),Education,Municipal School + Play Ground,3,2365.7696665363824
+Existing (designated),Education,Municipal School + Play Ground + Students Hostel,1,1496.81056018035
+Existing (designated),Education,Municipal School + Police Station,1,10042.336960098639
+Existing (designated),Education,Municipal School + Post & Telegraph,1,1945.7350987353657
+Existing (designated),Education,Municipal School + Primary & Secondary School,1,482.07561174152295
+Existing (designated),Education,Municipal School + Special School,2,2106.4285715659794
+Existing (designated),Education,Other Education,55,971056.6261221155
+Existing (designated),Education,Primary & Secondary School,746,5281453.546481711
+Existing (designated),Education,Primary & Secondary School + College,10,34712.443716502166
+Existing (designated),Education,Primary & Secondary School + Municipal Dispensary/ Health Post,2,22508.52875819587
+Existing (designated),Education,Primary & Secondary School + Orphanage,1,8572.994929409884
+Existing (designated),Education,Primary & Secondary School + Other Education,1,35237.66266301747
+Existing (designated),Education,Primary & Secondary School + Play Ground,7,53930.71507584842
+Existing (designated),Education,Primary & Secondary School + Play Ground + Garden/Park,1,9312.951031648332
+Existing (designated),Education,Primary & Secondary School + Public Hall,1,186.73228022973976
+Existing (designated),Education,Primary & Secondary School + Students Hostel,4,9074.421035246745
+Existing (designated),Education,Primary & Secondary School + Welfare Center,3,1392.9963143563537
+Existing (designated),Education,Primary & Secondary School(PT),2,1157.0421767635926
+Existing (designated),Education,Special School,16,86074.66831628192
+Existing (designated),Education,University/IIT,12,131172.32560168474
+Existing (designated),Health,Dispensary,5,12845.357338938324
+Existing (designated),Health,Government Hospital,30,369878.1217804774
+Existing (designated),Health,Government Hospital + Government Staff Quarters,1,2327.1390871366307
+Existing (designated),Health,Government Hospital + Old Age Home,1,6989.53062475313
+Existing (designated),Health,Municipal Dispensary/ Health Post,172,1016816.7148959725
+Existing (designated),Health,Municipal Dispensary/ Health Post (PT),6,25645.53030451774
+Existing (designated),Health,Municipal Dispensary/ Health Post + Care Centre,2,4355.191742990271
+Existing (designated),Health,Municipal Dispensary/ Health Post + Government Office,1,5582.932943978544
+Existing (designated),Health,Municipal Dispensary/ Health Post + Library,8,32307.875633758224
+Existing (designated),Health,Municipal Dispensary/ Health Post + Municipal Chowky + Care Centre + Public Convenience,1,863.4822389351064
+Existing (designated),Health,Municipal Dispensary/ Health Post + Municipal Maternity Home,5,25258.23984252444
+Existing (designated),Health,Municipal Dispensary/ Health Post + Municipal Maternity Home + Care Centre,1,1258.0355073583653
+Existing (designated),Health,Municipal Dispensary/ Health Post + Play Ground,1,410.2653808973038
+Existing (designated),Health,Municipal Dispensary/ Health Post + Primary & Secondary School,2,9370.397405018195
+Existing (designated),Health,Municipal Dispensary/ Health Post + Shopping Center,1,2910.737969751062
+Existing (designated),Health,Municipal Hospital,55,652973.5202241773
+Existing (designated),Health,Municipal Hospital + Amenity Plot,1,1450.6387896704161
+Existing (designated),Health,Municipal Hospital + Municipal Staff Quarters,1,4911.464202635273
+Existing (designated),Health,Municipal Hospital + Other Medical Facilities,2,738.2847722504438
+Existing (designated),Health,Municipal Hospital(PT),1,1498.8699655539367
+Existing (designated),Health,Municipal Maternity Home,49,224392.0025408665
+Existing (designated),Health,Municipal Maternity Home + Electricity Transmission & Distribution Facilities,1,2397.229487239898
+Existing (designated),Health,Municipal Maternity Home + Municipal Dispensary/ Health Post,7,23604.022224318527
+Existing (designated),Health,Municipal Maternity Home + Municipal Dispensary/ Health Post + Library,1,3851.732276045318
+Existing (designated),Health,Municipal Maternity Home + Municipal Dispensary/ Health Post + Municipal Dispensary/ Health Post,1,10313.851108876925
+Existing (designated),Health,Municipal Maternity Home + Municipal Hospital,1,130.50217115622016
+Existing (designated),Health,Municipal Maternity Home + Municipal Market With Vending Zone,1,3327.464423929965
+Existing (designated),Health,Municipal Maternity Home + Municipal Staff Quarters,1,4369.20376138747
+Existing (designated),Health,Municipal Maternity Home(PT),4,4683.075663381504
+Existing (designated),Health,Other Medical Facilities,8,28101.43123831119
+Existing (designated),Health,Private Hospital,84,1178548.8350504553
+Existing (designated),Health,Rehabilitation Center,5,13110.329847752111
+Existing (designated),Health,Rehabilitation Center + Other Social Amenity,1,1288.806198252813
+Existing (designated),Health,Veterinary Hospital,5,12344.010585150254
+Existing (designated),Housing,BEST Staff Quarters,25,160148.20090943365
+Existing (designated),Housing,BEST Staff Quarters + BEST Bus Facilities,3,22608.32227161866
+Existing (designated),Housing,BEST Staff Quarters(PT),1,3802.4408576326914
+Existing (designated),Housing,Government Staff Quarters,337,1885067.3422468372
+Existing (designated),Housing,Government Staff Quarters + Government Office,1,1064.855077421116
+Existing (designated),Housing,Government Staff Quarters + Recreation Ground,1,102.992512909767
+Existing (designated),Housing,Government Staff Quarters + Wireless Station,1,1658.5780606177495
+Existing (designated),Housing,Municipal Housing,130,1084724.3727126014
+Existing (designated),Housing,Municipal Housing (PT) + Municipal Staff Quarters (PT),1,651.3259831158299
+Existing (designated),Housing,Municipal Housing + Care Centre,1,1607.9215955427228
+Existing (designated),Housing,Municipal Housing + Hydraulic Engineering Department Facilities,1,17226.559379280967
+Existing (designated),Housing,Municipal Housing + Municipal Chowky,1,573.3314590325722
+Existing (designated),Housing,Municipal Housing + Municipal Chowky + Adhar Kendra With Skill Development Centre + Care Centre + Homeless Shelter,1,45399.673271031184
+Existing (designated),Housing,Municipal Housing + Municipal Staff Quarters,1,539.668895393914
+Existing (designated),Housing,Municipal Housing + Municipal Staff Quarters + Municipal Dispensary/ Health Post + Disaster Management Facilities + Municipal Chowky,1,154.55940301254304
+Existing (designated),Housing,Municipal Housing(PT),3,17869.615757791507
+Existing (designated),Housing,Municipal Staff Quarters,78,635379.2274351738
+Existing (designated),Housing,Municipal Staff Quarters (PT) + Rehabilitation & Resettlement (PT),1,1373.2000839626407
+Existing (designated),Housing,Municipal Staff Quarters + Multipurpose Housing for Working Women + Care Centre,1,1720.2636894291652
+Existing (designated),Housing,Municipal Staff Quarters + Municipal Dispensary/ Health Post,1,4011.6288578382514
+Existing (designated),Housing,Municipal Staff Quarters + Municipal Dispensary/ Health Post + Care Centre,1,7024.2561711887465
+Existing (designated),Housing,Municipal Staff Quarters + Municipal Housing,8,129757.55160611308
+Existing (designated),Housing,Municipal Staff Quarters + Recreation Ground,1,1388.8856747922878
+Existing (designated),Housing,Municipal Staff Quarters + Solid Waste Management Facilities,1,520.6131547642947
+Existing (designated),Housing,Municipal Staff Quarters(PT),1,2587.6385574694054
+Existing (designated),Housing,Municipal Staff Quarters(PT) + Hospital,1,1280.6668662103764
+Existing (designated),Housing,Police Staff Quarters,59,289894.13958062354
+Existing (designated),Housing,Rehabilitation & Resettlement,379,2544681.600585991
+Existing (designated),Housing,Rehabilitation & Resettlement + Municipal Staff Quarters,4,4232.514587089642
+Existing (designated),Housing,Rehabilitation & Resettlement + Retail Market,1,562.6251149300174
+Existing (designated),Housing,Rehabilitation & Resettlement(PT),3,9361.907389059395
+Existing (designated),Municipal services,Asphalt Plant,1,187.1877843256902
+Existing (designated),Municipal services,Hydraulic Engineering Department Facilities,12,79026.57094707573
+Existing (designated),Municipal services,Hydraulic Engineering Department Facilities + Municipal Chowky + Care Centre,1,438.31155950479
+Existing (designated),Municipal services,Hydraulic Engineering Department Facilities + Transport Garage,1,2979.2803329823496
+Existing (designated),Municipal services,Landfill Sites,2,11733.33656661374
+Existing (designated),Municipal services,Landfill Sites + Garden/ Park,3,5462.513508006041
+Existing (designated),Municipal services,Municipal Chowky,75,616807.9621601722
+Existing (designated),Municipal services,Municipal Chowky (PT),7,19465.513664155038
+Existing (designated),Municipal services,Municipal Chowky + Municipal Staff Quarters,1,15760.630952936704
+Existing (designated),Municipal services,Municipal Chowky + Other Social Amenity,2,743.3804890172659
+Existing (designated),Municipal services,Municipal Chowky + Play Ground,1,68.8875301530596
+Existing (designated),Municipal services,Municipal Chowky + Public Convenience,1,1448.852748947877
+Existing (designated),Municipal services,Municipal Chowky + Water Pumping Station,1,3145.445731514776
+Existing (designated),Municipal services,Municipal Facilities,12,77569.48873311191
+Existing (designated),Municipal services,Municipal Facilities(PT),1,515.5098244761058
+Existing (designated),Municipal services,Municipal Laundary,1,1300.147335969586
+Existing (designated),Municipal services,Municipal Workshop,1,3563.7022517146747
+Existing (designated),Municipal services,Reservoir,20,77739.52124039481
+Existing (designated),Municipal services,Reservoir + Garden/Park,2,1045.9223415139109
+Existing (designated),Municipal services,Reservoir + Municipal Staff Quarters,5,34383.12910806338
+Existing (designated),Municipal services,Reservoir + Water Pumping Station + Municipal Staff Quarters,1,809.1502678068316
+Existing (designated),Municipal services,Reservoir + Water Pumping Station + Water Treatment Plant + Municipal Staff Quarters + Municipal Dispensary/ Health Post + Care Centre,2,14290.0013846138
+Existing (designated),Municipal services,Road Depot,15,379536.8083751878
+Existing (designated),Municipal services,Road Depot + Adhar Kendra With Skill Development Centre + Hydraulic Engineering Department Facilities,1,6218.292824018526
+Existing (designated),Municipal services,Road Depot + Municipal Chowky,3,8973.310774051592
+Existing (designated),Municipal services,Road Depot + Public Convenience,1,1038.853535211733
+Existing (designated),Municipal services,Road Depot(PT),3,21915.461822381007
+Existing (designated),Municipal services,Sewage Pumping Station,41,388242.529168337
+Existing (designated),Municipal services,Sewage Pumping Station + Electricity Transmission & Distribution Facilities,1,1827.8083492332921
+Existing (designated),Municipal services,Sewage Pumping Station + Municipal Dispensary/ Health Post,1,3027.096541015918
+Existing (designated),Municipal services,Sewage Pumping Station + Sewage Treatment Plant / Facilities,1,544.0438854513759
+Existing (designated),Municipal services,Sewage Pumping Station + Storm Water Pumping Station,1,404.80525555793923
+Existing (designated),Municipal services,Sewage Treatment Plant / Facilities,20,286363.181268121
+Existing (designated),Municipal services,Sewage Treatment Plant / Facilities + Disaster Management Facilities + Hydraulic Engineering Department Facilities,1,6654.248273269798
+Existing (designated),Municipal services,Sewage Treatment Plant / Facilities + Solid Waste Management Facilities,1,14386.10407017852
+Existing (designated),Municipal services,Solid Waste Management Facilities,15,111719.55029202065
+Existing (designated),Municipal services,Storm Water Pumping Station,2,1360.2441286257613
+Existing (designated),Municipal services,Storm Water Pumping Station + Sewage Pumping Station,1,392.2629244161003
+Existing (designated),Municipal services,Transport Garage,21,178763.1601593641
+Existing (designated),Municipal services,Transport Garage + Municipal Chowky,1,1264.1036457952762
+Existing (designated),Municipal services,Transport Garage + Municipal Office,1,1370.709445219171
+Existing (designated),Municipal services,Transport Garage + Municipal Staff Quarters,1,730.3311697154429
+Existing (designated),Municipal services,Transport Garage + Solid Waste Management Facilities,1,2693.1096276884373
+Existing (designated),Municipal services,Water Pumping Station,21,182222.93605020165
+Existing (designated),Municipal services,Water Pumping Station + Reservoir,1,411.9977177076606
+Existing (designated),Municipal services,Water Pumping Station + Water Treatment Plant,2,7221.390843506337
+Existing (designated),Municipal services,Water Treatment Plant,9,23398.911681949558
+Existing (designated),Municipal services,Water Trunk Main/Acquaduct,49,199569.37632343636
+Existing (designated),Municipal services,Water Trunk Main/Acquaduct + Garden/Park,1,8878.445931790722
+Existing (designated),Open space,Beach,17,104340.64119296438
+Existing (designated),Open space,Club/Gymkhana,50,175806.497094513
+Existing (designated),Open space,Club/Gymkhana + Library,1,2327.1468690462393
+Existing (designated),Open space,Club/Gymkhana + Recreation Ground,1,327.07528195941086
+Existing (designated),Open space,Club/Gymkhana(PT),1,716.1742579560953
+Existing (designated),Open space,Garden/Park,472,3218732.948629046
+Existing (designated),Open space,Garden/Park + Municipal Chowky,1,16569.95755529214
+Existing (designated),Open space,Garden/Park + Municipal Facilities,1,2588.3119758183334
+Existing (designated),Open space,Garden/Park + Reservoir,1,165.12514327401578
+Existing (designated),Open space,Garden/Park + Sewage Treatment Plant / Facilities,1,7570.607108232352
+Existing (designated),Open space,Garden/Park + Welfare Center,1,6642.583668539704
+Existing (designated),Open space,Garden/Park + Zoo,1,10943.422157944606
+Existing (designated),Open space,Green Belt,28,314963.32199364185
+Existing (designated),Open space,Green Belt + Municipal Sports Complex,1,35584.49563597595
+Existing (designated),Open space,Green Belt + Water Pumping Station,1,817.1793773391184
+Existing (designated),Open space,Municipal Sports Complex,5,10357.984491882627
+Existing (designated),Open space,Play Ground,842,6810578.434320968
+Existing (designated),Open space,Play Ground (PT) + Private Hospital (PT),1,13873.26030509865
+Existing (designated),Open space,Play Ground + Club/Gymkhana,1,771.2845058905597
+Existing (designated),Open space,Play Ground + College,1,2833.949245988266
+Existing (designated),Open space,Play Ground + Garden/Park,1,3616.688768271841
+Existing (designated),Open space,Play Ground + Municipal Dispensary/ Health Post,1,3424.3387252747657
+Existing (designated),Open space,Play Ground + Municipal Office + Municipal Office + Disaster Management Facilities,1,162.1017388793554
+Existing (designated),Open space,Play Ground + Public Convenience,2,2437.212385576059
+Existing (designated),Open space,Play Ground + Recreation Ground,1,6926.54787505095
+Existing (designated),Open space,Play Ground + Sports Complex/ Stadium + Parking Lot + Shopping Center,1,1194.831839355287
+Existing (designated),Open space,Play Ground + Students Hostel,1,761.7470015527442
+Existing (designated),Open space,Play Ground + Tank/Pond/Lake,1,1316.0933267536584
+Existing (designated),Open space,Play Ground(PT),1,6130.69812071052
+Existing (designated),Open space,Promenade,12,26040.631397777503
+Existing (designated),Open space,Recreation Ground,711,7342724.16901503
+Existing (designated),Open space,Recreation Ground + Club/Gymkhana,2,5199.846599986284
+Existing (designated),Open space,Recreation Ground + Electricity Transmission & Distribution Facilities,1,4821.177544264382
+Existing (designated),Open space,Recreation Ground + Fuel Station,1,1138.3764454656027
+Existing (designated),Open space,Recreation Ground + Hydraulic Engineering Department Facilities,1,128.1248893287833
+Existing (designated),Open space,Recreation Ground + Municipal Chowky + Solid Waste Management Facilities,1,919.434423925543
+Existing (designated),Open space,Recreation Ground + OFFICE,1,9704.877046317984
+Existing (designated),Open space,Recreation Ground + Play Ground,1,258.3156983801985
+Existing (designated),Open space,Recreation Ground + Sewage Pumping Station,1,61.363359530372804
+Existing (designated),Open space,Recreation Ground + Swimming Pool,1,417.2382506526509
+Existing (designated),Open space,Recreation Ground + Welfare Center,1,7035.822060263876
+Existing (designated),Open space,Recreation Ground(PT),1,911.5572382133709
+Existing (designated),Open space,Sports Complex/ Stadium,13,88563.04917314494
+Existing (designated),Open space,Sports Complex/ Stadium + Play Ground,1,753.0634752740082
+Existing (designated),Open space,Swimming Pool,6,15901.28951615342
+Existing (designated),Open space,Swimming Pool + Club/Gymkhana,1,2440.2020155195964
+Existing (designated),Open space,Tank/Pond/Lake,66,725421.4518757298
+Existing (designated),Open space,Tank/Pond/Lake + Garden/Park,1,2774.8292101115085
+Existing (designated),Open space,Tank/Pond/Lake + Recreation Ground,2,5187.691812031811
+Existing (designated),Primary activity,Cattle Pound/ Dairy,1,6431.390124855135
+Existing (designated),Primary activity,Dairy,3,8439.840435287852
+Existing (designated),Primary activity,Dhobi Ghat,7,14810.61481488234
+Existing (designated),Primary activity,Fish & Net Drying Yard,23,431715.09264775546
+Existing (designated),Primary activity,Fish & Net Drying Yard + Composite Cemetery,1,1493.4612432192855
+Existing (designated),Primary activity,Fish Cold Storage/Godown/ Fishing Related Industries,14,76936.78311574845
+Existing (designated),Primary activity,Fish Cold Storage/Godown/ Fishing Related Industries(PT),2,1050.4596212019264
+Existing (designated),Public offices,Government Office,184,914220.3016931538
+Existing (designated),Public offices,Government Office + Disaster Management Facilities,1,1205.2238756040883
+Existing (designated),Public offices,Government Office + Government Staff Quarters,3,14500.075158001233
+Existing (designated),Public offices,Municipal Octroi Naka,7,244284.01980342524
+Existing (designated),Public offices,Municipal Octroi Naka + Truck Terminus,1,2724.6321967050776
+Existing (designated),Public offices,Municipal Office,51,281869.90265494876
+Existing (designated),Public offices,Municipal Office + Care Centre,1,296.095578693827
+Existing (designated),Public offices,Municipal Office + Hydraulic Engineering Department Facilities,1,134280.47273005635
+Existing (designated),Public offices,Municipal Office + Municipal Chowky,1,2456.161619114725
+Existing (designated),Public offices,Municipal Office + Municipal Dispensary/ Health Post,2,3281.957015292808
+Existing (designated),Public offices,Municipal Office + Municipal Printing Press + Hydraulic Engineering Department Facilities + Disaster Management Facilities,1,4714.174378893964
+Existing (designated),Public offices,Municipal Office + Municipal School,1,208.32885140606254
+Existing (designated),Public offices,Municipal Office + Municipal Staff Quarters,2,22870.84659288501
+Existing (designated),Public offices,Municipal Office + Parking Lot + Electricity Transmission & Distribution Facilities,1,831.1575761130322
+Existing (designated),Public offices,Municipal Office + Road Depot + Disaster Management Facilities,1,271.09514260915176
+Existing (designated),Public offices,Municipal Office + Solid Waste Management Facilities,1,35619.84939046183
+Existing (designated),Public offices,Municipal Office(PT),1,2032.1768222410963
+Existing (designated),Public offices,Municipal Printing Press + Municipal Dispensary/ Health Post + Municipal Maternity Home,1,870.6852095818368
+Existing (designated),Public offices,Other Public Offices,5,31514.47922821734
+Existing (designated),Public utilities,Correction Facilities,4,12551.552969645343
+Existing (designated),Public utilities,Court,16,814126.6863953664
+Existing (designated),Public utilities,Court + Government Office,3,17106.022782505228
+Existing (designated),Public utilities,Court + Municipal School,1,1687.8650332227057
+Existing (designated),Public utilities,Court + Police Station,1,2476.04273122071
+Existing (designated),Public utilities,Court + Shopping Center,1,6733.892847488309
+Existing (designated),Public utilities,Electric Power Plant,2,14247.660264247417
+Existing (designated),Public utilities,Electricity Transmission & Distribution Facilities,150,2354819.222589544
+Existing (designated),Public utilities,Electricity Transmission & Distribution Facilities + BEST Bus Facilities,1,324.3311108042908
+Existing (designated),Public utilities,Electricity Transmission & Distribution Facilities + BEST Staff Quarters,2,10591.548620295329
+Existing (designated),Public utilities,Electricity Transmission & Distribution Facilities + Other Education,1,31292.6954592067
+Existing (designated),Public utilities,Electricity Transmission & Distribution Facilities + Other Social Amenity,1,3006.1266502427075
+Existing (designated),Public utilities,Electricity Transmission & Distribution Facilities + Play Ground,1,10297.605440412537
+Existing (designated),Public utilities,Electricity Transmission & Distribution Facilities + Play Ground + Municipal Chowky,1,1935.982265693283
+Existing (designated),Public utilities,Fire Station/ Command Center,31,117663.60987850526
+Existing (designated),Public utilities,Fire Station/ Command Center + Municipal Staff Quarters,1,5897.390720297536
+Existing (designated),Public utilities,Fire Station/ Command Center(PT),2,7231.076610458574
+Existing (designated),Public utilities,Fuel Station,226,2250141.014238248
+Existing (designated),Public utilities,Fuel Station + Best Bus Facilities,1,625.7443318713738
+Existing (designated),Public utilities,Police Chowky,62,395755.73575655196
+Existing (designated),Public utilities,Police Chowky + Police Staff Quarters,1,1000.025571351939
+Existing (designated),Public utilities,Police Chowky(PT),1,13876.558572589329
+Existing (designated),Public utilities,Police Facilities,38,108001.22090248557
+Existing (designated),Public utilities,Police Station,68,377801.09926090506
+Existing (designated),Public utilities,Police Station + Court,1,2117.5495335213586
+Existing (designated),Public utilities,Police Station + Fire Station/ Command Center,1,85980.33932980859
+Existing (designated),Public utilities,Police Station + Government Staff Quarters,13,82484.1417870837
+Existing (designated),Public utilities,Police Station + Municipal Chowky,1,13615.24245319946
+Existing (designated),Public utilities,Police Station + Police Facilities,1,2282.263545237049
+Existing (designated),Public utilities,Post & Telegraph,95,474996.2673066492
+Existing (designated),Public utilities,Post & Telegraph (PT),7,22178.3534006708
+Existing (designated),Public utilities,Radio Transmission,7,9092.861527858035
+Existing (designated),Public utilities,Service Industrial Estate,39,257457.97094444864
+Existing (designated),Public utilities,Service Industrial Estate + Municipal Dispensary/ Health Post,1,156092.4237627227
+Existing (designated),Public utilities,Telephone Exchange,64,1283789.5712147271
+Existing (designated),Public utilities,Telephone Exchange + Government Staff Quarters,1,4778.194820001012
+Existing (designated),Public utilities,Television Station,1,783.2356536044605
+Existing (designated),Public utilities,Wireless Station,1,22871.316960027474
+Existing (designated),Social amenities,Abattoir,2,4703.272464483876
+Existing (designated),Social amenities,Aquarium,2,8922.842359793993
+Existing (designated),Social amenities,Art Gallery,3,1064.4369619077172
+Existing (designated),Social amenities,Auditorium,4,5308.640277249133
+Existing (designated),Social amenities,Auditorium(PT),1,357.3062351479625
+Existing (designated),Social amenities,Beggars Home,3,36748.023860490764
+Existing (designated),Social amenities,Cemetery Others,6,67531.5297586844
+Existing (designated),Social amenities,Children's Home,8,32601.329566779907
+Existing (designated),Social amenities,Christian Cemetery,31,113912.51682475209
+Existing (designated),Social amenities,Cinema Theatre,115,684809.196744984
+Existing (designated),Social amenities,Cinema Theatre(PT),5,6687.697672476999
+Existing (designated),Social amenities,Composite Cemetery,14,269699.1078686896
+Existing (designated),Social amenities,Drama Theatre,14,34609.81669332965
+Existing (designated),Social amenities,Film/ TV Studio,1,1750.9290120161643
+Existing (designated),Social amenities,Hindu Traditional / Electric Cemetery,55,939690.1514554417
+Existing (designated),Social amenities,Hindu Traditional / Electric Cemetery + Buddhist Cemetery,1,68847.03792305783
+Existing (designated),Social amenities,Hindu Traditional / Electric Cemetery + Municipal Facilities + Public Convenience,1,1180.2896303235382
+Existing (designated),Social amenities,Hindu Traditional / Electric Cemetery + TEMPLE,1,3642.806749274808
+Existing (designated),Social amenities,Homeless Shelter,2,7301.262483164001
+Existing (designated),Social amenities,Jewish Cemetery,4,24228.376024044475
+Existing (designated),Social amenities,Library,24,63949.65267432749
+Existing (designated),Social amenities,Library (PT),9,61611.16481308759
+Existing (designated),Social amenities,Library (PT) + Municipal Dispensary/ Health Post (PT),2,4096.418534424685
+Existing (designated),Social amenities,Library (PT) + Retail Market (PT) + Municipal Dispensary/ Health Post (PT),1,3251.891662805353
+Existing (designated),Social amenities,Library + Municipal Dispensary/ Health Post,3,7198.473558256779
+Existing (designated),Social amenities,Library + Play Ground + Government Staff Quarters,1,6933.825883826932
+Existing (designated),Social amenities,Library + Public Hall,1,1092.9257462946453
+Existing (designated),Social amenities,Library + Welfare Center,4,9812.883400758159
+Existing (designated),Social amenities,Municipal Retail Market,90,359097.0737968457
+Existing (designated),Social amenities,Municipal Retail Market (PT),9,37796.940154291966
+Existing (designated),Social amenities,Municipal Retail Market (PT) + Drama Theatre (PT),1,1655.120085114754
+Existing (designated),Social amenities,Municipal Retail Market (PT) + Homeless Shelter,1,2083.0618702402553
+Existing (designated),Social amenities,Municipal Retail Market (PT) + Municipal Facilities,1,3252.190886846665
+Existing (designated),Social amenities,Municipal Retail Market (PT) + Municipal Housing (PT),1,349.75378219759017
+Existing (designated),Social amenities,Municipal Retail Market (PT) + Municipal Office (PT),1,8239.792095837076
+Existing (designated),Social amenities,Municipal Retail Market + Adhar Kendra With Skill Development Centre,1,70.11391882629526
+Existing (designated),Social amenities,Municipal Retail Market + Adhar Kendra With Skill Development Centre + Homeless Shelter,1,3492.04792358244
+Existing (designated),Social amenities,Municipal Retail Market + Care Centre,1,53.80532398428948
+Existing (designated),Social amenities,Municipal Retail Market + Care Centre + Public Convenience,1,906.4832218217527
+Existing (designated),Social amenities,Municipal Retail Market + Court,1,1027.3964099527893
+Existing (designated),Social amenities,Municipal Retail Market + Drama Theatre,1,1447.8988537861644
+Existing (designated),Social amenities,Municipal Retail Market + Homeless Shelter,10,25292.402537299666
+Existing (designated),Social amenities,Municipal Retail Market + Multipurpose Community Centre + Care Centre,1,1535.676151495449
+Existing (designated),Social amenities,Municipal Retail Market + Municipal Housing,2,2324.294852457465
+Existing (designated),Social amenities,Municipal Retail Market + Municipal Market With Vending Zone,4,23205.771160911878
+Existing (designated),Social amenities,Municipal Retail Market + Municipal Market With Vending Zone + Cultural Centre/Drama Theatre/ Theatre,1,2830.650776089684
+Existing (designated),Social amenities,Municipal Retail Market + Municipal Office,4,12482.800551431143
+Existing (designated),Social amenities,Municipal Retail Market + Municipal Office + Disaster Management Facilities + Solid Waste Management Facilities,1,3071.430878621968
+Existing (designated),Social amenities,Municipal Retail Market + Municipal Office + Homeless Shelter,1,2006.7606048096932
+Existing (designated),Social amenities,Municipal Retail Market + Municipal School + Municipal Staff Quarters,1,1330.9980410277033
+Existing (designated),Social amenities,Municipal Retail Market + Municipal Staff Quarters,6,22848.87022883382
+Existing (designated),Social amenities,Municipal Retail Market + Other Social Amenity,1,961.6002205028482
+Existing (designated),Social amenities,Municipal Retail Market + Public Parking Lot,1,12055.181225126516
+Existing (designated),Social amenities,Municipal Retail Market + Rehabilitation & Resettlement,2,31208.40628090002
+Existing (designated),Social amenities,Municipal Retail Market + Retail Market,1,42950.64379171799
+Existing (designated),Social amenities,Municipal Retail Market + Solid Waste Management Facilities,1,180.98149316595396
+Existing (designated),Social amenities,Municipal Retail Market + Students Hostel,1,6739.285589310255
+Existing (designated),Social amenities,Municipal Retail Market + Students Hostel + Public Convenience,1,734.1920337159944
+Existing (designated),Social amenities,Municipal Retail Market + Wholesale Market,1,5516.0768010975635
+Existing (designated),Social amenities,Museum,5,107907.09297699742
+Existing (designated),Social amenities,Muslim Cemetery,46,397174.9210354048
+Existing (designated),Social amenities,Old Age Home,4,27332.288871227673
+Existing (designated),Social amenities,Open Air Theatre,2,13652.520183275508
+Existing (designated),Social amenities,Orphanage,4,29483.970117531662
+Existing (designated),Social amenities,Orphanage + Multipurpose Community Centre + Care Centre,1,7517.243895247411
+Existing (designated),Social amenities,Orphanage + Primary & Secondary School,1,1055.602361490417
+Existing (designated),Social amenities,Other Social Amenity,13,49835.36719184811
+Existing (designated),Social amenities,Planetarium,1,11553.83825161189
+Existing (designated),Social amenities,Public Hall,74,1356024.440233749
+Existing (designated),Social amenities,Public Hall (PT) + Club/Gymkhana (PT) + (PT)Primary & Secondary School,1,1633.384170415037
+Existing (designated),Social amenities,Public Hall + Library,1,1078.5674906798795
+Existing (designated),Social amenities,Public Hall + Library + Other Education,1,6364.254580363008
+Existing (designated),Social amenities,Public Hall + Old Age Home + Care Centre,1,1574.9228775039082
+Existing (designated),Social amenities,Public Hall + Other Education,1,2566.2522724019727
+Existing (designated),Social amenities,Public Hall + Primary & Secondary School,1,65313.55168763634
+Existing (designated),Social amenities,Public Hall + Students Hostel,1,104.1427417551032
+Existing (designated),Social amenities,Public Hall + Students Hostel + Other Social Amenity,1,183.2503225135444
+Existing (designated),Social amenities,Retail Market,29,125154.81039349924
+Existing (designated),Social amenities,Retail Market (PT),10,64134.34490276361
+Existing (designated),Social amenities,Retail Market (PT) + Care Centre + Public Convenience,1,2171.5196082749644
+Existing (designated),Social amenities,Retail Market (PT) + Municipal Market With Vending Zone,1,1282.6111710050093
+Existing (designated),Social amenities,Retail Market + Care Centre + Public Convenience,1,813.6020110243579
+Existing (designated),Social amenities,Retail Market + Municipal Market With Vending Zone,1,378.9600899413748
+Existing (designated),Social amenities,Retail Market + Municipal Office,1,580.0507052609399
+Existing (designated),Social amenities,Retail Market + Parking Lot,1,3219447.429550571
+Existing (designated),Social amenities,Retail Market + Rehabilitation & Resettlement,1,38277.424736743465
+Existing (designated),Social amenities,Retail Market + Retail Market With Vending Zone,1,4635.44482447441
+Existing (designated),Social amenities,Retail Market + Solid Waste Management Facilities,1,2778.4931987520486
+Existing (designated),Social amenities,Shopping Center,14,99905.2185367482
+Existing (designated),Social amenities,Shopping Center + Municipal Hospital,1,22984.61014383718
+Existing (designated),Social amenities,Shopping Center + Public Hall,1,2199.201544364404
+Existing (designated),Social amenities,Shopping Center + Rehabilitation & Resettlement,1,1826.7620335716254
+Existing (designated),Social amenities,Shopping Center(PT),4,16203.281560486572
+Existing (designated),Social amenities,Students Hostel,9,62409.67249862868
+Existing (designated),Social amenities,Students Hostel + Public Hall,1,1332.20137324408
+Existing (designated),Social amenities,Tower of Silence,1,235.36826559760448
+Existing (designated),Social amenities,Welfare Center,82,516846.603675162
+Existing (designated),Social amenities,Welfare Center (PT),9,15412.315462815668
+Existing (designated),Social amenities,Welfare Center (PT) + Adhar Kendra With Skill Development Centre,1,2151.5437310088846
+Existing (designated),Social amenities,Welfare Center (PT) + Library (PT),2,4419.000554294635
+Existing (designated),Social amenities,Welfare Center (PT) + Municipal Dispensary/ Health Post (PT) + Library (PT),1,1915.717650772014
+Existing (designated),Social amenities,Welfare Center + Adhar Kendra With Skill Development Centre + Care Centre,3,13724.464084232333
+Existing (designated),Social amenities,Welfare Center + Care Centre,5,26565.895781090363
+Existing (designated),Social amenities,Welfare Center + Garden/Park,1,2555.2442393825972
+Existing (designated),Social amenities,Welfare Center + Homeless Shelter,1,1084.8667337016207
+Existing (designated),Social amenities,Welfare Center + Library,2,4312.171925680852
+Existing (designated),Social amenities,Welfare Center + Library + Municipal Dispensary/ Health Post,1,2153.6944235399683
+Existing (designated),Social amenities,Welfare Center + Multipurpose Housing for Working Women + Care Centre,1,29300.965271464614
+Existing (designated),Social amenities,Welfare Center + Other Education + Cultural Centre/Drama Theatre/ Theatre,1,4783.447009852072
+Existing (designated),Social amenities,Welfare Center + Primary & Secondary School,1,247.51577068168731
+Existing (designated),Social amenities,Welfare Center + Public Convenience,1,1269.4207183605913
+Existing (designated),Social amenities,Welfare Center + Students Hostel,1,2247.3855977872463
+Existing (designated),Social amenities,Wholesale Market + Municipal Market With Vending Zone,1,11715.885907331049
+Existing (designated),Social amenities,Women Hostel,5,14476.730160013407
+Existing (designated),Social amenities,Women Hostel + Adhar Kendra With Skill Development Centre,1,5326.174623951998
+Existing (designated),Social amenities,Women Hostel + Adhar Kendra With Skill Development Centre + Care Centre,1,3650.5112711269035
+Existing (designated),Social amenities,Women Hostel + Care Centre,2,1956.883834736101
+Existing (designated),Transport,Airport/Heliport,32,387981.89500866865
+Existing (designated),Transport,BEST Bus Facilities,79,480588.7802455779
+Existing (designated),Transport,BEST Bus Facilities + BEST Staff Quarters,6,25603.3582625266
+Existing (designated),Transport,BEST Bus Facilities + Public Convenience,1,42709.37185239689
+Existing (designated),Transport,BEST Bus Facilities(PT),1,1988.0243282231236
+Existing (designated),Transport,BEST Bus Station,2,4833.534979660279
+Existing (designated),Transport,Jetty,2,54750.81763018145
+Existing (designated),Transport,Metro/Mono Rail Carshed,2,831236.2690923451
+Existing (designated),Transport,Parking Lot,45,252667.47804887054
+Existing (designated),Transport,Parking Lot (PT) + Municipal Retail Market (PT),1,4338.036612466664
+Existing (designated),Transport,Parking Lot + Municipal Retail Market (PT) + Electricity Transmission & Distribution Facilities (PT),1,2384.220385415569
+Existing (designated),Transport,Parking Lot + Other Social Amenity,1,1247.2150468004777
+Existing (designated),Transport,Parking Lot + Public Convenience,1,2438.1569305906114
+Existing (designated),Transport,Parking Lot + Public Parking Lot,1,229.26357137755457
+Existing (designated),Transport,Public Parking Lot,57,263833.1182641248
+Existing (designated),Transport,Public Parking Lot + Amenity Plot,2,356.1395595409708
+Existing (designated),Transport,Public Parking Lot + Service Industrial Estate,1,203.28682021257146
+Existing (designated),Transport,Railway Facilities Including Tracks,105,3075559.347232664
+Existing (designated),Transport,Railway Station,52,278681.12827958114
+Existing (designated),Transport,Railway Terminus,12,47171.282995776906
+Existing (designated),Transport,Regional Transport Office,4,50147.425167596215
+Existing (designated),Transport,State Transport Depot,6,60562.08644914322
+Existing (designated),Transport,Truck Terminus,6,25141.01116805096
+Existing (designated),Transport,Truck Terminus + Municipal Octroi Naka,1,35338.3686459175
+Existing (designated),Transport,Water Transport Terminal,8,120793.9743909232
+Planned (reserved),Amenity plot,Amenity Plot,46,267249.4213619878
+Planned (reserved),Education,Higher Education,18,66208.98326362335
+Planned (reserved),Education,Medical Institute,2,4229.097453211493
+Planned (reserved),Education,Municipal School,455,2344907.829719655
+Planned (reserved),Education,Municipal School + Care Centre,1,1651.218630862331
+Planned (reserved),Education,Municipal School + Disaster Management Facilities,1,3666.3370270692785
+Planned (reserved),Education,Municipal School + Multipurpose Community Centre,1,3793.530725867626
+Planned (reserved),Education,Municipal School + Multipurpose Housing for Working Women + Care Centre + Multipurpose Community Centre + Solid Waste Management Facilities,1,339.7968547421754
+Planned (reserved),Education,Municipal School + Municipal Dispensary/ Health Post + Care Centre,1,1990.700138344331
+Planned (reserved),Education,Municipal School + Municipal Staff Quarters,1,1710.1917496248489
+Planned (reserved),Education,Municipal School + Play Ground,10,28203.787875834914
+Planned (reserved),Education,Municipal School + Play Ground + Municipal Dispensary/ Health Post,1,931.4512203140886
+Planned (reserved),Education,Municipal School + Play Ground + Solid Waste Management Facilities,1,2996.338096589717
+Planned (reserved),Education,Municipal School + Primary/ Secondary School,1,4507.660281650257
+Planned (reserved),Education,Municipal School + Public Convenience,1,5821.387985664772
+Planned (reserved),Education,Municipal School + Solid Waste Management Facilities,1,2852.097953312865
+Planned (reserved),Education,Municipal School + Students Hostel,1,1807.0284465880734
+Planned (reserved),Education,Other Education,17,63387.765324983186
+Planned (reserved),Education,Other Education + Students Hostel,3,11208.018768242993
+Planned (reserved),Education,Other Institute,8,178675.02319394378
+Planned (reserved),Education,Other Institute + Cultural Centre/Drama Theatre/ Theatre,1,2760.1589265559815
+Planned (reserved),Education,Primary/ Secondary School,216,943888.0223293488
+Planned (reserved),Education,Primary/ Secondary School + Higher Education,2,30637.43322079194
+Planned (reserved),Education,Primary/ Secondary School + Municipal Chowky,1,4877.758291861156
+Planned (reserved),Education,Primary/ Secondary School + Play Ground,2,3201.12321203863
+Planned (reserved),Education,Primary/ Secondary School + Students Hostel,1,2690.0938264292427
+Planned (reserved),Education,Special School,2,3949.9055364877377
+Planned (reserved),Education,Urban Planning Institute,1,4193.391110909117
+Planned (reserved),Health,Hospital,116,884704.3644254036
+Planned (reserved),Health,Hospital + Medical Institute,1,313.59619483228573
+Planned (reserved),Health,Municipal Dispensary/ Health Post,94,407496.2496035906
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Adhar Kendra With Skill Development Centre + Care Centre,1,1476.4757832120163
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Care Centre,4,10461.94522594702
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Hospital,1,1058.6225720609818
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Multipurpose Community Centre,1,254.89161110787427
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Municipal Chowky,2,17844.698917343845
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Municipal Maternity Home,4,3611.226668345931
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Municipal Maternity Home + Multipurpose Community Centre,1,1073.7531955583274
+Planned (reserved),Health,Municipal Dispensary/ Health Post + Rehabilitation & Resettlement,2,1490.8074159724695
+Planned (reserved),Health,Municipal Maternity Home,62,378735.6743053848
+Planned (reserved),Health,Municipal Maternity Home + Municipal Dispensary/ Health Post,9,73019.39355717678
+Planned (reserved),Health,Municipal Maternity Home + Municipal Staff Quarters,1,172.57440170593983
+Planned (reserved),Housing,Affordable Housing,105,638870.9447954618
+Planned (reserved),Housing,Government Housing,10,134788.48231705473
+Planned (reserved),Housing,Government Staff Quarters,14,59226.160502163475
+Planned (reserved),Housing,Koli Housing,7,47679.55988949692
+Planned (reserved),Housing,Municipal Housing,18,133460.10692378675
+Planned (reserved),Housing,Municipal Housing + Municipal Dispensary/ Health Post,1,2039.2387084259365
+Planned (reserved),Housing,Municipal Staff Quarters,25,156177.16425067495
+Planned (reserved),Housing,Municipal Staff Quarters + Care Centre,1,751.4180951489268
+Planned (reserved),Housing,Municipal Staff Quarters + Garden/ Park,1,1732.1064194919795
+Planned (reserved),Housing,Municipal Staff Quarters + Municipal Office,1,2206.425696408602
+Planned (reserved),Housing,Police Housing,1,5119.228649286451
+Planned (reserved),Housing,Police Staff Quarters,7,69787.99682684265
+Planned (reserved),Housing,Rehabilitation & Resettlement,646,4021714.3014083994
+Planned (reserved),Housing,Rehabilitation & Resettlement + Care Centre,1,2882.362446080514
+Planned (reserved),Housing,Rehabilitation & Resettlement + Disaster Management Facilities + Municipal Facilities + Scrap Yard + Public Convenience + Solid Waste Management Facilities,1,549.696287492421
+Planned (reserved),Housing,Rehabilitation & Resettlement + Homeless Shelter,1,3689.6118743898205
+Planned (reserved),Housing,Rehabilitation & Resettlement + Multipurpose Community Centre,1,6728.108796305625
+Planned (reserved),Housing,Rehabilitation & Resettlement + Municipal School,1,10502.657184137559
+Planned (reserved),Housing,Rehabilitation & Resettlement + Municipal School + Play Ground,1,1924.8888836043984
+Planned (reserved),Housing,Rehabilitation & Resettlement + Retail Market With Vending Zone,6,11155.355989778976
+Planned (reserved),Housing,Service Industrial Estate,1,13320.999522882248
+Planned (reserved),Municipal services,Hydraulic Engineering Department Facilities,6,28646.728696747105
+Planned (reserved),Municipal services,Hydraulic Engineering Department Facilities + Care Centre + Solid Waste Management Facilities,1,23556.21670787097
+Planned (reserved),Municipal services,Hydraulic Engineering Department Facilities + Disaster Management Facilities,1,13838.353011015111
+Planned (reserved),Municipal services,Municipal Chowky,52,165328.62886487573
+Planned (reserved),Municipal services,Municipal Chowky + Hydraulic Engineering Department Facilities,1,453.25200141752475
+Planned (reserved),Municipal services,Municipal Chowky + Municipal Facilities,1,1476.1061838492087
+Planned (reserved),Municipal services,Municipal Chowky + Solid Waste Management Facilities,1,2441.8078659372277
+Planned (reserved),Municipal services,Municipal Facilities,36,402934.85624089226
+Planned (reserved),Municipal services,Municipal Facilities + Municipal Staff Quarters,2,3047.721479902437
+Planned (reserved),Municipal services,Municipal Facilities + Parking Lot,1,2693.5594855141635
+Planned (reserved),Municipal services,Municipal Facilities + Public Convenience,3,8024.277894378408
+Planned (reserved),Municipal services,Municipal Facilities + Solid Waste Management Facilities + Municipal Chowky,1,25233.97145217302
+Planned (reserved),Municipal services,Reservoir,5,14211.285930748076
+Planned (reserved),Municipal services,Road Depot,32,134665.50204710106
+Planned (reserved),Municipal services,Road Depot + Municipal Chowky,3,12045.431599623895
+Planned (reserved),Municipal services,Road Depot + Municipal Staff Quarters,1,829.8363614877314
+Planned (reserved),Municipal services,Scrap Yard,2,161336.13459948963
+Planned (reserved),Municipal services,Scrap Yard + Public Convenience,2,20633.407516613013
+Planned (reserved),Municipal services,Sewage Pumping Station,7,58599.70574176224
+Planned (reserved),Municipal services,Sewage Treatment Plant /Facilities,13,246851.19201756007
+Planned (reserved),Municipal services,Sewage Treatment Plant /Facilities + Hydraulic Engineering Department Facilities,1,12197.558674294056
+Planned (reserved),Municipal services,Sewage Treatment Plant /Facilities + Sewage Pumping Station,1,22636.561528599086
+Planned (reserved),Municipal services,Sewage Treatment Plant /Facilities + Solid Waste Management Facilities,2,4125.528233337567
+Planned (reserved),Municipal services,Solid Waste Management Facilities,82,407380.6410491667
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Care Centre,2,1934.7545102596155
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Care Centre + Adhar Kendra With Skill Development Centre + Public Convenience,1,7436.641333984085
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Hydraulic Engineering Department Facilities,1,44.34628286321047
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Hydraulic Engineering Department Facilities + Adhar Kendra With Skill Development Centre + Old Age Home,1,449.5750860924215
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Municipal Chowky,1,1971.7086396762936
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Municipal Chowky + Adhar Kendra With Skill Development Centre + Care Centre + Homeless Shelter,1,29523.690850244846
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Municipal Facilities + Homeless Shelter,1,3855.832885264547
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Public Convenience,4,19503.22298505679
+Planned (reserved),Municipal services,Solid Waste Management Facilities + Road Depot,1,7241.876112619105
+Planned (reserved),Municipal services,Storm Water Pumping Station,7,9491.565171214377
+Planned (reserved),Municipal services,Transport Garage,8,62071.40446360135
+Planned (reserved),Municipal services,Water Pumping Station,1,149.09219296652827
+Planned (reserved),Open space,Club/Gymkhana,5,179154.03383810312
+Planned (reserved),Open space,Garden/ Park,1370,10062273.837524317
+Planned (reserved),Open space,Garden/ Park + Care Centre,2,10234.999550883287
+Planned (reserved),Open space,Garden/ Park + Multipurpose Community Centre,1,7637.57060973133
+Planned (reserved),Open space,Garden/ Park + Municipal Dispensary/ Health Post,1,5788.634636257705
+Planned (reserved),Open space,Garden/ Park + Parking Lot,4,15668.53706588516
+Planned (reserved),Open space,Garden/ Park + Public Convenience,1,1301.027796441644
+Planned (reserved),Open space,Garden/ Park + Solid Waste Management Facilities,3,12322.198244120962
+Planned (reserved),Open space,Garden/ Park + Zoo,6,15921.62284576851
+Planned (reserved),Open space,Green Belt,115,823129.3869465454
+Planned (reserved),Open space,Municipal Sports Complex,9,192360.01546783472
+Planned (reserved),Open space,Play Ground,874,5810778.589657461
+Planned (reserved),Open space,Play Ground + Garden/ Park,2,8339.232061619841
+Planned (reserved),Open space,Play Ground + Municipal School,1,409.9086508448425
+Planned (reserved),Open space,Play Ground + Public Convenience,1,982.147135420467
+Planned (reserved),Open space,Promenade,40,147767.05406115868
+Planned (reserved),Open space,Public Open Spaces,7,24004.351099380954
+Planned (reserved),Open space,Sports Complex / Stadium,9,58925.010321141686
+Planned (reserved),Open space,Zoo,18,101618.68631254138
+Planned (reserved),Other,,1,4890.3116841925685
+Planned (reserved),Primary activity,Dhobi Ghat,2,11960.502058421198
+Planned (reserved),Primary activity,Fish & Net Drying Yard,15,43754.29152701763
+Planned (reserved),Primary activity,Fish & Net Drying Yard + Koli Housing,1,299.2079288598888
+Planned (reserved),Primary activity,Koli Housing,1,2368.5849893797504
+Planned (reserved),Public offices,Disaster Management Facilities,5,37427.40993996627
+Planned (reserved),Public offices,Disaster Management Facilities + Municipal Chowky,1,1853.4106418001154
+Planned (reserved),Public offices,Disaster Management Facilities + Public Convenience,1,7843.298914089298
+Planned (reserved),Public offices,Government Office,48,193280.19300567918
+Planned (reserved),Public offices,Government Office + Government Staff Quarters,1,2424.6689689691852
+Planned (reserved),Public offices,Municipal Office,23,63643.777915981955
+Planned (reserved),Public offices,Municipal Office + Adhar Kendra With Skill Development Centre,1,2841.3454253788127
+Planned (reserved),Public offices,Municipal Office + Disaster Management Facilities,2,3084.8881426130265
+Planned (reserved),Public offices,Municipal Office + Municipal Chowky + Disaster Management Facilities,1,871.1509193650636
+Planned (reserved),Public utilities,Correction Facilities,1,4167.888970823632
+Planned (reserved),Public utilities,Court,10,65603.76254000742
+Planned (reserved),Public utilities,Court + Government Housing,1,447.8280000173989
+Planned (reserved),Public utilities,Electricity Transmission & Distribution Facilities,49,651333.908305154
+Planned (reserved),Public utilities,Electricity Transmission & Distribution Facilities + Solid Waste Management Facilities + Municipal Chowky,1,10491.977294962124
+Planned (reserved),Public utilities,Fire Station,33,104360.52206307184
+Planned (reserved),Public utilities,Fuel Station,21,122655.62236685984
+Planned (reserved),Public utilities,Police Chowky,34,482539.4993889463
+Planned (reserved),Public utilities,Police Chowky + Public Convenience,1,1099.243646792444
+Planned (reserved),Public utilities,Police Facilities,4,24555.872605404915
+Planned (reserved),Public utilities,Police Station,52,409861.0212719691
+Planned (reserved),Public utilities,Police Station + Court,1,7497.370294712551
+Planned (reserved),Public utilities,Police Station + Police Staff Quarters,1,1444.3900299843785
+Planned (reserved),Public utilities,Service Industrial Estate,21,69543.02850761391
+Planned (reserved),Public utilities,Service Industrial Estate + Government Office + Municipal Market With Vending Zone,1,6539.550693284872
+Planned (reserved),Social amenities,Adhar Kendra With Skill Development Centre,4,20824.872586518057
+Planned (reserved),Social amenities,Adhar Kendra With Skill Development Centre + Care Centre,4,11555.312049525935
+Planned (reserved),Social amenities,Adhar Kendra With Skill Development Centre + Care Centre + Multipurpose Housing for Working Women,1,2203.4485213073253
+Planned (reserved),Social amenities,Adhar Kendra With Skill Development Centre + Care Centre + Public Convenience,2,12632.326997060694
+Planned (reserved),Social amenities,Adhar Kendra With Skill Development Centre + Public Convenience + Municipal Chowky,1,11580.275301104082
+Planned (reserved),Social amenities,Art Gallery,3,27648.551816504296
+Planned (reserved),Social amenities,Care Centre,36,321318.26281959884
+Planned (reserved),Social amenities,Care Centre + Adhar Kendra With Skill Development Centre,3,13057.482766344147
+Planned (reserved),Social amenities,Care Centre + Public Convenience,1,2148.1450562734212
+Planned (reserved),Social amenities,Cemetery,45,165238.54716186793
+Planned (reserved),Social amenities,Cultural Centre/Drama Theatre/ Theatre,30,326575.929673489
+Planned (reserved),Social amenities,Cultural Centre/Drama Theatre/ Theatre + Multipurpose Community Centre,1,6.938406078350427
+Planned (reserved),Social amenities,Cultural Centre/Drama Theatre/ Theatre + Other Education + Hospital,1,2952.970757212329
+Planned (reserved),Social amenities,Exhibition Centre,5,63095.70673802584
+Planned (reserved),Social amenities,Film/ TV Studio,1,749.1352376392038
+Planned (reserved),Social amenities,Homeless Shelter,33,367676.87733999663
+Planned (reserved),Social amenities,Homeless Shelter + Police Facilities + Public Convenience,1,8824.906757121631
+Planned (reserved),Social amenities,Homeless Shelter + Public Convenience,2,48227.46391133487
+Planned (reserved),Social amenities,Leisure Park,5,50960.779732799885
+Planned (reserved),Social amenities,Multipurpose Community Centre,139,685604.9898992518
+Planned (reserved),Social amenities,Multipurpose Community Centre + Adhar Kendra With Skill Development Centre,1,228.04317868475454
+Planned (reserved),Social amenities,Multipurpose Community Centre + Adhar Kendra With Skill Development Centre + Care Centre,1,2910.503224098543
+Planned (reserved),Social amenities,Multipurpose Community Centre + Adhar Kendra With Skill Development Centre + Care Centre + Public Convenience,1,2007.0381459876317
+Planned (reserved),Social amenities,Multipurpose Community Centre + Care Centre,13,117525.73239338369
+Planned (reserved),Social amenities,Multipurpose Community Centre + Care Centre + Adhar Kendra With Skill Development Centre,1,24795.70474351387
+Planned (reserved),Social amenities,Multipurpose Community Centre + Homeless Shelter + Public Convenience,1,15634.850013150457
+Planned (reserved),Social amenities,Multipurpose Community Centre + Multipurpose Housing for Working Women + Old Age Home,1,1032.0810205807377
+Planned (reserved),Social amenities,Multipurpose Community Centre + Municipal Dispensary/ Health Post,7,5455.734818691377
+Planned (reserved),Social amenities,Multipurpose Community Centre + Old Age Home,1,2955.305604203225
+Planned (reserved),Social amenities,Multipurpose Community Centre + Parking Lot,1,1399.6433690379793
+Planned (reserved),Social amenities,Multipurpose Community Centre + Rehabilitation & Resettlement,1,4825.221749301418
+Planned (reserved),Social amenities,Multipurpose Community Centre + Students Hostel,1,25975.512719610633
+Planned (reserved),Social amenities,Multipurpose Community Centre + Students Hostel + Care Centre,1,17705.317316133176
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women,4,38604.60456784936
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Adhar Kendra With Skill Development Centre + Care Centre,3,4495.415697574032
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Care Centre,4,10626.511086614668
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Care Centre + Adhar Kendra With Skill Development Centre,2,3671.584758268909
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Care Centre + Municipal Chowky,1,550.5347173688009
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Care Centre + Old Age Home,1,2499.5815114776688
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Care Centre + Solid Waste Management Facilities,1,490.15217392699424
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Multipurpose Community Centre,1,20801.592510211132
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Old Age Home,1,2280.3847466220373
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Old Age Home + Adhar Kendra With Skill Development Centre,1,196.209608001374
+Planned (reserved),Social amenities,Multipurpose Housing for Working Women + Old Age Home + Students Hostel + Care Centre + Adhar Kendra With Skill Development Centre,1,2536.118502451796
+Planned (reserved),Social amenities,Municipal Market With Vending Zone,96,1156915.4006805683
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Homeless Shelter,14,93907.34074669902
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Homeless Shelter + Adhar Kendra With Skill Development Centre,1,416.93531360188786
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Homeless Shelter + Municipal Chowky + Public Convenience,1,283.42394059084035
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Homeless Shelter + Public Convenience,2,2750.683367483236
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Koli Housing,1,417.53153013727615
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Municipal Facilities,1,8644.769511336828
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Municipal Facilities + Adhar Kendra With Skill Development Centre + Homeless Shelter,1,29318.070151135824
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Municipal Housing,5,25414.268551313337
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Municipal Housing + Adhar Kendra With Skill Development Centre,1,3662.359042133923
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Municipal Office,1,25146.65939965687
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Municipal Staff Quarters,1,6076.14537729678
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Old Age Home + Students Hostel,1,2831.9550800922625
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Public Convenience + Municipal Facilities,1,4050.713739697301
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Rehabilitation & Resettlement,3,3658.9586081562843
+Planned (reserved),Social amenities,Municipal Market With Vending Zone + Solid Waste Management Facilities + Public Convenience,8,33977.90402202822
+Planned (reserved),Social amenities,Museum,2,1072.7038271784152
+Planned (reserved),Social amenities,Old Age Home,11,31637.843637059384
+Planned (reserved),Social amenities,Old Age Home + Adhar Kendra With Skill Development Centre,1,1495.2878939947411
+Planned (reserved),Social amenities,Old Age Home + Adhar Kendra With Skill Development Centre + Care Centre,1,1544.904832740336
+Planned (reserved),Social amenities,Old Age Home + Care Centre,4,3133.28698024609
+Planned (reserved),Social amenities,Old Age Home + Care Centre + Adhar Kendra With Skill Development Centre + Municipal Chowky,1,2541.025455064946
+Planned (reserved),Social amenities,Public Convenience,16,123548.62076882238
+Planned (reserved),Social amenities,Public Convenience + Homeless Shelter,1,1330.5127604271736
+Planned (reserved),Social amenities,Public Convenience + Road Depot,1,192.69399330593046
+Planned (reserved),Social amenities,RG + Museum,1,2749.7372078413237
+Planned (reserved),Social amenities,Retail Market With Vending Zone,82,940975.8070198011
+Planned (reserved),Social amenities,Retail Market With Vending Zone + Homeless Shelter,3,14926.2371691243
+Planned (reserved),Social amenities,Retail Market With Vending Zone + Homeless Shelter + Public Convenience,1,4188.1919110304325
+Planned (reserved),Social amenities,Retail Market With Vending Zone + Koli Housing,1,731.6422189642335
+Planned (reserved),Social amenities,Retail Market With Vending Zone + Multipurpose Community Centre,2,22842.394202127194
+Planned (reserved),Social amenities,Retail Market With Vending Zone + Municipal Staff Quarters,2,4530.516395748617
+Planned (reserved),Social amenities,Retail Market With Vending Zone + Public Convenience + Municipal Chowky,1,6551.868534738082
+Planned (reserved),Social amenities,Retail Market With Vending Zone + Rehabilitation & Resettlement,10,52738.308822070256
+Planned (reserved),Social amenities,Students Hostel,8,78197.48307965607
+Planned (reserved),Social amenities,Students Hostel + Multipurpose Housing for Working Women + Government Staff Quarters,1,591.6902499628959
+Planned (reserved),Transport,Best Bus Facilities,57,284283.91282580077
+Planned (reserved),Transport,Best Bus Facilities + Public Convenience,1,3283.998487903549
+Planned (reserved),Transport,Jetty,1,305.9725204238659
+Planned (reserved),Transport,Metro / Mono Rail Carshed,14,95562.23306073826
+Planned (reserved),Transport,Parking Lot,117,609705.0009740429
+Planned (reserved),Transport,Parking Lot + Homeless Shelter + Municipal Chowky + Public Convenience,1,8116.566700451744
+Planned (reserved),Transport,Parking Lot + Public Convenience,1,10066.23958164414
+Planned (reserved),Transport,State Transport Depot,6,27028.06333609444
+Planned (reserved),Transport,Truck Terminus,7,26076.957253325323
+Planned (reserved),Transport,Truck Terminus + Parking Lot,1,5064.25962556587
+Planned (reserved),Transport,Water Transport Terminal,4,28815.38756877396

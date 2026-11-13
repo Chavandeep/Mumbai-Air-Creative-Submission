@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/raw/*
+!data/raw/README.md
+.DS_Store

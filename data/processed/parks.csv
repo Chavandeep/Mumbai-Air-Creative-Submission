@@ -1,0 +1,988 @@
+name,kind,ward,lon,lat,x,y
+Colaba  Woods Garden,Miyawaki garden,A,72.8183,18.9123,270212.11808708124,2092542.1702946431
+Priyadarshini Park,Miyawaki garden,D,72.799,18.9572,268240.5459652953,2097538.357228383
+Amerson Garden,Miyawaki garden,D,72.8022,18.9695,268594.61193870555,2098895.9095288333
+Slop Behind Babulnath Temple,Miyawaki garden,D,72.808,18.9579,269189.55383614334,2097604.0425906777
+"Welington Club , Keshavrao khade Road, Mahalaxmi",Miyawaki garden,D,72.8166,18.9772,270121.9336362771,2099729.5264703445
+Shahid Ashok Kamate Manoranjan Maidan,Miyawaki garden,ME,72.9227,19.0667,281413.7348575293,2109502.51192021
+Bhakti park Garden,Miyawaki garden,MW,72.8807,19.0285,276941.58174478775,2105326.3675014814
+Bhakti Park,Miyawaki garden,MW,72.8807,19.0285,276941.58174478775,2105326.3675014814
+Dr. Keshav Baliram Hedgewar Udyan,Miyawaki garden,N,72.9058,19.073,279643.1209745776,2110221.1314886585
+Nana nani Park,Miyawaki garden,N,72.8997,19.0778,279007.4056239787,2110760.211414329
+RG Plot bearing CTS no. 50B,Miyawaki garden,N,72.9082,19.0856,279912.3979847429,2111613.024565614
+BMC Playground,Miyawaki garden,,72.7775,19.2069,266326.5136224582,2125212.2332904884
+Dr Abdul Kalam azad garden,Miyawaki garden,PN,72.8625,19.1777,275227.0783856149,2121867.5145381317
+Shree Mahant Rambalak Dasaji Mahatyagi udyan,Miyawaki garden,PN,72.8596,19.1816,274927.31298742903,2122303.030082553
+Chacha Nehru Udyan,Miyawaki garden,PN,72.8403,19.1885,272906.5427201019,2123091.9872095636
+Swatantraveer Sawarkar manorajan maidan,Miyawaki garden,PS,72.85,19.155,273881.15488032985,2119370.5368418065
+"TDR Plot CTS No. 1230/B (pt), near Infant Jesus School,village Malad South Malad West",Miyawaki garden,PS,72.8574,19.1547,274659.30383420025,2119327.7493787785
+"CTS No. 586/7/A, S. No. 139, Near Hub Mall, W. E. Highway, Goregaon (E)",Miyawaki garden,PS,72.8725,19.1713,276270.384839109,2121146.101972333
+"CTS No. 620/F, Village Chincholi, Gokuldham, Opp. Santosh Nagar, Goregaon (E)",Miyawaki garden,PS,72.8398,19.178,272839.53928397567,2121930.1621949677
+"Plot CTS No.184/G,S.No.61,71,74 village pahadi,gogtewadi/opp. Walia terrace Goregaon East",Miyawaki garden,PS,72.8522,19.1681,274130.4714609824,2120818.0031944276
+"Sant Nirankari Garden TDR plot no. 1195/1, 1217 of Village Malad (South), Goregaon (W)",Miyawaki garden,PS,72.8408,19.1738,272938.9771344288,2121463.8687204616
+Plot CTS No. 97/A/23/B Upper Govind nagar Malad East,Miyawaki garden,PS,72.8537,19.1753,274298.085307927,2121613.181161813
+BMC Garden,Miyawaki garden,RC,72.8396,19.2173,272872.4731226671,2126281.414590896
+"CTS NO. 384, Rajmata Jijau udyan, Borivali west R CENTRAL WARD",Miyawaki garden,RC,72.8444,19.2252,273388.1337743661,2127149.779755274
+"Shahid Tukaram Ombale Garden, Dahisar west",Miyawaki garden,RC,72.8317,19.237,272068.81142604986,2128472.79664402
+"cts no 108,109,110 at Dahisar west",Miyawaki garden,RN,72.8538,19.2595,274423.5944444147,2130934.9723849995
+Dahisar cemetry Dahisar west,Miyawaki garden,RN,72.8553,19.2605,274582.67765089043,2131043.7354896404
+Green Park Garden,Miyawaki garden,RN,72.8475,19.2515,273750.2092534881,2130057.4734512293
+Pramod Navalkar udyan,Miyawaki garden,RS,72.8188,19.2126,270678.3720066442,2125788.3545656973
+"Veer Abdul hamid udyan, CTS No. 171/1A/4(pt)",Miyawaki garden,RS,72.8685,19.1983,275886.1486096749,2124140.4230889557
+Sahitya Samrat Aanabhau Sathe Manoranjan Maidan,Miyawaki garden,RS,72.8699,19.1976,276032.45551234146,2124061.124046286
+Lakefront of Powai Lake,Miyawaki garden,S,72.9048,19.1273,279609.8256607596,2116233.8094086954
+Hiranandani Gardens,Miyawaki garden,S,72.9091,19.1154,280046.53797968826,2114910.9713674486
+Bharatratna Atal Bihari Vajpeyee Udyan,Miyawaki garden,S,72.9091,19.1154,280046.53797968826,2114910.9713674486
+Dr. A.P.J. abdul Kalam Garden,Miyawaki garden,T,72.9721,19.1757,286753.6050085599,2121508.375294162
+Strip Garden at Lala lajpatrai road,Miyawaki garden,GS,72.81,18.98,269430.64326514385,2100048.1510052164
+Colaba  Woods Garden,Miyawaki garden,A,72.8183,18.9123,270212.11808708124,2092542.1702946431
+Veer Mata Jijabai Bhosale Udyan and Zoo,Zoo,E,72.8374494,18.9765257,272316.96624679875,2099627.7786033587
+"Veermalji Makaji Bohra Maidan,",Park / playground,E,72.825859,18.966105,271081.9742520468,2098489.1257114997
+R.G. Plot at 10th lane Kamathipura,Park / playground,E,72.825639,18.966269,271059.0253975699,2098507.568203667
+"Tank Square Maidan,",Park / playground,D,72.81104,18.970946,269527.721209381,2099044.405828058
+"Sant Rohidas Udyan,",Park / playground,E,72.8278889,18.9798457,271314.54558804387,2100007.7302335845
+"R.G. Plot at 5th Sankhali Street,",Park / playground,E,72.828427,18.973295,271362.2770388314,2099281.7990784226
+"R.G. Plot In between BIT chawl no.6 & 7,",Park / playground,E,72.838311,18.967311,272395.1944972875,2098606.5049882974
+"Suresh Vishwanath Acharekar Maidan,",Park / playground,E,72.83508,18.987966,272082.98515489337,2100897.403736937
+"R.G. Plot at N. M. Joshi Marg,",Park / playground,E,72.8309298,18.9802357,271635.35278907104,2100046.959237677
+"R.G. Plot at Maulana Azad Road,",Park / playground,E,72.827081,18.97663,271225.06242952053,2099652.7676110766
+"R.G. Plot at Vaishali Nagar,",Park / playground,E,72.824071,18.980096,270912.77637427906,2100040.4059269875
+"R.G. Plot at Gel Street,",Park / playground,E,72.825145,18.976833,271021.43126012327,2099677.758941993
+"Batliboy Compound Maidan,",Park / playground,E,72.840546,18.984826,272654.38295209315,2100542.702531679
+"P.G. Plot at Laxmiwadi,",Park / playground,E,72.836598,18.985135,272239.00436291005,2100582.0172667047
+"Kai. Eknath (Bhai) Maruti Bandhal Maidan, (Nawab Tank Maidan),",Park / playground,E,72.845135,18.966027,273112.2263086833,2098455.5494046514
+नवलचंद शहा उद्यान,Park / playground,L,72.885452,19.062651,277487.46822271595,2109101.1288663996
+,Park / playground,L,72.882077,19.062684,277132.23521638114,2109109.069980627
+हुसैनी मनोरंजन मैदान,Park / playground,L,72.876798,19.060588,276573.71845485317,2108883.7448961814
+छत्रपती शिवाजी महाराज उद्यान,Park / playground,L,72.869785,19.0531255,275825.43202757044,2108066.5313835354
+मॉँसाहेब मीनाताई ठाकरे बॉटेनिकल उद्यान,Park / playground,L,72.879992,19.05162,276897.94766819885,2107886.8434525975
+गांधी मैदान,Park / playground,L,72.881586,19.077407,277100.24808819895,2110739.6561924377
+राम गणेश गडकरी मैदान,Park / playground,L,72.875822,19.067449,276480.178044243,2109644.5622232207
+छत्रपती शिवाजी महाराज मैदान,Park / playground,L,72.881222,19.061887,277041.1654574196,2109021.922636547
+स्वातंत्र्यवीर विनायक दामोदर सावरकर क्रीडांगण,Park / playground,L,72.881267,19.058054,277040.77585651574,2108597.519891967
+छत्रपती शिवाजी महाराज पार्क,Park / playground,L,72.885747,19.091908,277557.60473094444,2112339.7495167116
+119F/4,Park / playground,L,72.895958,19.120071,278669.78966601763,2115444.676094965
+पुण्यश्लोक अहिल्याबाई होळकर मैदान,Park / playground,L,72.892425,19.117303,278294.317175374,2115142.7128576506
+संत शिरोमणी रोहिदास मैदान,Park / playground,L,72.892434,19.117934,278296.106222847,2115212.5584576884
+डॉ दत्ता सामंत मैदान,Park / playground,L,72.88752,19.118019,277779.1101368668,2115228.2085782145
+वीरमाता जिजाबाई भोसले  मैदान,Park / playground,L,72.896539,19.113608,278722.3218842506,2114728.4334648014
+समाजसेविका सावित्रीबाई फूले मैदान,Park / playground,L,72.896264,19.112854,278692.37841453194,2114645.3075782005
+डॉ बाबासाहेब आंबेडकर मैदान,Park / playground,L,72.8836458,19.0639706,277299.09778817976,2109249.5134287276
+गंगाराम गोविंद साळगावकर उद्यान,Park / playground,L,72.8836599,19.0635059,277299.96109176043,2109198.049339212
+श्री छत्रपती शिवाजी महाराज क्रीडांगण,Park / playground,L,72.870214,19.054356,275872.2484834977,2108202.2104917336
+मुक्तादेवी मनोरंजन मैदान,Park / playground,L,72.875096,19.054483,276386.3622843669,2108210.0378894233
+एकनाथ रामचंद्र कोपर्डे मनोरंजन मैदान,Park / playground,L,72.876998,19.067434,276603.9491724769,2109641.4020311562
+मीनाताई ठाकरे मनोरंजन मैदान,Park / playground,L,72.894455,19.11063,278499.04471673013,2114401.3831460103
+,Park / playground,L,72.903146,19.1171186,279422.2638729892,2115108.7354868324
+,Park / playground,L,72.903708,19.116072,279480.01516753004,2114992.1596706654
+श्रावण बाळ मनोरंजन मैदान,Park / playground,L,72.8941,19.090687,278435.1192450799,2112193.980169606
+वीरमाता जिजाऊ भोसले मनोरंजन मैदान,Park / playground,L,72.894483,19.094156,278480.0479844643,2112577.541623895
+,Park / playground,L,72.900671,19.11043,279152.9270313317,2114371.3793664086
+राजे शिव छत्रपती मनोरंजन मैदान,Park / playground,L,72.877691,19.070842,276681.4655975228,2110017.814180394
+प्रमोदजी महाजन मनोरंजन मैदान,Park / playground,L,72.891312,19.086717,278136.3924816749,2111758.0000627586
+sheetal talav,Park / playground,L,72.88181,19.084125,277132.81840187416,2111483.1117893197
+श्रीमती आनंदीबाई सुर्वे उद्यान,Park / playground,L,72.900255,19.102106,279098.0895288669,2113450.372529351
+साईबाबा पार्क,Park / playground,L,72.892938,19.100602,278326.0318514516,2113293.1229040925
+"Late. Bacchu Khan Maidan,",Park / playground,E,72.831179,18.965281,271641.21364876674,2098390.994660823
+"Mastan Talav Maidan,",Park / playground,E,72.8253854,18.9650277,271030.6173889544,2098370.4726673495
+"Lucky Compound, Maidan,",Park / playground,E,72.828797,18.974335,271402.66723037435,2099396.457662335
+"Tank Pakhadi Maidan,",Park / playground,E,72.829525,18.975693,271481.1973568626,2099545.857527528
+"Garden Near Ashirwad Building,",Park / playground,E,72.832479,18.983411,271802.8456836563,2100396.488841727
+"Maidan adjoining to VJBU at the Junction of E.S. Patanwala and Dr. Babasaheb Ambedkar Marg,",Park / playground,E,72.8344321,18.9801424,272004.0953938195,2100032.089604962
+"Garden at Vaikuntdham Cemetry,",Park / playground,E,72.847353,18.977441,273361.29081960703,2099716.3319021747
+V R Tulla Maidan,Park / playground,E,72.826843,18.966085,271185.59300724545,2098485.6329234904
+राजमाता अहिल्याबाई होळकर उद्यान,Park / playground,L,72.872098,19.060903,276079.3768157655,2108924.6150845024
+राम गणेश गडकरी उद्यान,Park / playground,L,72.875806,19.067728,276478.8680811231,2109675.470398446
+भारतरत्न प्रियदर्शनी इंदिरा गांधी उद्यान,Park / playground,L,72.885502,19.074929,277509.12789571093,2110460.3419886846
+परमवीर शहिद अब्दुल हमीद उद्यान,Park / playground,L,72.881332,19.077964,277074.2581701596,2110801.6441581524
+नलिनी मोहनराव सावंत उद्यान,Park / playground,L,72.880137,19.079998,276951.1996924514,2111028.3470760053
+जय जवान उद्यान,Park / playground,L,72.881412,19.085986,277093.41946663684,2111689.647326503
+गंगाराम धोंडू साटम उद्यान,Park / playground,L,72.887238,19.0903113,277712.39751840336,2112161.0871085823
+काशीनाथ पांडुरंग शिर्के मैदान,Park / playground,L,72.893558,19.099524,278389.8460040622,2113172.994029342
+Padmakar Tukaram Mane Udyan,Park / playground,E,72.829858,18.969629,271507.999509668,2098874.0768106733
+Baby Garden,Park / playground,E,72.8239576,18.9735897,270891.9323059482,2099320.2352484097
+Abdulla Brelvi Garden,Park / playground,E,72.832438,18.985978,271802.02684061567,2100680.735807353
+Shahid Nete Bhai Sangare Udyan,Park / playground,E,72.82731,18.980976,271255.11842950474,2100133.618808175
+"Sant Gadge Maharaj Udyan,",Park / playground,E,72.82689,18.980986,271210.89687177725,2100135.2718243473
+"Dayan Baug Khandia Street Udyan,",Park / playground,E,72.829586,18.963173,271470.5459344905,2098159.683028292
+"Police Inspector Shahid Shashank Shinde Udyan,",Park / playground,E,72.842699,18.969545,272860.4101582933,2098848.1657822724
+"Mohammad Hussein Maidan,",Park / playground,E,72.824776,18.9721213,270976.1241528044,2099156.602773667
+"Abdul Rehman Soofi Maidan. (Zullha Maidan),",Park / playground,E,72.827158,18.974416,271230.14839420264,2099407.5540753547
+"R.G. plot at National Textile Mill No. 2 & 3,",Park / playground,E,72.839479,18.986772,272544.6520338531,2100759.523199092
+"R.G. plot at Ghass gully,",Park / playground,E,72.823823,18.978142,270883.9828437832,2099824.399584906
+Garlic compound,Park / playground,E,72.8282101,18.9795693,271347.9977888471,2099976.7125171926
+R.G. Plot at Laxmi building,Park / playground,E,72.83161,18.979211,271705.59591279645,2099932.6318299742
+"Garden plot at Nariman Point, J. Bajaj road,",Park / playground,A,72.8217029,18.9238694,270586.462294131,2093818.5996225353
+"Garden at C.T.S.No.807, Mount Mary Road, Bandra (W), Mumbai - 50.",Park / playground,HW,72.822,19.049,270789.177979695,2107671.560455844
+"Sadhu Vaswani Garden, Junction of S.V.Road and Turner Road, Bandra (W), Mumbai- 50.",Park / playground,HW,72.8372402,19.0597266,272408.29065257305,2108839.266056426
+"Madhukar Kulkarni Udyan Junction at Ramdas Naik Marg and Carmel Road, Bandra (W), Mumbai- 50.",Park / playground,HW,72.824,19.052,271003.85569364706,2108001.0829835963
+"Garden CTS No. 899/B,  near Taj Land End hotel, Band Stand, B.J.Road, Bandra (W) Mumbai- 50.",Park / playground,HW,72.8182635,19.0426054,270387.0001226511,2106968.489017436
+"Garden Plot No.906-B, Behind Taj Land End, B.J.Road, Bandra (W), Mumbai - 50.",Park / playground,HW,72.8190277,19.0421867,270466.88181059866,2106921.1340509295
+"Garden near Shatranj Hotel, Union Park, Bandra (West), Mumbai- 50.",Park / playground,HW,72.824,19.071,271029.9586231563,2110104.6063517323
+"Garden at the junction of Dadabhai X Road No.1 & 2, Santacruz (W), Mumbai- 54.",Park / playground,HW,72.833,19.086,271997.8836610222,2111753.539947009
+"Garden adjacent to Glaxo Apt., St.John Baptista Road, Bandra (W), Mumbai- 50.",Park / playground,HW,72.823,19.047,270891.7101897147,2107448.8306019655
+"Garden at Boran Road, Bandra (W), Mumbai- 50.",Park / playground,HW,72.833,19.055,271955.45187576476,2108321.488823924
+"Plot No. 78, TPS, Khari Village, S.V.Road, Khar (W), Mumbai- 50.",Park / playground,HW,72.837,19.065,272390.20613483427,2109423.401364222
+"R.G of St Joseph Road Opp Chimbai Municipal School Play ground at St Joseph Road Bandra (W), Mumbai- 50.",Park / playground,HW,72.824,19.057,271010.7224523283,2108554.6414057915
+"Swami Vivekanand Sarovar  S.V Road Bandra (W), Mumbai- 50.",Park / playground,HW,72.8376575,19.0561176,272447.2944130326,2108439.168606194
+"R.G. Of the Junction Of St.Martins Road & Raghunath Road, Bandra West, Mumbai- 50.",Park / playground,HW,72.835,19.058,272170.1011651547,2108651.0221556365
+"Madhu Park at C.D Road Khar (W), Mumbai- 52",Park / playground,HW,72.8356797,19.0714692,272260.06312232395,2110141.3291334724
+"General Arunkumar Vaidya Garden,Off.Gen.Arrunkumar Vaidya Road,Bandra Reclamation, Bandra W (Part of plot used as garden",Park / playground,HW,72.8306934,19.0525293,271709.24208942824,2108050.9558602967
+"Step garden at Mount Mary road Bandra west, Mumbai- 50.",Park / playground,HW,72.822,19.048,270787.8037805465,2107560.8487165445
+"Garden below milan flyover, Santacruz (W),  Mumbai- 54",Park / playground,HW,72.8407843,19.090328,272823.12863213196,2112222.5779251847
+"Garden at B.J Road, Opp.Father Agnel Ashram ,Bandstand, Bandra West, Mumbai- 50. (Gazebo plot)",Park / playground,HW,72.819,19.045,270467.8358589908,2107232.635974523
+"Nilgiri Forest Garden at Linking Road, Bandra West, Mumbai- 50.",Park / playground,HW,72.835,19.062,272175.56826545694,2109093.8665674506
+"Joggers park near Otters club, Bandra (W), Mumbai -50",Park / playground,HW,72.821,19.059,270697.65079371264,2108779.986097749
+"Nandadeep Udyan, Opp. Kalanagar, W.E. Highway, Bandra (East) Mumbai- 400 051.",Park / playground,HE,72.84629,19.05337,273352.33489868126,2108123.7998726373
+"Garden at Shivaji Nagar Mun. Tenament, Bandra (East) ,  Mumbai 400 051.",Park / playground,HE,72.84268,19.060786,272982.38954342215,2108949.49956225
+"Late Shri Madhukar Sarpotdar Udyan, Kadamwadi, Near Mathuradas Colony, Santacruz  (East), Mumbai 400 055.",Park / playground,HE,72.859767,19.078339,274804.86962468014,2110870.7476129513
+"A. C. Keluskar Udyan , Beside Western Express Highway , Below Vakola Bridge, Santacruz (East), Mumbai-400055",Park / playground,HE,72.8464,19.0812,273401.76576392003,2111204.7314863126
+Garden at plot bearing CTS No. 5013 A/2(pt) located at the junction of CST road and Huns bugra road,Park / playground,HE,72.86073,19.07459,274901.1664595549,2110454.458677453
+"Savitribai phule garden  Opp. Saint merry High school , Kalina , Santacruz(E)",Park / playground,HE,72.86817,19.07811,275689.0478148145,2110834.612067695
+"Dinkar J. Patel Udyan,Opposite V.N.Desai Hospital, Santacruz/East, Mumbai-400055.",Park / playground,HE,72.84407,19.07916,273153.7360943211,2110981.8980985624
+"Dr. Bhabasaheb Ambedkar Udyan, Near Kherwadi Junction, Bandra (E), Mumbai- 400 051.",Park / playground,HE,72.8493,19.06058,273679.00073271303,2108918.133207414
+"Garden at CTS No. 4875/C, 5613(Pt), 5614/A, 5648/A at Sunder Nagar, Kalina, Santacruz/East,Mumbai-400098",Park / playground,HE,72.86414,19.07421,275259.59336982603,2110408.0107593313
+"Chh. Shivaji Maharaj Kridangan, Kherwadi, Bandra/East Mumbai-400051.",Park / playground,HE,72.84414,19.0599,273134.8788588734,2108849.519860474
+,Park / playground,HE,72.84526,19.05974,273252.564912782,2108830.3571434347
+"Dindayal Upadyay Kridangan,  Dhobighat Road, Vakola, Santacruz/East,Mumbai-400055.",Park / playground,HE,72.84954,19.08074,273731.6491590185,2111149.744522482
+"Kalina Tank Land, CTS No. 6544,opp. St. Anthony High School, Kalina, Santacruz/East,        Mumbai-400098.",Park / playground,HE,72.86861,19.07756,275734.620785921,2110773.1584703885
+"School attached PG near Kalina Municipal School , Near Gurudwara, Santacruz(E)",Park / playground,HE,72.86092,19.07705,274924.490635501,2110726.560590996
+"P.G at Manipada, Sundernagar, Kalina, Santacruz/East,    Mumbai - 400098.",Park / playground,HE,72.86254,19.07451,275091.5807310423,2110443.277077911
+"Narali baug garden, Govt colony, near Kherwadi Police station, Santacruz E , Mumbai-400 051",Park / playground,HE,72.85014,19.06614,273774.97521378216,2109532.598007219
+"Prabodhankar thakre udyan ,  CTS No 169/4 & 168/9, SNo 42, H.No 2 (P)",Park / playground,KE,72.865,19.136,275433.5883013451,2117247.669049976
+"Shahid Major Sandeep Unnikrishnan Udyan,",Park / playground,KE,72.8649902,19.1356254,275432.05030368426,2117206.209624497
+CTS No. 244 B,Park / playground,KE,72.8669798,19.1130188,275610.8601347803,2114700.877265537
+"Sant Nrankari baba Hardev Sihaji Maharaj Udyan,CTS No. 245 A(Pt), 179 (E)",Park / playground,KE,72.8678389,19.1138171,275702.34603598365,2114788.1545240874
+"Shree Sai Leela Udyan, CTS No. 382 (D)",Park / playground,KE,72.8598675,19.1279219,274882.5829880008,2116359.947106842
+"Hemant Karkare Udyan, CTS NO 167 A part, A2 - G2, A1 - G3, C1 - G4, C3 - G5, Hissa No 2,  Mumbai-60.",Park / playground,KE,72.866,19.136,275538.81009510485,2117246.38344446
+"Chhatrapati Rajaram Maharaj Udyan, CTS no. 102 & 99(P) Tikka no 24 ,",Park / playground,KE,72.8544984,19.1359773,274328.5569759968,2117258.6932793865
+"Nana Nani Park, CTS No FP 186 TPS V Garden",Park / playground,KE,72.8480693,19.0929966,273593.5199143727,2112508.5812756056
+"Garden at the junction of Linking Road & Water Field Road, Opp. National College, Bandr (W), Mumbai- 50.",Park / playground,HW,72.834,19.064,272073.03310644964,2109316.5889896364
+"P.G.of St.Pual Road, Bandra (W)Mumbai-50",Park / playground,HW,72.824,19.058,271012.09601263795,2108665.3531209873
+"P.G.of St.Andrews Road, Bandra (W) Mumbai-50",Park / playground,HW,72.826,19.056,271219.89837967546,2108441.31888969
+"Dharamaveer Sambhaji udyan and Kreedangan , Khotwadi,TPS VI, Santacruz (W), Mumbaibai -54",Park / playground,HW,72.8409994,19.0885153,272843.2940076755,2112021.612825767
+"Veermata Jijabai Bhosale Kridangan at St. John Baptista Road, Bandra (W) Mumbai-50",Park / playground,HW,72.824,19.048,270998.3635381658,2107558.23643035
+"Veermata Jijabai Bhosale Kridangan at St. John Baptista Road, Bandra (W) Mumbai-50",Park / playground,HW,72.824,19.048,270998.3635381658,2107558.23643035
+"P.G. Near St.Elias High School, Dr. Ambedkar Road Bandra (W) Mumbai-50",Park / playground,HW,72.827,19.073,271348.4995318438,2110322.1118024816
+"Mother Teressa Playground at 2nd Hasnabad Lane, Khar (W) Mumbai-54",Park / playground,HW,72.839,19.074,272613.02683705464,2110417.203876149
+"P.G.at Pali Mala Road,adjacent, St.Anne High School. Bandra (W) Mumbai-50",Park / playground,HW,72.825972,19.0635035,271227.2490126688,2109272.0800928134
+"P.G. at Khar Gymkhana on 16th Road, Khar (W) Mumbai-52",Park / playground,HW,72.831,19.069,271764.07418392,2109874.0500698593
+"Swami Muktanand Park, Saraswati Road, Santacruz (W), Mumbai- 50.",Park / playground,HW,72.831,19.082,271781.88911989337,2111313.299487987
+"Guru nanak park at 16th Road Bandra(w), Mumbai- 50.",Park / playground,HW,72.830764,19.0607154,271727.8831950717,2108957.1578399166
+"Chhatrapati Sambhaji Udyan Union Park. Opp. Dr Ambedkar Road. Khar.(w), Mumbai- 52",Park / playground,HW,72.8273224,19.0709712,271379.65213604755,2110097.079202904
+"Jamshedji Hasnji Katrak Udyan Pery Cross Road Bandra(w), Mumbai- 50.",Park / playground,HW,72.8230054,19.0605212,270910.85587817983,2108945.7790564396
+"Raosaheb Patwardhan Udyan,32nd Road Bandra (w), Mumbai- 50.",Park / playground,HW,72.834,19.064,272073.03310644964,2109316.5889896364
+"Vishanu Buva K.Udyan, S.V Road,Khar (W), Mumbai- 52",Park / playground,HW,72.8377194,19.0732476,272477.19979804964,2110335.5675988183
+"Rotary Park Main Avenue Road & 16th Road Khar (w), Mumbai- 52",Park / playground,HW,72.8306164,19.0773482,271735.1349692843,2110798.791450154
+"Lions Juhu Municipal Children Park at Juhu Road & Linking,Santacruz(w), Mumbai- 54",Park / playground,HW,72.834073,19.0839729,272108.0472595925,2111527.719787308
+"RG plot at Kantawadi D'Monte Park ,Bandra (w), Mumbai- 50.",Park / playground,HW,72.825,19.06,271120.11554818286,2108885.470643326
+"Dr. Norman Francis Levis R.G Supari Tank Juncation Of Rebello Road & Mount Carmello Road Bandra(w), Mumbai- 50.",Park / playground,HW,72.8264518,19.0513763,271261.11892684293,2107928.8325225054
+"R.G. plot at D'Monte park Road, Bandra (W), Mumbai- 50.",Park / playground,HW,72.825806,19.0578216,271201.9750176696,2108643.2442912105
+"R.G of the Juncation of B.J.Road & Bhabha Road Bandra (w), Mumbai- 50. (Sea harrier Jet plot)",Park / playground,HW,72.8210907,19.0499796,270694.7942838266,2107781.2022615904
+"R.G of the Juncation of B.J.Road & Bhabha Road Bandra (w), Mumbai- 50. (Fish garden)",Park / playground,HW,72.8218031,19.0510836,270771.3122484139,2107902.4968137215
+"Dr. Babasaheb Ambedkar Recreation  Ground Kantawadi Road Plot No 787 Bandra (w), Mumbai- 50.",Park / playground,HW,72.8247696,19.0614538,271097.8573370051,2109046.7241529166
+"Prof. Almeida Park, Prof. Almeida Road, Near Bhabha Hospital, Bandra (W), Mumbai- 50.",Park / playground,HW,72.8313997,19.0574271,271790.302573503,2108592.2781713996
+"Late Shridhar G. Bagve Udyan Poddar Road Santacruz (w), Mumbai- 54",Park / playground,HW,72.838,19.085,272522.79272662033,2111636.3246318027
+छत्रपती शिवाजी महाराज पार्क,Park / playground,L,72.893129,19.100174,278345.56281546643,2113245.497795521
+साहित्यरत्न लोकशाहिर अण्णाभाऊ साठे मैदान,Park / playground,N,72.896249,19.091928,278662.9499113364,2112328.649904151
+स्वर्गीय अलका सागर मनोरंजन मैदान,Park / playground,L,72.899539,19.113255,279037.5553295716,2114685.5594083685
+श्री जगन्नाथ मंदिर क्रीडांगण,Park / playground,L,72.8868326,19.0998299,277682.44954593957,2113215.391947872
+भारतरत्न ए.पी.जे. अब्दुल कलाम खेळाचे मैदान,Park / playground,L,72.885931,19.07466,277553.92492402426,2110430.0166313215
+सेंट मदर तेरेसा उद्यान,Park / playground,L,72.8851442,19.0823319,277481.3586604359,2111280.3598944447
+चाचा नेहरु मनोरंजन मैदान,Park / playground,L,72.884595,19.077775,277417.46126480366,2110776.570416762
+,Park / playground,L,72.884382,19.077771,277395.0360302436,2110776.398275932
+,Park / playground,L,72.90158,19.112444,279251.26145991404,2114593.1971960776
+,Park / playground,L,72.90158,19.112444,279251.26145991404,2114593.1971960776
+,Park / playground,L,72.90158,19.112444,279251.26145991404,2114593.1971960776
+,Park / playground,L,72.899764,19.108901,279055.44558360183,2114203.252685501
+,Park / playground,L,72.900531,19.107374,279134.1337655088,2114033.2329104794
+,Park / playground,L,72.895611,19.106184,278614.777201104,2113907.71080742
+गणेश मैदान,Park / playground,L,72.89634,19.111052,278697.976963104,2114445.715307236
+,Park / playground,L,72.884345,19.077928,277391.35136778804,2110793.8265296817
+Garden plot infront of Markaz masjid,Park / playground,L,72.880643,19.070484,276991.72086613096,2109974.4206278883
+L. R. Tersee Bhatia Udyan,Park / playground,A,72.8353286,18.9387131,272042.1889414998,2095444.2885666527
+Horniman Circle Garden,Park / playground,A,72.8349962,18.9320315,271998.0965884331,2094704.9994154805
+Walter D’souza Garden,Park / playground,A,72.8274487,18.9424735,271217.18111058784,2095870.8061978447
+Saboo Siddhique Playground,Park / playground,A,72.8376592,18.9482612,272300.6702425798,2096498.3459395128
+"Chhatrapati Shivaji Maharaj Udyan, Gateway of India",Park / playground,A,72.833872,18.9228188,271867.1457692464,2093686.5162223706
+"Cooperage Bandstand garden,",Park / playground,A,72.8282763,18.9258086,271281.66311369184,2094024.758240424
+"Sabina Chandrashekhar Recreation Ground,",Park / playground,A,72.8303113,18.9245355,271494.3317756371,2093881.1774951145
+Garden plot at junction of N. Parekh marg & J. Bhosle marg,Park / playground,A,72.826879,18.9212991,271128.3043728529,2093527.321990924
+DSK Garden,Park / playground,A,72.8210062,18.9132928,270498.61393507407,2092648.5648992856
+Pasta lane I Garden,Park / playground,A,72.8278857,18.9188189,271230.99282725074,2093251.4340182305
+Hutatma Chowk Garden.,Park / playground,A,72.8316973,18.9325483,271651.2523667986,2094766.480462562
+"Suraksha Garden,",Park / playground,A,72.8236488,18.9172579,270782.45890292595,2093084.1103124134
+"CPRA Garden, Cuffe parade",Park / playground,A,72.8216137,18.9149164,270564.83943616005,2092827.524961422
+"Colaba Woods Garden, Cuffe parade",Park / playground,A,72.8201146,18.9132387,270404.5966956901,2092643.7343193674
+"Vikas Garden , Cuffe Parade",Park / playground,A,72.816625,18.9159061,270040.56448595773,2092943.5841646362
+"F P No 108, TPS 1",Park / playground,KE,72.854,19.102,274229.94579609623,2113497.6895522815
+"Shahid Rajguru Udyan ,CTS No. 1498 A/5",Park / playground,KE,72.8790327,19.1020004,276864.4705665731,2113465.6154461545
+Shahid Bhagat Singh Udyan CTS No. 1498 A/6,Park / playground,KE,72.8788993,19.1025163,276851.12346839946,2113522.900392182
+"Devidas Vitthal Salsingikar Udyan, CTS No. 175 A (pt)",Park / playground,KE,72.8694462,19.1350052,275900.08192458405,2117131.8233986697
+"Vicharwant Sadguru Wamanrao Pai, CTS.No.453/B/3",Park / playground,KE,72.859992,19.1079882,274868.6750742358,2114152.921496836
+CTS No. 70 D,Park / playground,PS,72.851,19.15,273979.55040445447,2118815.685418035
+"CTS No 273,274",Park / playground,KE,72.87,19.109,275923.27679286967,2114252.0840453207
+CTS NO.710 C (P) & 710 D(P),Park / playground,KE,72.8844076,19.1106308,277441.6915179571,2114414.229246902
+Shahid Ashok Kamate Manoranjan Maidan,Park / playground,KE,72.868,19.138,275751.9558063537,2117465.234054009
+CTS NO 345A/6,Park / playground,KE,72.8852748,19.1134929,277536.7838041178,2114729.9852989325
+CTS No.379/2 of Chakala,Park / playground,KE,72.859,19.109,274765.64799612015,2114266.215429309
+"CTS no.115 B,115C,119A/1",Park / playground,KE,72.8839011,19.1205123,277401.62626534567,2115508.843798139
+CTS no.122A/1,Park / playground,KE,72.8846864,19.1200464,277483.63983058895,2115456.2645350173
+CTS No. 119 A/1,Park / playground,KE,72.8815546,19.1211502,277155.5581423269,2115582.4553379198
+CTS No.  FP NO 16  16/1 to 24 and 17,Park / playground,KE,72.862,19.115,275089.48506780097,2114926.614709371
+"Mother Teresa Udyan, CTS No 398/C and 398/D part Park, Survey No 89 A1",Park / playground,KE,72.8616825,19.1086539,275047.48381533823,2114224.445817441
+"Ramesh More Park, CTS NO 523, 522, 524  Hissa No 8",Park / playground,KE,72.8503587,19.1189002,273869.71361046575,2115373.426619309
+"Prabhodankar Thackeray Maidan,CTS NO 252 part, 255 part, 256 part, 257, 258, 259 260 part, 261, 262, 270, 271 part, 272 part, 274/2 part,435 part, Hissa No 23",Park / playground,KE,72.849708,19.1088688,273787.5837208112,2114263.684174483
+"Anandibai Keskar Park ,F P No 72, TPS 1",Park / playground,KE,72.8465738,19.100867,273446.8378859793,2113381.855016633
+"CTS No 228/B, survery No 11, Hissa No 2 P, 85 part",Park / playground,KE,72.856,19.14,274492.0250478628,2117702.109455856
+"Matoshri Meenatai Thackeray Shilpgram, CTS NO. 190/B,",Park / playground,KE,72.871,19.135,276063.5691174163,2117129.254650651
+Bhausaheb Hire Garden,Park / playground,D,72.818539,18.970692,270317.2348456197,2099006.4871914936
+Bane Compound,Park / playground,D,72.816946,18.970344,270148.96838102466,2098970.0382125555
+Jaisinghbhai Solanki Garden,Park / playground,D,72.82035,18.9649,270500.0525686806,2098362.8878913303
+lolmanya Tilak Garden,Park / playground,D,72.813377,18.955108,269752.11900720256,2097287.9020805727
+Rajarambapu Suryawanshi Garden,Park / playground,D,72.824754,18.958392,270955.04351109173,2097636.650598018
+Amarson Garden,Park / playground,D,72.802256,18.969544,268600.57122066815,2098900.7072757897
+Johnson &Johnson Garden,Park / playground,D,72.80595,18.974786,268996.89055147493,2099476.209208591
+Tulsidas Kilachand Grden,Park / playground,D,72.807677,18.955672,269152.4622283001,2097357.8001781004
+Pandurangshastri Athavle Garden,Park / playground,D,72.814153,18.96879,269852.64901121124,2098801.6406050553
+Rock Garden,Park / playground,D,72.803679,18.95127,268725.24571723887,2096875.6885769053
+Tata Garden,Park / playground,D,72.803266,18.967139,268703.6351362907,2098633.1180378115
+Swami Samarth Garden,Park / playground,D,72.821254,18.954008,270580.3677085681,2097155.847502085
+Banganga Garden,Park / playground,D,72.793312,18.944959,267624.4201781645,2096190.6170803653
+Playground OPP to Bombay Internatinal School,Park / playground,D,72.808736,18.956476,269265.12256295444,2097445.425390491
+S M Joshi Kridangan,Park / playground,D,72.79585,18.948252,267896.3455083828,2096551.849541108
+T D R Plot at 12 khetwadi,Park / playground,D,72.821441,18.960767,270609.3138720864,2097903.8986619757
+August Kranti Garden,Park / playground,D,72.810654,18.962505,269475.45227334846,2098110.3947439706
+"Pawwala Compound ,Mumbai 04",Park / playground,D,72.822796,18.960555,270751.75281596,2097878.6643195446
+Priyadarshini Park,Park / playground,D,72.798951,18.957275,268235.48805540625,2097546.725087031
+Signature Garden,Park / playground,D,72.803214,18.968419,268699.9247973893,2098774.8977063363
+"Late Shri. N. G. Acharya Udyan,",Park / playground,MW,72.9004327,19.05295,279051.5825514577,2108008.2074580006
+"Bharatratna Dr. Babasaheb Ambedkar Udyan,",Park / playground,MW,72.9006155,19.0599227,279080.0654052894,2108779.906151716
+Swatantrya Sainik Udyan,Park / playground,MW,72.9004349,19.0502104,279048.1846793896,2107704.9109999603
+"Late Shri. D. K. Sandu Udyan,",Park / playground,MW,72.8977791,19.0561632,278776.49409049825,2108367.2780015515
+"Gangamata Udyan,",Park / playground,MW,72.8878002,19.0594956,277730.4489737219,2108748.821330437
+"CTS No FP NO 483,489 Garden plot",Park / playground,KE,72.844,19.092,273163.8668728379,2112403.5160408607
+"Shyam Nagar Talao, CTS No 18 F,19D",Park / playground,KE,72.863219,19.1382303,275249.2083957896,2117496.8773416006
+"Sitaram Purshottam Sathe Udyan,CTS No . F.P 91, Tikka N0 TPS II",Park / playground,KE,72.8486451,19.0995014,273662.9735201179,2113227.987381505
+"Swatantrya Veer Savarkar Udyan,CTS No 582",Park / playground,KE,72.8460155,19.1049245,273393.6089218232,2113831.787628821
+"Sadguru Wamanrao Pai Udyan, CTS No. 21/D",Park / playground,KE,72.864,19.136,275328.36645348824,2117248.9552590195
+"CTS no. 1025, FP no. 112, TPS-II,",Park / playground,KE,72.8501848,19.1006698,273826.6094474343,2113355.350523783
+"CTS No.1189, of",Park / playground,KE,72.8765423,19.1130974,276617.28541501716,2114697.334018021
+"Near Milan subway, CTS No FP 521 TPS V,",Park / playground,KE,72.8433077,19.0908925,273089.4913977243,2112281.801067557
+Plot below Milan Flyover,Park / playground,KE,72.8433077,19.0908925,273089.4913977243,2112281.801067557
+CTS No. 657 658 Marol Andheri east,Park / playground,KE,72.8838349,19.1135414,277385.32081992313,2114737.1874353974
+CTS No.1483/C,Park / playground,KE,72.8769947,19.1037887,276652.38786419947,2113666.1973544243
+Sant Tukaram Maharaj Park CTS no 131/A/1/E,Park / playground,KE,72.8610686,19.1108841,274985.8963530846,2114472.141326429
+"MeenaTai Thackeray Udyan, CTS NO 30, 37 part, 338 part, Hissa No 15/16 ,",Park / playground,KE,72.8601698,19.1081654,274887.6266752046,2114172.3104578224
+CTS NO 169/3,Park / playground,KE,72.864,19.136,275328.36645348824,2117248.9552590195
+"Sanghnirmata Dr. Keshav Baliram Hedgewar Maidan, CTS No FP NO 1 and 2,",Park / playground,KE,72.8500379,19.1033163,273814.74857669836,2113648.5362311937
+"Sainagar Maidan, CTS NO  458 part, 459 part,",Park / playground,KE,72.8470367,19.1140822,273513.560569104,2114844.322276598
+CTS NO 330 part,Park / playground,KE,72.8557962,19.1295322,274456.3582399548,2116543.475459469
+"CTS No 168/6, 167 A part, Survey No 34, Hissa No 2,",Park / playground,KE,72.867,19.137,275645.3835787288,2117355.808499146
+"CTS NO 424, TPS 5,",Park / playground,KE,72.8446274,19.0950935,273234.1176834961,2112745.1871634885
+"Shahaji Raaje Kreedangan , CTS NO 418/C",Park / playground,KE,72.8482579,19.1069202,273632.321960439,2114049.8295024913
+"CTS No. 1296, S.No.153",Park / playground,KE,72.876258,19.1153103,276590.3418123459,2114942.6858871453
+Vishwakarma Kridangan,Park / playground,KE,72.8525223,19.1104721,274085.93910812814,2114437.5483518485
+"Shriman Balasaheb Thakare Kridangan, CTS No. 175 B,176 A",Park / playground,KE,72.8625557,19.106049,275135.8554720619,2113934.9343061815
+"CTS NO 294, Tikka No 16, 17",Park / playground,KE,72.8685336,19.1004621,275757.4404532943,2113308.735832929
+"Bharatratna Dr. Babasaheb Ambedkar Maidan, CTS No 40/E,",Park / playground,KW,72.829,19.126,271631.8125528763,2116187.2310082945
+"Shri Gagangiri Maharaj Maidan, CTS NO 481,",Park / playground,KE,72.863,19.131,275216.3741550492,2116696.6908050547
+"Parampujya Swami Shri Gagangiri Maharaj Kridangan,",Park / playground,KE,72.865122,19.1070598,275407.30064845335,2114043.542383258
+"Chattrapati Shivaji Maharaj Kridangan, CTS No 371/B,373, 375/B, 375/C, 376",Park / playground,KE,72.8589401,19.1297138,274787.42565401865,2116559.5243929727
+"CTS No, 368/2A and 2 B,",Park / playground,KE,72.8640147,19.1310499,275323.21356788184,2116700.9098073244
+"CTS No, 368/294",Park / playground,KE,72.8621667,19.1248767,275120.39770894556,2116019.8512970284
+"Waman Mangesh Dubhashi Kridangan, CTS NO FP NO 296, TPS 2,",Park / playground,KE,72.8513647,19.0979239,273947.0560261676,2113049.82540116
+"Dadasaheb Tatha Shrikrushna Ghaisas Maidan, CTS No. 60 ,",Park / playground,KE,72.8506628,19.1326855,273920.4821881864,2116899.2158896294
+CTS No. 399,Park / playground,KE,72.8595127,19.1179056,274831.67057027464,2115251.4963146923
+CTS No 20 B,Park / playground,KE,72.864,19.125,275313.4808165983,2116031.1434407826
+"CTS No 445/B,445/C,448/B Hissa No 1, survey No 55",Park / playground,KE,72.881,19.112,277084.9223360927,2114570.1525801844
+"Shree Sai- leela Manoranjan Maidan,CTS No.382(B)",Park / playground,KE,72.859,19.127,274790.0480613434,2116259.0012104665
+"Shahid Vijay Salaskar Manoranjan Maidan,",Park / playground,KE,72.8655941,19.1373752,275497.960739132,2117399.1537815672
+CTS No. 55/7,Park / playground,KE,72.8739369,19.1157525,276346.67739461525,2114994.6094572847
+"Bharat van Udyan,CTS NO 132/A/C/D",Park / playground,KE,72.8865563,19.1233774,277684.868941013,2115822.655970102
+CTS NO 191/5,Park / playground,KE,72.8702224,19.1340584,275980.47762242914,2117026.0074969516
+"Matoshri Meenatai Thackeray Maidan,CTS NO 188 & 189",Park / playground,KE,72.8709276,19.1367561,276058.32037835056,2117323.7650129953
+"CTS No 498A/2/3/4,448-D Hissa No 4, Survey No 56",Park / playground,KE,72.8820402,19.1127053,277195.3344874971,2114646.9097859566
+"Sant Dyaneshwar  Maharaj Manoranjan Maidan , CTS No. 131/A/1/D",Park / playground,KE,72.86,19.11,274872.2415924062,2114375.637920214
+"CTS NO 53 P, 54 P, Tikka No 13",Park / playground,KE,72.854,19.142,274284.3060179028,2117926.1154880216
+CTS No 298A/1,Park / playground,KE,72.8853976,19.1179164,277555.6282127497,2115219.5494254455
+CTS 40 B,Park / playground,KE,72.849,19.127,273737.7667466296,2116271.921522402
+"Shaheed Tukaram Ombale Manoranjan Maidan,CTS No 242, Tikka No 12-20 Known as Govind wadi Talao,",Park / playground,KE,72.8595127,19.1179056,274831.67057027464,2115251.4963146923
+"CTS No 238/C,234 /D",Park / playground,KE,72.8623259,19.1173691,275126.98741554096,2115188.478792132
+"Mahakali Ganesh Maidan,CTS NO 522 (P) 524, 525, 526",Park / playground,KE,72.8690866,19.1292796,275854.51375292585,2116498.4043016722
+"CTS NO 294/D, Hissa No 3, 4 & 5,  Survey No. 24,",Park / playground,KE,72.857,19.114,274561.9512440495,2114822.344449827
+"Shri K.K. Bhaiyyaji Krishnkumar Bhaiyyaji Manaranjan Maidan, CTS NO 443/B, Hissa No 10, Survey No 56,",Park / playground,KE,72.865,19.109,275397.082697597,2114258.498359589
+"Veer Abdul Hameed Manoranjan Maidan, CTS NO 1613/4B/1, Hissa No 1 part, Survey No 86, Hiss No 2,5,7,10, 11 part, Survey No 113, Kondivita Village, Lele Wadi, Village Marol, Andheri (East)",Park / playground,KE,72.88,19.106,276971.6363589783,2113907.1735695465
+"Mother Teresa Manoranjan Maidan, CTS No 398/B/part R.G Survey No 89 A1",Park / playground,KE,72.861565,19.1085591,275034.9898990022,2114214.1016523563
+"Shri Swami Samarth Manoranjan Maidan,CTS NO 368/2C",Park / playground,KE,72.863,19.131,275216.3741550492,2116696.6908050547
+"Playground at Borla Village, Moti Baug, CTS No.619/27, Village Borla",Park / playground,MW,72.9084002,19.0498802,279886.28840168915,2107658.3406707016
+"Baba Hardev Singh Gardesn,TDR  Plot at Borla Village CTS No.619/2, 619/3 (pt)",Park / playground,MW,72.9075812,19.0500027,279800.23065359856,2107672.930233522
+"TDR plot at Anik village Depot. CTS no. 214-C,",Park / playground,MW,72.8905917,19.0320261,277987.7551261911,2105704.197113739
+"PG plot at Collectors colony CTS no. 453/B, 454 (pt), Wadhavali, Chembur",Park / playground,MW,72.8914,19.0446,278089.5767350772,2107095.2021576487
+"PG plot at Atur Park Road, Borla village, CTS no. 612/B, Chembur",Park / playground,MW,72.9048,19.0502,279507.7031543368,2107698.26659324
+"P.G. Plot bearing CTS No. 586/9A, N. B. Patil Road",Park / playground,MW,72.9084002,19.0498802,279886.28840168915,2107658.3406707016
+"P.G. Plot bearing CTS No. 179, 179/137, Mukund Nagar, Chembur",Park / playground,ME,72.8962,19.0333,278579.9208661486,2105838.144332591
+Dr. Ambedkar udyan,Park / playground,ME,72.919011,19.052796,281007.15600405994,2107967.856213356
+Siddharth Udyan,Park / playground,ME,72.9122909,19.0580207,280306.6027271573,2108554.670229942
+Sant Rohidas Udyan,Park / playground,ME,72.923073,19.05092,281432.3104758855,2107755.104480833
+Kumar Bhupesh Udyan,Park / playground,ME,72.9225321,19.0551693,281380.93910440063,2108226.201912264
+"Garden Plot,A Block ,",Park / playground,ME,72.92021,19.05285,281133.4475465497,2107972.3375991397
+"Mahatma Jyotiba Phule Udyan,",Park / playground,ME,72.9213525,19.0536945,281254.8279988829,2108064.4035152267
+"CTS NO.2/10, Garden Plot,Lotus Colony, Abdul Hameed Marg, Shivaji Nagar, Govandi.",Park / playground,ME,72.92227,19.06535,281366.7007447542,2109353.594894647
+Shahid Ashok Kamate manoranjan maidan,Park / playground,ME,72.92681,19.05745,281834.2572043112,2108473.3609999088
+Amarnath Patil Manoranjan Maidan,Park / playground,ME,72.9148512,19.0509484,280566.8155974152,2107768.5144197503
+Rajarshi Shahu Maharaj Manoranjan Maidan,Park / playground,ME,72.91652,19.0605,280755.05480636266,2108823.8509961674
+Ustad Lahuji Salve manoranjan maidan,Park / playground,ME,72.919011,19.052796,281007.15600405994,2107967.856213356
+Bindu Madhav Thakare manoranjan maidan,Park / playground,ME,72.9250467,19.0432581,281630.0578276552,2106904.4288403788
+Dattaram Ganpat Patil Manoranjan Maidan,Park / playground,ME,72.9208329,19.050832,281196.3736941661,2107748.155338485
+Savitribai Phule Manoranjan Maidan,Park / playground,KW,72.82895,19.15132,271661.39282130235,2118990.5308361594
+RG Plot CTS No. 373/4 0f Deonar Village.,Park / playground,ME,72.91647,19.04509,280729.5309918147,2107117.927834716
+"RG Plot CTS No. 767 (pt.) & 768 (pt.) Borla Village,Deonar Farm Road.",Park / playground,ME,72.91317,19.04375,280380.3539050347,2106973.708702483
+Badalu Agrwal Manoranjan Maidan,Park / playground,ME,72.935921,19.041714,282772.8622513794,2106719.991007949
+"CTS NO.769/2,Deonar Farm Road.",Park / playground,ME,72.91317,19.04375,280380.3539050347,2106973.708702483
+Borabadevi Manoranjan Maidan,Park / playground,ME,72.9114067,19.0549671,280209.498834315,2108217.72433215
+"RG Plot at  C.T.S. No. 169,Maravali , Rahulnagar",Park / playground,MW,72.90587,19.04878,279618.47019102756,2107539.7179652555
+"Dr. Keshav Baliram Hedgewar Udyan,",Park / playground,N,72.905323,19.074698,279595.15897663834,2110409.712413299
+Gopinth Munde Traffic Training park,Park / playground,HW,72.8335222,19.073648,272035.93705800653,2110385.3528366527
+"Nana Nani Park,",Park / playground,ME,72.9050352,19.03107,279507.18949308223,2105580.147625907
+"Shrimad Vallabhacharya Rajawadi Udyan,",Park / playground,N,72.9024994,19.0782719,279302.6868668873,2110808.9246014347
+"Lions children Park,",Park / playground,N,72.9060018,19.0761059,279668.4709493596,2110564.7232220857
+"Subhash Chandra Bose Udyan,",Park / playground,N,72.9105931,19.0883959,280167.9678313554,2111919.544052017
+"Saint Gadge Maharaj Udyan,",Park / playground,N,72.913094,19.0945843,280439.3517548598,2112601.5046250895
+"Kesharwala Udyan,",Park / playground,N,72.9053676,19.0797566,279606.54813736456,2110969.6801366443
+"Saibaba Udyan,",Park / playground,N,72.9110804,19.0863054,280216.49548781186,2111687.4990843995
+"Rajkamal Udyan,",Park / playground,N,72.9103092,19.0943743,280145.9863327469,2112581.7522006687
+"Jaswantrai Mehta Udyan,",Park / playground,N,72.9070893,19.0832086,279792.3317900436,2111349.675780888
+"Dr.Babasaheb Amedkar Udyan,",Park / playground,HE,72.8493048,19.0604916,273679.38600480097,2108908.3402212746
+"Shankar Genuji Adangale baba Udyan,",Park / playground,HE,72.8493048,19.0604916,273679.38600480097,2108908.3402212746
+"A Block Udyan,",Park / playground,N,72.904438,19.097045,279531.6056158173,2112884.804817579
+"H Block Udyan,",Park / playground,N,72.9031464,19.0994463,279398.8565581903,2113152.2748540556
+S.M. Jadhav Udyan,Park / playground,N,72.9101371,19.0844709,280114.7890541853,2111485.591335922
+"Nana Nani Park,",Park / playground,ME,72.9050352,19.03107,279507.18949308223,2105580.147625907
+"50 B, recreation ground",Park / playground,ME,72.9050352,19.03107,279507.18949308223,2105580.147625907
+"Kamgar Nete Dattaji Salvi Maidan,",Park / playground,N,72.9041374,19.1009832,279505.18982868025,2113321.172144132
+"Gen Arun Kumar Vaidya maidan,",Park / playground,N,72.9114236,19.0825705,280247.6872790247,2111273.5886618714
+Acharya Atre Maidan,Park / playground,N,72.9147921,19.0852737,280605.7949671086,2111568.6275795684
+Dadaseb Gaikawad Udyan,Park / playground,ME,72.92021,19.05285,281133.4475465497,2107972.3375991397
+"Garden Plot ,Garden Plot in Gautam Nagar Colony No.1,Govandi",Park / playground,ME,72.9135594,19.0583836,280440.61396132177,2108593.2566874167
+"Usha Suresh Patil udyan,",Park / playground,ME,72.92681,19.05745,281834.2572043112,2108473.3609999088
+Dr. Babasaheb Ambedkar Udyan,Park / playground,ME,72.921726,19.0608169,281303.48939463403,2108852.4312223634
+"Shree Swami Samarth Udyan ,",Park / playground,ME,72.9238363,19.0571547,281520.83367214433,2108444.372221599
+Name,Park / playground,ME,72.920349,19.05279,281148.00155352126,2107965.5217652856
+Sahid Ashok Kamate manoranjan maidan,Park / playground,ME,72.92227,19.06535,281366.7007447542,2109353.594894647
+Name,Park / playground,ME,72.92227,19.06535,281366.7007447542,2109353.594894647
+"Shriman Balasaheb Thakare Play ground ,",Park / playground,ME,72.920349,19.05279,281148.00155352126,2107965.5217652856
+Dindayl Upadhyay Udyan,Park / playground,ME,72.9454013,19.0388637,283767.23171381454,2106392.740681819
+"Mahavir Education Trust Kridangan ,",Park / playground,ME,72.9211,19.04757,281220.21363328834,2107386.698826585
+Bashir Mohd. Mulla Maidan,Park / playground,ME,72.92948,19.04447,282098.36611452606,2107033.0814579604
+"KrantiSingh Lahuji Salve Maidan ,",Park / playground,ME,72.929593,19.0447328,282110.60553955636,2107062.0345522272
+"Lokanete Gopinath Munde Play ground ,",Park / playground,ME,72.89833,19.01174,278775.62849479885,2103448.6139182337
+"Dr. A. P.J. abdul kalam maidan ,",Park / playground,ME,72.9261071,19.0564776,281758.9912872802,2108366.5853096917
+"Karbala Maidan,",Park / playground,ME,72.9501975,19.039881,284273.48551188945,2106499.4579697857
+Lokashahir Annabhau sathe Play ground,Park / playground,MW,72.90877,19.05134,279927.14492681506,2107819.4864499737
+"PG Plot CTS No.166 B,",Park / playground,ME,72.91484,19.05449,280570.2965293542,2108160.60655282
+"CTS No. 342 , Aanik Village,",Park / playground,ME,72.89833,19.01174,278775.62849479885,2103448.6139182337
+Sharadbhau Acharya Maidan,Park / playground,MW,72.89024,19.01733,277931.18819961196,2104077.6722020353
+Name,Park / playground,MW,72.89024,19.01733,277931.18819961196,2104077.6722020353
+Dr. Babasaheb Ambedkar Maidan,Park / playground,HE,72.86984,19.07402,275859.32475485886,2110379.67322194
+Mata Ramabai Ambedkar Maidan,Park / playground,KW,72.82171,19.12748,270866.7255564056,2116360.630069122
+Chhatrapati Shahu Maharaj manoranjan maidan,Park / playground,ME,72.9328919,19.028742,282437.05978105625,2105287.6742369737
+Sahakar Maharshi Rajaram Bapu Patil R.G.,Park / playground,ME,72.92681,19.05745,281834.2572043112,2108473.3609999088
+J. Navmal Maidan,Park / playground,MW,72.8985,19.05459,278850.2971598114,2108192.2036990444
+Garden Plot adjoining S. N. Acharya School,Park / playground,MW,72.8903443,19.0282509,277956.68721427734,2105286.5665374226
+"Garden Plot Near Gandhi Maidan,",Park / playground,MW,72.8979786,19.0580167,278799.95469901676,2108572.222635026
+"Garden Plot Near Sai Arpan Building, Mysure Colony, Chembur CTS No.200/B, 201 Village Anik",Park / playground,MW,72.8905917,19.0320261,277987.7551261911,2105704.197113739
+"Bhakti Park Garden,",Park / playground,MW,72.8807,19.0285,276941.58174478775,2105326.3675014814
+"TDR plot at Anik village Depot, CTS no.  214,  214 (pt), 216 (pt), 214 F (pt), 215 E (pt)",Park / playground,MW,72.8807,19.0285,276941.58174478775,2105326.3675014814
+"Lokshahir Annabhau Sathe Udyan,",Park / playground,MW,72.8844875,19.0539741,277374.35122531204,2108141.749041851
+"Jaitwan Udyan,",Park / playground,MW,72.8898623,19.0609197,277949.42124657205,2108903.867430464
+"Sadguru Jairamdas Kunj Udyan,",Park / playground,MW,72.892341,19.051272,278197.51528661675,2107832.654028145
+"Late Shri. R. H. Shisode Udyan,",Park / playground,MW,72.9034326,19.0596998,279376.321018642,2108751.681930718
+"Playground Near Smruti Building, Pestom Sagar. CTS No.623 (pt.)",Park / playground,MW,72.9047069,19.0706337,279524.929973293,2109960.540124245
+"R.G. Vatsalatai Naik Nagar, Suman Nagar, E.E. Highway, Chembur CTS No.116 (pt.)/ 123 (pt)",Park / playground,MW,72.8838697,19.0529299,277307.91926783696,2108026.9319182327
+R.G. Near Kangra Bhavan,Park / playground,MW,72.9034614,19.0724393,279396.2182474998,2110162.000937809
+"R.G. at Anik Village Mysure Colony Road, Near Mithul Enclave, Chembur CTS No. 217/B",Park / playground,MW,72.8905917,19.0320261,277987.7551261911,2105704.197113739
+"R.G. at Anik Village Mysure Colony Road, Near Mithul Enclave, Chembur CTS no.217(C),Mahul Village",Park / playground,MW,72.8905917,19.0320261,277987.7551261911,2105704.197113739
+"Garden at Vrindavan Colony, Tilak Nagar, Chembur CTS No.7",Park / playground,MW,72.89996,19.07173,279026.71949513454,2110087.888531364
+Rock Garden,Park / playground,MW,72.89996,19.07173,279026.71949513454,2110087.888531364
+"TDR plot of Anik village Depot, CTS no. 220 (D), 215 (B)",Park / playground,MW,72.8905917,19.0320261,277987.7551261911,2105704.197113739
+"Plot bearing CTS No. 669/A, V. N. Purav Road",Park / playground,MW,72.9048,19.0502,279507.7031543368,2107698.26659324
+Lokmanya Tilak Maidan,Park / playground,MW,72.9067813,19.0598432,279729.0215326904,2108763.3465369195
+"Mahatma Gandhi Maidan,",Park / playground,MW,72.8992545,19.0579866,278934.22805796494,2108567.2811175776
+"Municipal Playground, Tilaknagar",Park / playground,MW,72.8943426,19.0667793,278428.8435385028,2109546.901560603
+Playground near Ayyappa Temple,Park / playground,MW,72.8932917,19.0640547,278314.5970037817,2109246.5959942015
+"Playground Near Marawali Church, R.C. Marg, Chembur CTS no.316 (pt.), 19 (pt.)",Park / playground,MW,72.8932083,19.0406643,278274.72170464555,2106657.2040405334
+"L.S. Rokade Maidan, Near Municipal School CTS no.49 (pt.)",Park / playground,MW,72.8904057,19.0637724,278010.42337346566,2109218.9958159314
+Shri. Nanak Bhojwani Udyan CTS no.27 (pt.),Park / playground,MW,72.8985,19.05459,278850.2971598114,2108192.2036990444
+Shri Ganesh Udyan,Park / playground,MW,72.8961071,19.0672611,278615.2221100531,2109598.010588755
+"Playground Near Adarsha Vidyalaya, Sahakar Nagar, Chembur. CTS No.49 (pt.)",Park / playground,MW,72.88961,19.062993,277925.62449732656,2109133.717937098
+"Playground Near Ghatla Municipal School, ChemburCTS no.586/3",Park / playground,MW,72.9075359,19.0523286,279798.5326280568,2107930.480250277
+"Garden Plot at Mahul Village Road, Anik Village CTS NO.232/A/ 1/3, Anik",Park / playground,MW,72.8905917,19.0320261,277987.7551261911,2105704.197113739
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9380327,19.1162628,283092.3033793514,2114970.3392026667
+C.T.S. No. 340,Park / playground,S,72.9331362,19.1171103,282578.1507001,2115070.245218899
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9385022,19.1180291,283144.01421909383,2115165.2964913826
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9404812,19.1150549,283348.3852500898,2114833.5815811865
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9388052,19.120904,283179.6505296959,2115483.1889166976
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9362459,19.1144546,282901.9153057168,2114772.378615905
+C.T.S. No. 150(pt),Park / playground,S,72.9313716,19.1212514,282397.88514946064,2115530.886611856
+C.T.S. No. 350(pt),Park / playground,S,72.9311854,19.1141099,282368.9382143497,2114740.5096573387
+C.T.S. No. 252c,Park / playground,S,72.9297988,19.1118482,282220.0596776543,2114491.851797659
+CTS No-773(pt),Park / playground,S,72.9389,19.1626,283244.0992654322,2120099.072528953
+CTS No-547/a,Park / playground,S,72.9378837,19.1623545,283136.8622454612,2120073.1574579487
+CTS No-411/f,Park / playground,S,72.9404192,19.1517048,283389.68614513683,2118891.0193441818
+"CTS No-373/A,36/B",Park / playground,S,72.929343,19.145507,282216.24242341553,2118218.66686876
+"CTS No.373/A,37/B",Park / playground,S,72.9301072,19.1460841,282297.4030110865,2118281.6024163896
+"CTS No.373/A,36B/A",Park / playground,S,72.9299817,19.1457107,282283.7088706463,2118240.421087121
+Adishakti Shree Ekveeramata Kridangan.,Park / playground,S,72.94932,19.15121,284325.4745451963,2118825.217942153
+CTS No.301/D,Park / playground,S,72.9414599,19.1575943,283506.8655900401,2119541.7313920083
+CTS No.993,Park / playground,S,72.9348813,19.1520353,282807.48769750335,2118934.4910305366
+Sahid Jaywant Hanumant Patil R.G.,Park / playground,S,72.9293316,19.1353277,282201.68343757116,2117091.7653479236
+"CTS No.339A/2, 339A/3",Park / playground,S,72.9451542,19.1581589,283896.2564942252,2119599.6556279105
+"CTS No-654/C,642/1,426/E",Park / playground,S,72.9391,19.14392,283240.72345721093,2118030.832142153
+"CTS No.419/A/1/3,",Park / playground,S,72.9393847,19.1499558,283278.5631447402,2118698.678672814
+CTS No-403/B/4,Park / playground,S,72.9403852,19.1510581,283385.26440658775,2118819.4679050986
+CTS No.607/C/2,Park / playground,S,72.9298,19.1366295,282252.67567234434,2117235.2990611224
+CTS No-617/B/3,Park / playground,S,72.9336882,19.140985,282667.4875358243,2117712.6371686533
+"CTS No.198,198/1 to 18",Park / playground,S,72.9340448,19.1535865,282721.51371480536,2119107.2602491304
+Prabodhankar Thakare Manoranjan Maidan,Park / playground,S,72.9170193,19.1087028,280871.0750154379,2114159.599788657
+"CTS no 581/F,588/A,589/A,590/4, 591,592A(pt),594A(pt),597",Park / playground,RN,72.8475609,19.2515368,273756.66332965915,2130061.4683091277
+Jari mari garden,Park / playground,RN,72.8648059,19.2542386,275573.63029867574,2130338.207409604
+Sane Guruji garden,Park / playground,RN,72.856965,19.254827,274749.98911544547,2130413.5051915236
+CTS No.  535/A/3/4,Park / playground,RN,72.8482185,19.2515066,273825.7680000955,2130057.268041123
+CTS No.1246,Park / playground,RN,72.846513,19.245114,273637.66254952515,2129351.750605858
+"CTS No. 2758/A/2, 2758/A/3",Park / playground,RN,72.86939,19.24782,276046.91535710584,2129621.6773813055
+CTS No.889,Park / playground,RN,72.8513152,19.2508903,274150.5391009697,2129985.005136989
+Dahisar cemetary,Park / playground,RN,72.85535,19.26093,274588.52289069176,2131091.2767107473
+"Hutatma Babu Genu Maidan,",Park / playground,N,72.9107439,19.0970424,280195.2618911882,2112876.5839683698
+"Chhatrapati Shivaji Maharaj Maidan,",Park / playground,N,72.9177,19.10304,280935.2485756643,2113531.836044396
+"Jai Maharashtra Ganesh Maidan,",Park / playground,N,72.90054,19.0888,279110.4170366063,2111976.9355192687
+"MTNL Play Ground plot,",Park / playground,N,72.91407,19.09202,280538.6890991089,2112316.39458799
+"Shirishkumar pai Maidan,",Park / playground,N,72.901955,19.097781,279271.2601850039,2112969.415930438
+Chittaranjan Kridangan,Park / playground,N,72.899447,19.0796004,278983.16524072515,2110959.8486525742
+Play Ground plot at Laxmi Baugh  Ghatkopar (E),Park / playground,N,72.9182354,19.0933383,280978.8201416524,2112457.1217088886
+Maharashtra Bhushan Ti. Dr. Nanasaheb Dharmadhikari Kridangan,Park / playground,N,72.9028097,19.0966112,279359.6606919161,2112838.8321913905
+"Pankheshah Baba Recreation Ground,",Park / playground,N,72.9160287,19.0958397,280749.8699907966,2112736.8068146743
+"Subhedar Ramji Maloji Ambedkar Udyan,",Park / playground,N,72.9184065,19.1025641,281008.97386735,2113478.266089396
+"Meenatai Thakre Udyan,",Park / playground,N,72.9172597,19.0985161,280882.9514048948,2113031.56071534
+"Krantiveer Shyamji Krushna Varma Udyan,",Park / playground,N,72.896826,19.088926,278719.6862643317,2111995.5752478
+"New Maneklal Maidan,",Park / playground,N,72.9017373,19.0893767,279237.197638892,2112039.2702546776
+"R.G.Plot,Nr Mac Lab Kirol gaon",Park / playground,N,72.897177,19.080306,278745.1721814776,2111040.8302467423
+"R.G.Plot,Nr. Godrej & Boise Ltd.",Park / playground,N,72.92831,19.103659,282052.6523734735,2113587.110524058
+"R.G. at Park site Vikhroli (W), 1/10",Park / playground,S,72.9180052,19.1097154,280976.16166094004,2114270.466564031
+"Munisuvrat Udyan,Navroji Hill Road, Ghatkopar(W)",Park / playground,N,72.90407,19.085078,279477.01743680343,2111560.431928524
+"Clover Recreation Ground,",Park / playground,N,72.902095,19.080766,279263.42745140503,2111085.549751327
+"R.G. Plot nr Mahendra & mahendra Park Building,",Park / playground,N,72.8968397,19.0893571,278721.7013858127,2112043.2840971122
+"R.G. plot bearing CTS No. 50B,",Park / playground,N,72.918805,19.0981342,281045.0803486033,2112987.347368099
+Pramod Mahajan Van Udyan,Park / playground,T,72.9083,19.14189,279997.4510410228,2117844.6236993833
+Chhatrapati Shivaji Maharaj Udyan,Park / playground,S,72.9122246,19.122835,280385.17538309155,2115730.152117702
+George Fernandes Rock Garden,Park / playground,S,72.9050233,19.1151301,279617.1781381394,2114886.225450052
+C.T.S. No. 2A/4D,Park / playground,S,72.9174681,19.1052466,280913.7507351703,2113776.4122715723
+"C.T.S. No. 13/D, Powai",Park / playground,S,72.9076811,19.1164731,279898.64484789316,2115031.557429214
+"C.T.S. No. 22/2, Powai",Park / playground,S,72.9088011,19.1135007,280012.56981590507,2114701.0807499117
+Sahakar Maharshi Baburao Paranjape Udyan,Park / playground,S,72.9345,19.13591,282746.2578155546,2117149.792425661
+"C.T.S. No. 15/F, Powai",Park / playground,S,72.9089774,19.114821,280032.87007124815,2114847.0259952326
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9336,19.1162797,282625.8699039377,2114977.715928818
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9372347,19.1196943,283012.81074576394,2115351.216927895
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9340011,19.1111192,282661.32955809444,2114405.9185758866
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,L,72.8863492,19.1158647,277653.0217014079,2114991.1975554964
+"C.T.S. No. 356(pt),kannmawar nagr",Park / playground,S,72.9405057,19.1217374,283359.6765941839,2115573.34245759
+CTS No-350(pt),Park / playground,S,72.9333913,19.1130652,282599.7032187219,2114622.110647541
+CTS No-339,Park / playground,S,72.9346701,19.1179095,282740.6081856232,2115156.8144349447
+CTS No-125/121(pt),Park / playground,S,72.9292376,19.1234606,282176.22613477556,2115778.1175274192
+CTS No-160,Park / playground,S,72.9312968,19.118525,282386.44302664197,2115229.1501355525
+CTS No-3926,Park / playground,S,72.9345425,19.120208,282730.18665328366,2115411.430987491
+CTS NO 281,Park / playground,S,72.9325634,19.1146176,282514.61251953896,2114795.000466759
+CTS No-458(pt),Park / playground,S,72.9372846,19.151237,283059.28946816735,2118843.124755149
+CTS NO -4c,Park / playground,S,72.9382059,19.1198718,283115.24018630583,2115369.6618431425
+Pandit Dindayal Upadhyay Udyan,Park / playground,S,72.9066789,19.1194571,279797.13610730815,2115363.171124878
+"C.T.S. No. 2A/4B, Vikhroli (W)",Park / playground,S,72.917684,19.1061354,280937.64273686486,2113874.538144776
+"C.T.S. No. 13A/1/2, Powai",Park / playground,S,72.9076781,19.1169543,279898.9665457618,2115084.8336840165
+CTS No. 2853/C,Park / playground,RN,72.871506,19.252286,276275.4720059433,2130113.385185036
+"Sports Complex Bhavdevi  CTS No.140(Pt), 149(Pt), 150, 151(Pt), 171, 172, 173, 174, 175, 177, 178, 185 & 185/1, 186/A (pt) & 186/B (pt), 187, 187/1 To 4, 196, 2790, 88/f, 142, 144, 145, 146, 147, 148,1235/A",Park / playground,RN,72.85577,19.24681,274613.3820818997,2129527.4790211585
+CTS No. 2941/B & 2940/B,Park / playground,RN,72.873,19.253148,276433.730901221,2130206.8935561716
+Dr.Babasaheb Ambedkar Udyan MCGM,Park / playground,RS,72.8702609,19.2068746,276082.97496729356,2125087.455907567
+Swatantryaveer Savarkar Udyan MCGM,Park / playground,RS,72.8556017,19.19906,274530.5110719737,2124241.2184541184
+Rajiv Gandhi udyan MCGM,Park / playground,RS,72.8507627,19.2133554,274041.07316891255,2125830.1610293
+MCGM Garden Near Mihar Complex,Park / playground,RS,72.8189364,19.2099232,270689.0039692318,2125491.8166237837
+MCGM Garden Near Green Hill CHSL,Park / playground,RS,72.8706331,19.1971168,276108.9106530694,2124006.685811071
+Maharana Pratap Udyan MCGM,Park / playground,RS,72.8741918,19.2001875,276487.3735315831,2124342.071345166
+Sai Udyan MCGM,Park / playground,RS,72.8732204,19.2003776,276385.4582071655,2124364.3649434494
+MCGM Garden near Bhoomi CHS,Park / playground,RS,72.8791174,19.2062682,277013.65018910565,2125008.9489235473
+"MCGM Playground, Attached to Gundecha School",Park / playground,RS,72.8773463,19.2118335,276834.8859113273,2125627.3548907507
+Rajeev Gandhi Maidan MCGM,Park / playground,RS,72.8629078,19.2127755,275317.62191119476,2125750.228728194
+MCGM Plot at Atmaram Sawant marg,Park / playground,RS,72.8596323,19.1986213,274953.8611649863,2124187.434042091
+MCGM play gournd near Essbel Bldg,Park / playground,RS,72.8760484,19.1954291,276676.22697474353,2123812.8852039855
+Savitribai Phule Maidan MCGM,Park / playground,RS,72.8756225,19.198183,276635.1481002364,2124118.316321073
+MCGM Play ground Nr. Naman Towers,Park / playground,RS,72.8487175,19.1965796,273803.02222100546,2123975.5396972285
+MCGM PG at Sambhaji school,Park / playground,RS,72.8634214,19.2010121,275355.6544757084,2124447.227811578
+MCGM PG at Akurli cross road no.3,Park / playground,RS,72.863377,19.2012447,275351.3004352981,2124473.0364760114
+MCGM plot attached to Thakur Public School,Park / playground,RS,72.875327,19.2091768,276618.91967771784,2125335.822174227
+Netaji Subhash Chandra Bose Kridangan MCGM,Park / playground,RS,72.8458315,19.2115227,273519.9300125403,2125633.67168833
+MCGM plot at Parekh Nagar,Park / playground,RS,72.8452943,19.2090012,273459.9741220306,2125355.2106484114
+MCGM plot near Shyam Narayan School,Park / playground,RS,72.8743922,19.2131114,276525.9223679061,2125772.6237377585
+MCGM plot Nr.Spring club,Park / playground,RS,72.8467633,19.210871,273617.03922474233,2125560.3079244643
+MCGM Plot at village poisar.,Park / playground,RS,72.8599581,19.209292,275002.65050477197,2125368.378447123
+St.Meery PG MCGM,Park / playground,RS,72.8200261,19.2124871,270807.17119761754,2125774.2391657457
+MCGM plot Mahavir Ngr,Park / playground,RS,72.8411308,19.211414,273025.3848934419,2125627.763365278
+Lokmanya Bal Gangadhar Tilak Manoranjan Maidan MCGM,Park / playground,RS,72.8494089,19.1969912,273876.3092270233,2124020.2105002063
+MCGM Recreation Ground near Thakur engineering College,Park / playground,RS,72.8758771,19.2063353,276672.9375840947,2125020.532741076
+Priyadarshini Indira Gandhi Manoranjan Maidan MCGM,Park / playground,RS,72.8552802,19.1970515,274493.95659250027,2124019.2711152127
+Khajuriya udyan MCGM,Park / playground,RS,72.8488874,19.1964918,273820.77295669407,2123965.598482539
+Sahitya Samrat Aanabhau Sathe Manoranjan Maidan MCGM,Park / playground,RS,72.8698001,19.1985354,276023.2144674194,2124164.811200888
+MCGM plot at Mahaveer Ngr,Park / playground,RS,72.841045,19.2113836,273016.31911547075,2125624.50965205
+"Shyam Naryan Singh Thakur, Manoranjan maidan MCGM",Park / playground,RS,72.8644918,19.2107038,275481.40167712735,2125518.8237524084
+Pramod Navalkar udyan MCGM,Park / playground,RS,72.8593124,19.2088956,274934.19896155316,2125325.3276076517
+"MCGM plot Nr.Swayambho Ganesh Mandir,",Park / playground,RS,72.8558149,19.1967604,274549.80144823156,2123986.3505602013
+MCGM PLOT back side of R/South Ward office,Park / playground,RS,72.844801,19.203844,273401.0218434199,2124784.8888172354
+Punyoshlok Ahilyabai Holkar Maidan MCGM,Park / playground,RS,72.8577752,19.2002598,274760.75853795046,2124371.2361481353
+MCGM Play ground Near sheikh Quarry,Park / playground,RS,72.8800149,19.2068841,277108.87632246024,2125075.985467862
+Dadoji Kandev Maidan MCGM,Park / playground,RS,72.871721,19.2124159,276244.0443946419,2125699.058124262
+MCGM Play ground next to Oxford Public School,Park / playground,RS,72.8764707,19.2070063,276736.2765179039,2125094.0576443607
+Mahalaxmi Udyan MCGM,Park / playground,RS,72.8769706,19.2080807,276790.30469536496,2125212.3634181432
+Evershine Joggers Park MCGM,Park / playground,RS,72.8763386,19.210873,276727.6056138312,2125522.3105710135
+MCGM garden near Charkop Bus stop,Park / playground,RS,72.8107085,19.2081461,269821.1390338547,2125305.931596254
+Madharao Sindhiya udyan MCGM,Park / playground,RS,72.8760871,19.2000804,276686.5774214397,2124327.7818148425
+MCGM Plot at Village Akurli,Park / playground,RS,72.8769889,19.1951496,276774.77481495205,2123780.7357114693
+MCGM Garden near Gundecha School,Park / playground,RS,72.8769774,19.2123543,276796.7909783974,2125685.4860476437
+MCGM Plot at Charkop village,Park / playground,RS,72.8186101,19.2128288,270658.716682891,2125813.9361880575
+MCGM Plot at Charkop Village,Park / playground,RS,72.8186407,19.2126423,270661.6762341135,2125793.247755527
+Loknete Maa.Gopinath Munde Udyan MCGM,Park / playground,RS,72.8395784,19.2137165,272865.2755123044,2125884.704761514
+MCGM Plot at village Akurli,Park / playground,RS,72.8564452,19.2040243,274625.99809224013,2124789.730448771
+Veer Abdul hamid udyan MCGM,Park / playground,RS,72.8685265,19.1984036,275889.07630923484,2124151.858594218
+MCGM plot opp.Swami Vivekanand School,Park / playground,RS,72.8465263,19.2094619,273590.18250642554,2125404.6120648626
+MCGM Plot next to Kapol Vidyanidhi School,Park / playground,RS,72.8440175,19.2104984,273327.7380208863,2125522.631720644
+Shaheed Bhagatsingh Miadan MCGM,Park / playground,RS,72.8724534,19.2110082,276319.16780178936,2125542.269076624
+Shri Kantilal Ravaji Makhecha MCGM,Park / playground,RS,72.838718,19.2024161,272759.2499804825,2124634.7338562366
+Sahid Tukaram Ombale,Park / playground,RN,72.845844,19.2489731,273572.61265009583,2129779.872923219
+"CTS no 3/7/A, 3/7/b & 63A",Park / playground,RN,72.850391,19.260722,274066.8341419067,2131074.6970743407
+CTS No. 319/F,Park / playground,RN,72.85657,19.25808,274712.9016843557,2130774.163559312
+"Cts no 108/a,109,110,113",Park / playground,RN,72.855274,19.258865,274577.7078661721,2130862.7551365946
+Plot bearing cts no 101,Park / playground,RN,72.85368,19.2594,274410.8403302948,2130924.057146866
+CTS No. 255 E,Park / playground,RN,72.8554397,19.2559634,274591.1626992902,2130541.2980851135
+CTS NO. 628/D/1,Park / playground,RN,72.849963,19.25108,274008.6160103183,2130007.7666563527
+CTS no 2395/C,Park / playground,RN,72.866707,19.240744,275755.1785009148,2128841.74716406
+CTS NO.1400-D/,Park / playground,RN,72.8621729,19.2600854,275304.74875652837,2130988.9217952928
+Chatrapati Shivaji Maharaj Kridangan,Park / playground,RN,72.865397,19.261777,275646.0424788837,2131172.0302631212
+CTS no 1161/A,Park / playground,RN,72.862362,19.254482,275316.9942330256,2130368.3157488187
+CTS No.1233/c /5,Park / playground,RN,72.846304,19.244397,273614.7015389966,2129272.642251154
+CTS No.942A/B,Park / playground,RN,72.8463445,19.2494397,273625.88113617734,2129830.878781245
+"Pandurang Shastri Athavle CTS No.2567, 2567/5, 2561/B",Park / playground,RN,72.86871,19.24535,275972.05846124433,2129349.098025708
+"CTS NO 1271/D, 1099(pt)",Park / playground,RN,72.846163,19.245679,273601.63431831496,2129414.759296613
+"CTS No.83/C,84/B/2",Park / playground,RN,72.85407,19.24776,274435.92318242206,2129634.862507523
+"Mata Ramabai Ambedkar PG, CTS No.675/6, 675/7",Park / playground,RN,72.849719,19.255126,273988.50551091146,2130456.0260246606
+Shantiniketan,Park / playground,RN,72.855124,19.248407,274547.6369641147,2129705.1244093874
+Baba Amte CTS No.1407/D,Park / playground,RN,72.859472,19.25917,275019.5185501678,2130891.0752455057
+Vinoba Bhave P.G,Park / playground,RN,72.855302,19.253484,274573.29410250083,2130266.9776908956
+Mother Teressa PG CTS No.1235/A,Park / playground,RN,72.846163,19.245679,273601.63431831496,2129414.759296613
+"PG Meenatai Thakre CTS No.1831/1,1831/3",Park / playground,RN,72.86307,19.24253,275375.16074502876,2129044.176416409
+PG Lokshahir Vittal Vumap Maidan,Park / playground,RN,72.8688091,19.2455496,275982.7500817349,2129371.0681349626
+PG Sant Dnyaneshwer Mauli maidan,Park / playground,RN,72.8694907,19.2415516,276048.99451743497,2128927.5664466303
+PG Veer Savarkar Maidan CTS No. 2346/3,Park / playground,RN,72.86555,19.24052,275633.2094968454,2128818.4417420444
+"PG Geetanjali   CTS No.102/A,106/C,88/A,94C,105B,95,92,92 (part)",Park / playground,RN,72.8544848,19.2483894,274480.40051339974,2129704.0058675716
+Netaji subhashchandra Bose play ground,Park / playground,RN,72.85991,19.25031,275053.4835546866,2129909.601994379
+"CTS No. 368/3, 335/4",Park / playground,RN,72.858192,19.25877,274884.3883331744,2130848.4502248676
+"Dr. Rajendra Kumar Goyal CTS No.1472, 1474",Park / playground,RN,72.846105,19.243777,273592.92503436515,2129204.2599751884
+"Pt. Deendayal Upadhyay PG, CTS No. 921/f",Park / playground,RN,72.857189,19.24208,274756.13422569714,2129001.9715434993
+Karmayog Udyan,Park / playground,RN,72.85091,19.24353,274097.85220904165,2129170.6578160264
+"CTS No. 63/B/2,63/D/2, 67/A,69/B & 66/D",Park / playground,RN,72.850346,19.261337,274062.9457818754,2131142.843721603
+"Shri. Maruti Mandir Maidan, CTS No. 2398/A,",Park / playground,RN,72.8675,19.24219,275840.53092693165,2129000.8120064894
+"CTS No.376, S.No.37, FP No.477,",Park / playground,RC,72.8380002,19.2217864,272710.3925425572,2126780.205464692
+CTS No.128A/83,Park / playground,RC,72.8437355,19.2139258,273302.77997833467,2125902.454038081
+Sachin Tendulkar Gynkhana CTS No.128A/59/1,Park / playground,RC,72.8425178,19.2146704,273175.7323720938,2125986.477763237
+PG at CTS No.174/1,Park / playground,RC,72.8701712,19.2179697,276088.57331182406,2126315.9172254363
+CTS No.332/D,Park / playground,RC,72.8487465,19.2318642,273854.36567234225,2127881.927242877
+PG CTS No.128/A/27/3,Park / playground,RC,72.8413525,19.2155825,273054.4269795006,2126088.9784438238
+"CTS No. 636/B,",Park / playground,RC,72.8642296,19.213715,275457.91618279053,2125852.5350940535
+CTS No. 645/C,Park / playground,RC,72.8643369,19.2134617,275468.8570261989,2125824.3534972463
+CTS no - 1723/C,Park / playground,RC,72.8427011,19.2369609,273225.6227123955,2128454.072830079
+CTS 175(pt,Park / playground,RC,72.8693567,19.2170431,276001.65658587567,2126214.381449112
+"CTS 128/A/64, 128/A/65/125",Park / playground,RC,72.8425238,19.2169082,273179.43534789124,2126234.2218707902
+CTS No. 638/F,Park / playground,RC,72.8652923,19.2143614,275570.5607634071,2125922.7272739303
+F.P. No. 68/B,Park / playground,RC,72.8383897,19.2303848,272763.18796349945,2127731.647772402
+CTS NO 559/C/3,Park / playground,RC,72.8660269,19.2279438,275666.2667172778,2127425.500621367
+CTS NO. 374/B/15,Park / playground,RC,72.8380782,19.2207359,272717.15025326156,2126663.7999355844
+CTS No. 1C/1/1(pt.),Park / playground,RC,72.838958,19.217185,272804.7948900695,2126269.521176077
+F.P.No. 533,Park / playground,RC,72.8441239,19.2231115,273356.2313352953,2126918.917085797
+"CTS 173/B, part",Park / playground,RC,72.8689301,19.2168908,275956.5845334871,2126198.0696601677
+Chacha Nehru Udyan,Park / playground,RC,72.8444646,19.2175184,273384.38916107087,2126299.2485447247
+Garden at Prem Nagar,Park / playground,RC,72.8532059,19.2355735,274328.3943572276,2128286.794130371
+Pandit Ramjas Upadhyay Ramleela Manoranjan Maidan,Park / playground,RC,72.8542252,19.2301894,274428.2258170617,2127689.3873485066
+R.G plot FP No.246,Park / playground,RC,72.8465299,19.2263968,273613.7677435624,2127279.505190761
+Vamanrao Pai Udyan,Park / playground,RC,72.845795,19.2249507,273534.49865946814,2127120.3614700013
+CTS NO. 368,Park / playground,RC,72.843255,19.2268223,273269.94587299903,2127330.881243852
+Rajmata Jijau Udyan,Park / playground,RC,72.8444834,19.2251356,273396.8162664137,2127142.541179187
+R.G plot FP No.391,Park / playground,RC,72.8414657,19.2242977,273078.30465734133,2127053.7112823515
+P.L. Deshpande Udyan,Park / playground,RC,72.8405323,19.226187,272982.73901126004,2127264.0989117096
+R.G plot FP No.479,Park / playground,RC,72.8394439,19.2219409,272862.43698687374,2126795.4240588737
+Dr.A.P.J. Abdul Kalam Manoranjan Maidan,Park / playground,RC,72.8449956,19.2185503,273441.65006074053,2126412.800622744
+R.G plot FP No.720,Park / playground,RC,72.8498773,19.2232867,273961.5409869771,2126930.8242416536
+R.G plot FP No.775,Park / playground,RC,72.8542936,19.2225143,274424.9349858571,2126839.5751197967
+Sangeetkar Shrikant Keshav Thakare Manoranjan Maidan,Park / playground,RC,72.8709629,19.2168486,276170.31711120997,2126190.7804187206
+Madhav Sadashivrao Golvankar Maidan,Park / playground,RC,72.8449804,19.215491,273435.8563524672,2126074.118749846
+R.G plot FP No.490/D,Park / playground,RC,72.8382051,19.2213087,272731.28433934005,2126727.0502427137
+Dr. G.M. Chadwa Manoranjan Maidan,Park / playground,RC,72.8615071,19.2221,275182.9943057199,2126784.365045814
+R.G plot FP No.724,Park / playground,RC,72.8509887,19.2217195,274076.2800215403,2126755.87213187
+Chatrapati Sambhaji Raje Udyan,Park / playground,RC,72.8634526,19.2209917,275386.08995979343,2126659.149662465
+CTS No. 278/B,Park / playground,RC,72.8449251,19.2334082,273454.61938399705,2128057.8439155277
+Balasaheb Thackeray Manoranjan MaidanRG plot CTS No. 374/B/6 (Pt),Park / playground,RC,72.8370497,19.2222743,272611.1013517588,2126835.464881366
+R.G plot at CTS No. 136(pt),Park / playground,RC,72.8610751,19.2228909,275138.6387776404,2126872.485198898
+CTS no - 1/C/1-1,Park / playground,RC,72.8391153,19.2177504,272822.1158248501,2126331.912544461
+Chatrapati Shivaji Maharaj Maidan,Park / playground,RC,72.8246609,19.2304845,271319.5565399948,2127760.692060265
+Pramodji Mahajan Manoranjan Maidan,Park / playground,RC,72.8384753,19.2178715,272754.972810665,2126346.15594589
+Gopinathji Munde Manoranjan Maidan,Park / playground,RC,72.8375312,19.2179424,272655.7782537753,2126355.2393266303
+Gen. Arunkumar Vaidya Maidan,Park / playground,RC,72.8381993,19.2294035,272741.8141521249,2127623.2543687695
+"R.G plot at FP No.731(pt.), O.P. No. 421",Park / playground,RC,72.8522586,19.2233583,274212.0731058187,2126935.657157819
+CTS No. 78A/1A/3,Park / playground,RC,72.8615851,19.219945,275188.26449440885,2126545.681474989
+167/C/3,Park / playground,RC,72.8647515,19.2148503,275514.347935596,2125977.551700275
+"Kranti Udyan,",Park / playground,RC,72.8315276,19.2260329,272035.53804823407,2127258.8214872447
+Ganesh Maidan (Gorai Raja),Park / playground,RC,72.8321016,19.2254022,272095.0331006049,2127188.2422205377
+Gorai Open space,Park / playground,RC,72.8282902,19.2314323,271702.53812256514,2127860.854904322
+Open Space near Cemetry,Park / playground,RC,72.8204397,19.2272864,270871.2001619253,2127412.17797075
+Open Space near Cemetry,Park / playground,RC,72.8202546,19.2269774,270851.3050959972,2127378.211435021
+Nagdeo Omkareshwar Manoranjan Park,Park / playground,RC,72.8326384,19.2177651,272140.951562559,2126342.0130791296
+Triveny Udyan,Park / playground,RC,72.8242331,19.21689,271255.7395897752,2126256.1615052666
+Shiv Tirth Udyan,Park / playground,RC,72.8276583,19.2193594,271619.39003006206,2126525.055304863
+Garden near Haryana Bhavan,Park / playground,RC,72.8344295,19.2218402,272334.94049280346,2126790.833087847
+MCGM Play gound near Evershine Club,Park / playground,RS,72.8758855,19.2114969,276680.7944537868,2125591.9642697624
+MCGM Stadium,Park / playground,RS,72.875353,19.2082078,276620.34477474814,2125228.5104830926
+MCGM plot Nr.Thakur Cinema,Park / playground,RS,72.8724596,19.2097333,276318.0945630662,2125401.1162717994
+Dr.Babasaheb Ambedkar Maidan MCGM,Park / playground,RS,72.8687708,19.1976563,275913.7598091105,2124068.810092357
+Sardar Vallabhbhai  Patel Udyan MCGM,Park / playground,RS,72.8456744,19.1994708,273486.895554875,2124299.586391807
+Hindu Hriday Samrat Shriman Balasaheb Thakeray Dream park MCGM,Park / playground,RS,72.8758902,19.2127019,276682.9169946201,2125725.3641935233
+MCGM plot Opp. Kapol Vidhyanidhi School,Park / playground,RS,72.8436753,19.2099997,273291.0629064044,2125467.8654404758
+MCGM plot Nr.Kapol Vidyanidhi Trust,Park / playground,RS,72.8432876,19.2100524,273250.35850337433,2125474.205201278
+"Plot bearing C.T.S. No. 116/C, at Mahavir Nagar, Kandivali (W) Mumbai 400067",Park / playground,RS,72.8429287,19.2100314,273212.5820600091,2125472.34802616
+Maji Mukhyamantri Ani Kendriyamantri Vilasrao Deshmukh park MCGM,Park / playground,RS,72.8756332,19.1994394,276637.970297851,2124257.398905489
+Raje Shivaji Maidan MCGM,Park / playground,RS,72.8256932,19.2128621,271403.7297362502,2125808.2999827373
+Dadoji Kondeo Maidan MCGM,Park / playground,RS,72.8215842,19.2129915,270971.7442905741,2125828.0309806797
+MCGM Plot Opp.Chandraneel CHS,Park / playground,RS,72.8202179,19.213625,270828.9218973133,2125899.96741299
+MCGM Plot at Babrekar Nagar,Park / playground,RS,72.8238104,19.2041528,271193.65084092855,2124846.5400438025
+"Dr. Shyama Prasad Mukherji Udyan, CTS No. 476,477,428,429",Park / playground,RC,72.8508615,19.2311786,274075.8442505909,2127803.2724228646
+"Ganjawala Garden, CTS No. 2448,",Park / playground,RC,72.8555339,19.2342379,274571.3804132923,2128135.905773702
+B.G. Khair Udyan,Park / playground,RC,72.8493203,19.2219914,273901.1897915001,2126788.143254716
+CTS No.392/C,Park / playground,RC,72.8497924,19.2379085,273972.6314606075,2128549.743531449
+"Pramod Mahajan Udyan,CTS No36/B,37A(pt) ,37 B,37d(pt)",Park / playground,RC,72.8467992,19.2301866,273647.2841237256,2127698.7314660857
+Lokmanya Bal Gangadhar Tilak Udyan,Park / playground,RC,72.8360417,19.2331017,272520.0084938421,2128035.51486295
+"CTS No. 2230/C, CTS NO 389/C,2231",Park / playground,RC,72.8485918,19.2379666,273846.4586290624,2128557.738228765
+"CTS no 1543/A,",Park / playground,RC,72.8432247,19.2396152,273284.33044211334,2128747.253635589
+"CTS no - 2389/D, 2392/C",Park / playground,RC,72.8486079,19.2383882,273848.72943323065,2128604.3935187473
+CTS no - 287/A,Park / playground,RC,72.8439106,19.2325603,273346.76941347553,2127965.2937199026
+CTS NO. 1C/1,Park / playground,RC,72.839557,19.2173164,272867.973295334,2126283.2864301796
+"Rajiv Gandhi Uyan CTS No. 325, FP No.48C",Park / playground,RC,72.8593492,19.2274173,274963.2993783499,2127375.8422113014
+Late Anantrao Bhosle Kridangan CTS No. 183A,Park / playground,RC,72.8685665,19.2195746,275921.9847355422,2126495.663750481
+"CTS No.91 (Pt), CTS No,.92(Pt), 89(pt).91B,91 C,",Park / playground,RC,72.8564456,19.2215213,274649.90023364546,2126726.8481432186
+C.T.S. No. 60/A/3 (PT),Park / playground,RC,72.8455864,19.2297208,273519.1036017884,2127648.741566937
+"Saptah Maidan CTS No.90,128A/91 (pt), 89A,89/8,92A",Park / playground,RC,72.844003,19.213018,273329.66867847176,2125801.6009439332
+"Sardar Vallabh bhai Patel Udyan,CTS No. P.G CTS No.53, 53/4,",Park / playground,RC,72.8454084,19.2146086,273479.6604577437,2125975.8689533006
+Plot CTS No.309/9/S.no 43 village Goregaon Goregaon W,Park / playground,PS,72.8403664,19.1758394,272896.159424528,2121690.219627293
+"R.G.CTS No.1185/B,1190/B,1084(pt)village Malad South opp.Shakti motors Link rd,Malad West",Park / playground,PS,72.8376453,19.1753188,272609.19056394673,2121636.1309021395
+TDR Plot bearing CTS No. 1104/B village Malad Link road opp.Nirman Industrial Estate Malad West,Park / playground,PS,72.837163,19.1779639,272562.08635974245,2121929.605006959
+Sadguru Vamanrao Pai,Park / playground,PS,72.8395119,19.1773926,272808.3987940522,2121863.2912659515
+Plot CTS No. 1181/D village Malad/south Malad West,Park / playground,PS,72.8388889,19.175,272739.5776695169,2121599.213859947
+Plot CTS No. 1223/A/1/1B(pt)new CTS No.1233/A/1/1B/1 village Malad south Goregaon W,Park / playground,PS,72.8405556,19.1772222,272917.95908434736,2121843.0656279908
+Plot CTS No. 1178/B village Malad South Malad West,Park / playground,PS,72.8394444,19.1752778,272798.39651661436,2121629.245432513
+Plot CTS No. 1194 village Malad/south Malad West,Park / playground,PS,72.8388889,19.175,272739.5776695169,2121599.213859947
+"TDR Plot bearing CTS No.1230/B(pt) near Infant Jesus School,village Malad South Malad West",Park / playground,PS,72.8402778,19.1775,272889.1163822792,2121874.183429502
+TDR Plotbearing CTS No. 1195/2 village Malad South near Acme Plaza Malad W,Park / playground,KE,72.8677778,19.1144444,275696.76281542145,2114857.6811579317
+Bharatratna Atal Bihari Vajapayee manoranjan maidan,Park / playground,PS,72.8416667,19.1694444,273024.1849114829,2120980.5232934076
+Swatantya Veer Vi.Da.Sawarkar Maidan,Park / playground,T,72.9501,19.1691,284430.802980406,2120804.7786201695
+Ranchhodas Harjivan Shah Manoranjan Maidan,Park / playground,T,72.9492352,19.1687836,284339.4173769237,2120770.8207329
+Mahatma Jyotiba Phule Manoranjana Maidan,Park / playground,T,72.9339,19.1744,282733.5678867762,2121411.632377233
+"RG, Mulund Village,",Park / playground,T,72.9374,19.1789,283107.6392863377,2121905.4529611273
+"RG at Mulund Colony,",Park / playground,T,72.9388,19.1777,283253.3355358482,2121770.863373452
+"Raosaaheb Ramrao Patil manoranjan maidan,",Park / playground,T,72.9713387,19.1735872,286670.8019099571,2121275.4100353345
+"Dr.APJ Abdul Kalam Manoranjan Maidan,",Park / playground,T,72.9742,19.1746,286973.0910816743,2121384.0324625913
+"RG, Mulund Village,",Park / playground,T,72.9733,19.1746,286878.41867769277,2121385.1325935875
+Open Space at Khindipada,Park / playground,S,72.9322567,19.1665519,282550.4018884882,2120544.843763177
+CTS No. 29/4,Park / playground,T,72.9377,19.1823,283143.64966750355,2122281.481936914
+Lala Tulsiram Park,Park / playground,T,72.9471,19.1761,284124.33667076065,2121583.432185214
+Tarabai Modak Udyan,Park / playground,T,72.9489211,19.1727773,284311.5748381078,2121213.335205003
+Vijay Nagar Garden,Park / playground,T,72.952111,19.171306,284645.220185108,2121046.5102209863
+Pandit Jawaharlal Nehru Shatabdi Udyan,Park / playground,T,72.9357,19.1755,282924.35827549064,2121531.1670373296
+Dr. C. D. Deshmukh Udyan,Park / playground,T,72.9598,19.1726,285455.7371454068,2121180.2827358227
+Swatantrveer savarkar manoranjan maidan,Park / playground,PS,72.8310261,19.174783,271912.12273670395,2121585.4603370354
+Shahid Vijay Salaskar Manoranjan Maidan,Park / playground,PS,72.8733333,19.1752778,276363.41803781484,2121585.4152911543
+"Plot CTS No. 620/F,621/D,CTS No.620/F,village chincholi,Goregaon/East",Park / playground,PS,72.8745472,19.1699624,276483.9432987813,2120995.390226593
+"Plot CTS No.184/G,S.No.61,71,74 village pahadi,gogtewadi/opp. Walia terrace Goregaon East",Park / playground,PS,72.8522222,19.1683333,274133.1250066267,2120843.8033646224
+Plot CTS No. 97/A/23/B Upper Govind nagar Malad E,Park / playground,PS,72.8516667,19.1755556,274084.53589260695,2121644.1133010327
+"R.G. C.T.S. Plot No.586/7/A S. No. 139, Near Hub Mall. W.E. Highway Goregaon (E)",Park / playground,PS,72.8555556,19.1558333,274466.79539238417,2119455.6012300113
+"Plot CTS No. 201/B-3,village Goregaon East",Park / playground,PS,72.8541667,19.1438889,274304.41549582616,2118135.021706284
+"Plot CTS No. 257/E/2A (pt),S.No.139 village pahadi Goregaon East",Park / playground,PS,72.8530556,19.1533333,274200.3662956024,2119182.0573720085
+Plot bearing CTS No. 586/8/A S.No.139 village pahadi Goregaon Goregaon E,Park / playground,PS,72.8566667,19.1558333,274583.69389205374,2119454.1652384587
+R.G.CTS No.900/A/2 village pahadi Goregaon at Piramal nagar Goregaon W,Park / playground,PS,72.8483333,19.1686111,273724.384092083,2120879.6015292564
+Lal Bahadur Shastri R.G.,Park / playground,PS,72.8357217,19.1609843,272387.1383237837,2120051.6380373356
+Vedprakash Chadda Garden,Park / playground,PS,72.8461111,19.1619444,273481.49077163945,2120144.406398434
+Pandit deendayal uapdhyay udyan,Park / playground,PS,72.83085,19.1541447,271865.1857198015,2119300.774702937
+Sankalp Siddhi Ganesh Maidan,Park / playground,PS,72.8372222,19.1575,272540.22093134106,2119663.9267266905
+Shree Swami Samarth Manoranjan Maidan,Park / playground,T,72.9677,19.1731,286287.4096623373,2121225.9315650333
+Sharad Chavan Udyan,Park / playground,T,72.9589,19.1682,285355.36227826227,2120694.2872838993
+Tukaram Mangalya Vaity Park,Park / playground,T,72.9638015,19.1643,285865.9421437975,2120256.5113601494
+"Hutatma Madanlal Dhingra Kridangan,",Park / playground,T,72.9560303,19.1664412,285051.1984103061,2120503.113659709
+Dr. Babasaheb Ambedkar Kridangan,Park / playground,T,72.9534535,19.1818482,284800.14338902885,2122211.933638694
+"P.G.Village Mulund, C.T.S. No. 29/5,",Park / playground,T,72.9382,19.1821,283195.9820151684,2122258.718411965
+"PG ,  CTS NO.29/11,",Park / playground,T,72.9414091,19.1813569,283532.5709883314,2122172.462645127
+"Arybhatta Udyan,  C.T.S.  No.1328,1329,1333,1334",Park / playground,T,72.9532,19.1696,284757.5607714646,2120856.3016027487
+"Rajeev Gandhi Kridangan,",Park / playground,T,72.9476,19.1631,284159.9970816942,2120143.636189595
+"Rajeev Gandhi Kridangan,",Park / playground,T,72.938,19.1756,283166.4328611966,2121539.374831526
+"Jainacharya Vijay Vallabha Suri Kridangan,",Park / playground,T,72.9437,19.1625,283748.93295694055,2120082.0435760906
+"P.G. P.K.Road Extn.,",Park / playground,T,72.9416,19.1636,283529.4478818963,2120206.4254128896
+"Chhatrapati Sambhaji Raje Maidan,",Park / playground,T,72.9643,19.1687,285924.0680763428,2120743.001213475
+"P.G. C.T.S. no. 147 , ,CTs No.155  A/4",Park / playground,T,72.964145,19.1745414,285915.31183967757,2121389.863871699
+"Dattaji Tamhane Maidan,PG CTS No. 95/13/E",Park / playground,T,72.9712,19.1736,286656.228219828,2121276.9967978313
+"PG 87/4B Hariom nagar, Mulund (E).",Park / playground,T,72.9734,19.1756,286890.22452149645,2121495.714896231
+PG CTS NO.1063/B,Park / playground,T,72.955,19.1618,284936.79047371505,2119990.5778474323
+PG Plot CTS No.1110/11,Park / playground,T,72.9468689,19.1733347,284096.4221322783,2121277.583127808
+R. G.  Village Mulund (Afforsation plot),Park / playground,T,72.9383,19.1806,283204.53674151073,2122092.534178594
+Vrindavan Manoranjan Maindan,Park / playground,T,72.9509,19.1851,284535.7780415671,2122575.0826148903
+"Shasan Samrat Achary Dev Shri Nemisuri Manoranjan Maidan,",Park / playground,T,72.9464,19.1796,284055.2664126548,2121971.770530826
+Barku Govind Patil Manoranjan Maidan,Park / playground,T,72.9559,19.1825,285058.3318809577,2122281.07184901
+Open Space at Khindipada,Park / playground,T,72.9321978,19.166953,282544.732058374,2120589.3216790934
+Siddharth Udyan,Park / playground,T,72.953389,19.177556,284787.78012619785,2121736.842305579
+Shahid Sonar Bungla,Park / playground,T,72.9478,19.175,284196.5377459306,2121460.788788946
+"Harish Murarji Thakkar Khelache Maidan,",Park / playground,T,72.9495,19.1683,284366.6440290917,2120716.955910679
+"Mother Teressa Kridangan,",Park / playground,T,72.9458,19.1658,283974.1561641678,2120444.770816669
+"P.G. Near Dashamesh School,",Park / playground,T,72.9372,19.1761,283082.9335069646,2121595.723520319
+"P.G. L.B.S. Road,",Park / playground,T,72.9397795,19.1679328,283343.5957533306,2120688.3542477037
+"P.G.   Plot No. 29,",Park / playground,T,72.9372,19.1739,283080.0521541195,2121352.16914621
+"Mavala Sambhaji Kavaji Kondhalkar Kridangan,(Nana Nani Park)Savarkar Road,",Park / playground,T,72.9665364,19.1723198,286164.0000993888,2121140.986511148
+"Mavala Jiva Mahala Kridangan,",Park / playground,T,72.9650951,19.1695155,286008.76252158824,2120832.305099501
+"HinduHrudaySamrat Balasaheb Thakare Maidan,",Park / playground,T,72.9605993,19.1687389,285534.8199868228,2120751.8553517186
+छत्रपती संभाजी महाराज मैदान,Park / playground,L,72.888454,19.123176,277884.2919792684,2115797.946094484
+सुभेदार रामजी मालोजी आंबेडकर खेळाचे मैदान,Park / playground,L,72.887443,19.119302,277772.7233593599,2115370.345751046
+"PG CTS No. 1304 at Ganesh Visarjan Talao,",Park / playground,T,72.972099,19.175547,286753.3028228992,2121491.4387077666
+Sardar Pratap Singh Manoranjan Maidan,Park / playground,T,72.9389,19.1805,283267.5195789355,2122080.7171636187
+Shahid Ashok Kamate Manoranjan Maidan,Park / playground,T,72.939,19.1819,283279.87109581335,2122235.5818909537
+Sant Odhavramji Maharaj Manoranjan Maidan,Park / playground,T,72.9413127,19.1806676,283521.5295256992,2122096.272502643
+"R. G.Near Sagar Garden Society,",Park / playground,T,72.939753,19.1689628,283342.15489841986,2120802.414689631
+"P.G. , Powai Chowk,",Park / playground,T,72.9358,19.1732,282931.8632976741,2121276.4173101103
+"Damodar Pandu Vaiti Manoranjan Maidan,",Park / playground,T,72.9642391,19.1753362,285926.23769600934,2121477.7366832476
+Shahid Prakash More Maidan,Park / playground,T,72.972099,19.175547,286753.3028228992,2121491.4387077666
+"Garden near Mithagar Ganesh Visarjan Talao,",Park / playground,T,72.972099,19.175547,286753.3028228992,2121491.4387077666
+Bagwan Gautham Buddha Udyan,Park / playground,GS,72.8150774,19.0084917,270004.5822454168,2103195.8688217304
+Bhagavan Mahavir  Udyan,Park / playground,GS,72.8188112,19.0103458,270400.31727818423,2103396.2571999645
+Municipal Garden,Park / playground,GN,72.849193,19.0382141,273637.3847506338,2106442.1386373322
+Shri. Keshavrao Daate Udyaan,Park / playground,GN,72.8373952,19.0172883,272366.7314830723,2104140.6890754728
+Chhatrapati Shivaji maharaj Park,Park / playground,GN,72.8383135,19.0271715,272476.8886708274,2105233.673722922
+Dakre Guruji Marepathic Udyan,Park / playground,FS,72.8433351,19.0098459,272982.0839682913,2103309.0540838796
+Didhi Udyan,Park / playground,GN,72.8439098,19.0397503,273083.2330199232,2106619.034742345
+Beach Towers Garden,Park / playground,GS,72.8251748,19.017829,271080.6785166488,2104216.429597726
+Guruji Kedar Nath Udyan Bmc,Park / playground,FN,72.8536652,19.0268481,274092.8589517906,2105178.049293241
+Indulal  D.Bhuvan Udyan,Park / playground,FN,72.8581941,19.0219544,274563.1084753086,2104630.4504551194
+J.R.Mehata Garden,Park / playground,FN,72.858013,19.0377893,274565.4192253003,2106383.756269657
+Lalbahadur Shastri Udyan,Park / playground,GS,72.8139894,18.9991357,269877.1348852408,2102161.4738024487
+Maharshi Karve Udhyan,Park / playground,FN,72.8581167,19.0182186,274549.91752660763,2104216.9617648954
+Garden B of 5 Gardens,Park / playground,FN,72.8535407,19.0207666,274071.52453590976,2104504.9286530274
+Nappu Garden,Park / playground,FN,72.8520609,19.0261877,273923.04565962416,2105107.001251027
+Pandit Jawaharlal Nehru Garden,Park / playground,FN,72.8679449,19.0458433,275621.9209606459,2107262.678782525
+Prof. B. N. Vaidya Udyan,Park / playground,FN,72.8470194,19.0215556,273385.93071832345,2104600.679436634
+Mata Ramabai Ambedkar Udyan,Park / playground,FN,72.8676962,19.0384044,275585.73374596715,2106439.44339862
+Sane Guruji Udyan,Park / playground,GS,72.8299568,19.0163672,271582.2185747807,2104048.3678547507
+Shanti Park,Park / playground,FN,72.8632526,19.0377762,275117.04902657366,2106375.583918352
+Vasant Prabhu Garden,Park / playground,GN,72.8376341,19.0188814,272394.057430895,2104316.7524769288
+Dr. Mala Garden,Park / playground,FN,72.8710923,19.0422069,275948.3919646073,2106856.0745116174
+Swami Vivekanand Udyan,Park / playground,GN,72.8388892,19.045862,272562.9747948014,2107302.1650297395
+Twin Tower(Garden),Park / playground,GS,72.82786,19.0194625,271365.66202580044,2104393.7792988447
+B N Maheshwari Udyan,Park / playground,FN,72.8555628,19.0267738,274292.5597009,2105167.3834040994
+Wadia Garden,Park / playground,FN,72.8507085,19.0170989,273768.34053771547,2104102.5236470876
+"Garden A, Five Gardens",Park / playground,FN,72.8531577,19.0200892,274030.280157828,2104430.426601973
+Mancherji Joshi Five Gardens,Park / playground,FN,72.8538715,19.0200892,274105.44032517483,2104429.508515718
+Kids garden,Park / playground,FN,72.8538858,19.0195324,274106.19322179887,2104367.8470200147
+"Garden C, 5 Gardens",Park / playground,FN,72.854414,19.0203034,274162.85284530453,2104452.524950387
+Veer Baji Prabhu Udyan,Park / playground,GN,72.8353939,19.0270007,272169.2443265718,2105218.549908663
+Sant Tukaram Balodyan,Park / playground,GN,72.8405575,19.0305202,272717.72216864733,2105601.5037352536
+Dr.Ramhari Kishan Dhote Udyan,Park / playground,GN,72.838505,19.0343712,272506.86199785664,2106030.508709401
+Shri Vithal Desai Park,Park / playground,GN,72.8446568,19.0373821,273158.6612758178,2106355.884774963
+Balasaheb Thackrey Udyan,Park / playground,GS,72.8235782,19.0031028,270892.37526738795,2102588.1547344318
+Britannia Garden,Park / playground,GS,72.8174758,18.9819207,270220.65516503406,2100251.017857026
+Matoshree Ramabai Thackrey Udyan,Park / playground,GS,72.8263231,18.9996949,271176.7728730878,2102207.287853985
+Bhivaji Rao Nare Park,Park / playground,FS,72.8389521,18.9998456,272506.9359447118,2102207.585146441
+Bhoiwada park,Park / playground,FS,72.8498157,19.0084681,273662.6431018153,2103148.1597268563
+CGS Sector 6 Garden,Park / playground,FN,72.8653096,19.0316463,275325.3682883823,2105694.31371459
+Maharashtra Nature Park,Park / playground,GN,72.8619372,19.0528009,274998.8224855092,2108040.645503266
+"City Park, BKC",Park / playground,HE,72.8538277,19.0562663,274149.78929791367,2108434.7241312247
+D'Monte Park Recreation Club,Park / playground,HW,72.8264063,19.0593191,271267.22543559794,2108808.251592665
+Mahatma Gandhi Garden,Park / playground,A,72.8250709,18.9283012,270947.35221283615,2094304.871625731
+Cross Maidan Garden,Park / playground,A,72.8293255,18.9332735,271402.36530547135,2094849.8387466543
+Sitaram Shenoy Udyan,Park / playground,B,72.8379817,18.9615924,272352.74184368027,2097973.8246407784
+S K Patil Udyan,Park / playground,C,72.8219061,18.9494735,270642.85839791095,2096652.980861313
+Mumba devi Garden,Park / playground,C,72.830595,18.9525933,271562.4122864917,2096987.0925104974
+Shri Bhagwandas Todi Children Park,Park / playground,C,72.8242532,18.943611,270882.10031473014,2096000.8881065273
+Durgadevi Udyan,Park / playground,C,72.8267474,18.9611763,271168.8214682975,2097942.312020895
+Kamala Nehru Park,Park / playground,D,72.8056884,18.9547191,268941.6719713756,2097254.909090491
+Hanging Gardens,Park / playground,D,72.8049896,18.9562656,268870.1923293745,2097427.041190878
+Shantivan,Park / playground,D,72.8037477,18.9580428,268741.8234365331,2097625.4276526747
+Nana Nani Park,Park / playground,D,72.8096776,18.9556952,269363.2351749728,2097357.749218019
+Harish Mahindra Children's Park,Park / playground,D,72.8024549,18.9705707,268622.93938667,2099014.114027371
+PT Mane Udyaan Garden,Park / playground,E,72.8296522,18.9673392,271483.1999563267,2098620.838996137
+Joseph Baptista Garden,Park / playground,E,72.8424257,18.9661854,272827.06924032746,2098476.577894661
+Kamal Ground,Park / playground,ME,72.9346807,19.0380136,282637.46681775374,2106311.8731093453
+Rajnigandha Garden,Park / playground,ME,72.9348214,19.0387497,282653.23829208163,2106393.1889897473
+Parijat Garden,Park / playground,ME,72.9339529,19.0388675,282561.95632380777,2106407.3058593785
+Varsha Ground,Park / playground,ME,72.9342417,19.041007,282595.1481662085,2106643.8020367604
+Hemant Ground,Park / playground,ME,72.9324167,19.0413464,282403.4577272597,2106683.6374129667
+Mini Forest,Park / playground,ME,72.9317536,19.0420586,282334.5767219664,2106763.304203792
+Madhuban garden,Park / playground,ME,72.9315187,19.0406617,282308.0247294882,2106608.9511550763
+Sharavati Playground,Park / playground,ME,72.9316941,19.0392245,282324.61608535476,2106449.627741966
+Nandan Van,Park / playground,ME,72.9304595,19.0385425,282193.74789172306,2106375.658354492
+KIL BIL GARDEN,Park / playground,ME,72.9304893,19.0371766,282195.10286081105,2106224.4087693808
+Nandadevi Park,Park / playground,ME,72.9298226,19.0365274,282124.0646832946,2106153.3662197706
+Shantiniketan Garden,Park / playground,ME,72.9289659,19.0368862,282034.338639727,2106194.1510034944
+Sanchi Park,Park / playground,ME,72.9277498,19.0388874,281908.92100869503,2106417.2057249923
+Ajanta Park,Park / playground,ME,72.9278838,19.0400016,281924.4844073963,2106540.387427939
+Ellora Ground,Park / playground,ME,72.9279795,19.0412208,281936.152734851,2106675.2408238826
+Kapilvastu Lawn,Park / playground,ME,72.9258153,19.0389594,281705.35095713584,2106427.581602509
+Indraprastha Garden,Park / playground,ME,72.9258631,19.0400726,281711.83934437466,2106550.7597827725
+Hastinapur Park,Park / playground,ME,72.9259469,19.0412565,281722.2102526582,2106681.7200884675
+Sahyadri Park,Park / playground,ME,72.921867,19.0395357,281290.42858408426,2106496.2971607293
+Vindhya Park,Park / playground,ME,72.9208697,19.0395128,281185.40290714597,2106495.005164684
+Narmada Ground,Park / playground,ME,72.9210027,19.0406972,281200.9579504152,2106625.9595514503
+Vrundavan Garden,Park / playground,ME,72.920938,19.041938,281195.77329095174,2106763.404272352
+Dwarka Garden,Park / playground,ME,72.9224675,19.0417561,281356.5582292944,2106741.360382826
+Sarnath Playground,Park / playground,ME,72.9219023,19.0406605,281295.61899578606,2106620.7752444088
+"A.E.C.S 1, Playground",Park / playground,ME,72.9200775,19.0398318,281102.41851769487,2106531.308332078
+Jaidev playground,Park / playground,ME,72.9188715,19.0417273,280977.9387901643,2106742.656548162
+Kabir Park,Park / playground,ME,72.918049,19.041519,280891.0735758973,2106720.6232611844
+Mansrovar Park,Park / playground,ME,72.9184006,19.0399886,280926.0805927841,2106550.7595502357
+Namdev Playground,Park / playground,ME,72.9165416,19.0409163,280731.58429127093,2106655.783472266
+"AECS-2, Playground",Park / playground,ME,72.926275,19.0366572,281750.7378996253,2106172.1432040683
+Anushaktinagar Cricket Ground,Park / playground,ME,72.9257598,19.0305376,281688.4947969839,2105495.309366198
+Saras Baug,Park / playground,ME,72.9146777,19.0451937,280540.979958292,2107131.649054948
+Subhash Chandra Bose Garden,Park / playground,N,72.9148857,19.087413,280618.4660828941,2111805.3454442383
+Kurla Kamgar Ground,Park / playground,L,72.8871472,19.0631389,277666.5679669359,2109152.9923090567
+Decathlon Kurla Playground,Park / playground,L,72.8851175,19.0869613,277484.7366470628,2111792.907719985
+Nana Nani Childrens Park,Park / playground,L,72.8877412,19.0902733,277765.30836372636,2112156.2412461
+Heritage Garden,Park / playground,S,72.9111939,19.1143607,280265.5100596157,2114793.280116788
+Ambrosia Garden,Park / playground,S,72.9071675,19.1189166,279847.8353152701,2115302.7181782047
+Dr. Baba Saheb Ambedkar Park Garden,Park / playground,S,72.8961868,19.128523,278705.12771598034,2116380.092768781
+Children Park Powai Lake,Park / playground,S,72.8991472,19.1219717,279007.91825297126,2115651.0634310376
+Powai Udyaan,Park / playground,S,72.9016172,19.1207271,279266.1796959067,2115510.1548117967
+Powai lake View Garden,Park / playground,S,72.9033286,19.1197534,279444.97679926653,2115400.198051795
+Sabarmati Ashram Park,Park / playground,S,72.9075446,19.1230582,279893.00516055536,2115760.749904756
+SAROVAR UDYAN,Park / playground,S,72.9140826,19.1257366,280584.52137816657,2116049.046504553
+Children Park,Park / playground,S,72.9147011,19.1273326,280651.7114530507,2116224.958763454
+Gulmohar Garden,Park / playground,S,72.9153146,19.1292485,280718.79675728,2116436.2926990837
+Kshitij Garden,Park / playground,S,72.9138304,19.1315702,280565.6924670456,2116695.1855601105
+Knowledge Tree,Park / playground,S,72.9156834,19.1331711,280762.78286108165,2116870.090150638
+Gymkhana Grounds,Park / playground,S,72.9122538,19.1345011,280403.6762914699,2117021.6393599906
+Children's Park,Park / playground,S,72.92492,19.1346694,281736.6340037683,2117024.39441487
+Naval Ground,Park / playground,S,72.9265375,19.1342616,281906.29065729404,2116977.22766636
+Baji Prabhu Ground,Park / playground,S,72.9284373,19.1326856,282104.11828858283,2116800.3829498356
+Kendriya Vidyalaya Playground,Park / playground,S,72.9245741,19.1257523,281688.51465532684,2116037.6434525396
+MMRDA GARDEN,Park / playground,S,72.9291284,19.1260474,282168.1280508804,2116064.6290944796
+Nana Nani Garden,Park / playground,S,72.926211,19.1309475,281867.58208129945,2116610.742330747
+CGHS B Garden,Park / playground,S,72.9366114,19.1391985,282972.7154489063,2117511.2245233664
+Park,Park / playground,S,72.9392062,19.1400886,283246.89226284774,2117606.5410184143
+Public playground,Park / playground,S,72.9396451,19.1424296,283296.1284282829,2117865.1591009423
+Pramodh Mahajan Ground,Park / playground,S,72.9341333,19.1470764,282722.2961088427,2118386.440029758
+Powai Lake,Park / playground,S,72.9051842,19.1269907,279649.8427812747,2116199.082897661
+Mhada Colony Community Garden,Park / playground,T,72.965311,19.164888,286025.4985989272,2120319.7531269123
+Vihar Lake,Park / playground,T,72.9128645,19.1528799,280492.25127977284,2119055.543584857
+Gol Garden,Park / playground,HW,72.83496,19.0899733,272209.62229992263,2112190.8781138603
+Juhu Joggers Park,Park / playground,KW,72.8324353,19.1040395,271963.1749501084,2113751.457579891
+Jamnabai Narsee School Playground,Park / playground,KW,72.8312798,19.1048281,271842.64773637324,2113840.2717295624
+Pushpa Narsee Park,Park / playground,KW,72.8303335,19.1045084,271742.6169526909,2113806.1118335756
+Coastal Garden,Park / playground,KW,72.8247944,19.1040629,271159.04761128,2113764.0273877145
+Juhu Beach View Park,Park / playground,KW,72.8259464,19.0994998,271274.0128799059,2113257.3304161774
+Yoga Park,Park / playground,KW,72.8241953,19.1068917,271099.8903630326,2114077.993971783
+My Mom's Garden,Park / playground,KW,72.8239418,19.1078928,271074.58996212145,2114189.1597978063
+Kishore Kumar Park,Park / playground,KW,72.8335823,19.1106644,272092.9720406779,2114483.4163706284
+Kaifi Azmi Park,Park / playground,KW,72.83088,19.1120977,271810.5506728302,2114645.62408772
+Lokmanya Tilak Udyan,Park / playground,KW,72.8334445,19.1135844,272082.4744122386,2114806.874233896
+Children Knowledge & Forest Park,Park / playground,KW,72.8296017,19.1127893,271676.9739417763,2114723.861300201
+Nakshatra Garden,Park / playground,KW,72.8255742,19.11849,271260.9731034016,2115360.2629748853
+Mora Garden,Park / playground,KW,72.8239065,19.118453,271085.4214885019,2115358.3499554177
+B.M.C. Garden,Park / playground,KW,72.8276951,19.1208558,271487.42032522365,2115619.411514472
+D. N. Nagar Ground,Park / playground,KW,72.8308969,19.1219197,271825.8179683208,2115733.014572908
+Prajakta Udyan,Park / playground,KW,72.8310235,19.1228864,271840.4682904942,2115839.8745450517
+Plot reserved for Garden (R3),Park / playground,KW,72.8254779,19.1226337,271256.5448636615,2115819.1474662228
+Renaissance Ground,Park / playground,KW,72.8223405,19.1230968,270927.02694573055,2115874.528199241
+Seven Bungalows Garden,Park / playground,KW,72.8170806,19.1289871,270381.6591942221,2116533.563508037
+Kamala Raheja Garden,Park / playground,KW,72.8197714,19.1273478,270662.5447752831,2116348.537539599
+Versova welfare play ground,Park / playground,KW,72.8157545,19.1314202,270245.48215035535,2116804.6827504323
+Chacha Nehru Park,Park / playground,KW,72.8227915,19.132309,270987.19226027257,2116893.84279226
+Sangeetkar Anil Mohile Manoranjan Park,Park / playground,KW,72.8239268,19.1329036,271107.4756876397,2116958.1842585993
+Dr Babasaheb Ambedkar Park,Park / playground,KW,72.8211625,19.1370057,270822.263118843,2117415.963694874
+Bhartitai Lavhekar Children’s Park,Park / playground,KW,72.8175614,19.1359729,270441.91362705204,2117306.34949683
+Freedom Fighter Janardhan R. Patil Park,Park / playground,KW,72.8159096,19.1377746,270270.5977748058,2117507.9932876686
+B.M.C Play Ground,Park / playground,KW,72.8123136,19.1346202,269887.84071677184,2117163.4945039195
+Dattaram Kaskar Udayan (Coconut Gardens),Park / playground,KW,72.8139783,19.1376652,270067.228183902,2117498.423293607
+Raj Classic Park,Park / playground,KW,72.8132552,19.1397598,269994.0441943089,2117731.275443911
+Bmc Garden,Park / playground,KW,72.8146154,19.1402626,270137.8639763677,2117785.150682671
+Ekata Manch Pet Park,Park / playground,KW,72.8131782,19.1410119,269987.67773544416,2117870.0008748714
+Walking Garden,Park / playground,KW,72.8071976,19.1408103,269358.10896055144,2117855.571127316
+कलाविहर मनोरंजन उद्यान,Park / playground,KW,72.8097434,19.1422125,269627.92967580655,2118007.452227292
+Gulmohar Garden,Park / playground,KW,72.8104542,19.143041,269703.8707060666,2118098.240426369
+Versova Mangroves,Park / playground,KW,72.8171533,19.1514928,270420.449582963,2119025.1406800877
+Jogger's Park,Park / playground,KW,72.8214288,19.1458231,270862.4612171101,2118391.812611507
+Pramod Mahajan Playground,Park / playground,KW,72.8215511,19.143261,270871.7906875136,2118107.9949229616
+Lokhandwala Garden,Park / playground,KW,72.8270414,19.1452075,271452.15854189533,2118316.2994573326
+Walawalkar Garden,Park / playground,KW,72.8290307,19.1527937,271671.9127844246,2119153.58209498
+Pramod Navalkar Manoranjan Maydan,Park / playground,KW,72.8360027,19.1393288,272386.9822292767,2117653.7482188297
+Municipal Joggers Park,Park / playground,KW,72.836723,19.139197,272462.5923882107,2117638.217574088
+Botanical Garden,Park / playground,KW,72.8407375,19.1370551,272882.0717144036,2117395.8577846806
+Kamruddin Merchant garden,Park / playground,KW,72.8412227,19.1379959,272934.4128385865,2117499.3842176837
+Tijoriwala Recreation Ground,Park / playground,KW,72.8461433,19.1360553,273449.5178286631,2117278.1466510003
+Maasaheb Meenatai Thackeray Garden,Park / playground,KW,72.8429991,19.1333556,273114.98588157434,2116983.3409822183
+Shiva Garden Ambivali,Park / playground,KW,72.8421705,19.132812,273027.05342800973,2116924.234829089
+Gopinath Munde Udyan,Park / playground,KW,72.838198,19.12843,272603.0446262127,2116444.2634362113
+Joe & Helen D'mello Garden Ambivali,Park / playground,KW,72.8422048,19.129429,273026.0376841747,2116549.653524694
+St. Ramdas Ground,Park / playground,KW,72.8438576,19.1264547,273195.89472928597,2116218.2182925697
+Ganpatrav Aambre Maharaj Udhyan- Andheri West,Park / playground,KW,72.841335,19.124627,272927.94481298653,2116019.1475993083
+Lallu Bhai Park,Park / playground,KW,72.844563,19.1136705,273252.6746203918,2114801.949013825
+Sardar Vallabhbhai Patel Park,Park / playground,KW,72.8440088,19.1113697,273191.2123231477,2114547.9437271017
+Bhagatsingh Garden,Park / playground,KW,72.8422143,19.105493,272994.3366539134,2113899.656031361
+Ishwarlal Park,Park / playground,KW,72.8407157,19.0979102,272826.26192813227,2113062.1008449737
+South West Vile Parle Residential Association Park,Park / playground,KW,72.8400114,19.0937903,272746.5081287696,2112606.8964367704
+Annabhau Sathe Maidan,Park / playground,PS,72.8357726,19.156786,272386.7286098944,2119586.769102553
+Ambedkar Maidan,Park / playground,PS,72.8388562,19.15661,272710.9132414436,2119563.263368097
+Trikoni maidan,Park / playground,PS,72.8387828,19.1547326,272700.6169268434,2119355.5085364655
+Prabodhan Kridabhavan Maidan,Park / playground,PS,72.8428932,19.1574019,273136.72985317087,2119645.681143705
+Bharat Ratna Rajiv Gandhi Garden,Park / playground,PS,72.8360608,19.1621382,272424.39864439925,2120178.946217569
+Ganesh Udhyan,Park / playground,PS,72.836453,19.1642858,272468.6093714075,2120416.1997564915
+Azad maidan,Park / playground,PS,72.8394732,19.1645384,272786.6968220622,2120440.2276839884
+Joggers Park,Park / playground,PS,72.8439602,19.1693953,273265.39797220996,2120972.1029990995
+Nana Nani Park,Park / playground,PS,72.8452019,19.1698103,273396.5945935184,2121016.4339363095
+Pandurang Wadi Garden,Park / playground,PS,72.8506224,19.1701671,273967.3248558631,2121048.899067949
+Sambhaji Maidan,Park / playground,PS,72.8525079,19.1701339,274165.6357684656,2121042.77990011
+Brahmachari Vishwanath Guruji Udyan,Park / playground,PS,72.8527153,19.1723592,274190.48793773074,2121288.876949662
+Pu. L. Deshpande Vanodhyan,Park / playground,PS,72.8521937,19.1715517,274134.5148459895,2121200.1533644698
+Govind Nagar Garden,Park / playground,PN,72.8509257,19.1768781,274008.38938955736,2121791.4897717074
+Giri-Pushpa Park,Park / playground,PS,72.8534758,19.1755507,274274.8417418716,2121641.226815947
+Mindspace Garden,Park / playground,PN,72.8334354,19.1794981,272172.06594308,2122104.3291870006
+Shahid Capton Vinayak Gore Maidan,Park / playground,PN,72.8377687,19.1810918,272630.0994420188,2122275.111213062
+BMC Garden,Park / playground,PN,72.8330324,19.1871209,272140.1651919603,2122948.7952882517
+APJ Kalam Udyaan,Park / playground,PN,72.8309327,19.1879098,271920.3826578574,2123038.884560753
+Liberty Garden MCGM,Park / playground,PN,72.8417703,19.187976,273060.48461774585,2123032.0577279064
+BMC Play Ground,Park / playground,PN,72.8399756,19.188673,272872.6565945938,2123111.5634060926
+Sai Baba Park Garden,Park / playground,PN,72.8323705,19.1922763,272077.6403578892,2123520.4289769954
+Childrens Garden,Park / playground,PN,72.8336669,19.193491,272215.6782021697,2123653.21522434
+Shardaben Patel Ground Hall,Park / playground,PN,72.8407203,19.1946159,272959.1463935999,2123768.543570471
+Lal Bahadur Shastri Kridangan (Rocket Ground),Park / playground,PN,72.8432579,19.1936436,273224.73304432037,2123657.5913714305
+Dr. Keshav Baliram Hedgewar Park,Park / playground,PN,72.84343,19.1925408,273241.32410592074,2123535.27406573
+Adarsh Joggers Park,Park / playground,PN,72.8436738,19.1961421,273271.90442758426,2123933.663696488
+S V Patel Garden,Park / playground,PN,72.8422449,19.1975705,273123.5651379109,2124093.6662336313
+Rose garden,Park / playground,PN,72.8396599,19.1993316,272854.08323881915,2124292.012339394
+MCGM Ground,Park / playground,PN,72.8381094,19.1998065,272691.6497842769,2124346.613531023
+Manoranjan Park,Park / playground,PN,72.8508953,19.1937585,274028.2385770995,2123660.383274821
+Dada dadi park,Park / playground,PN,72.8543899,19.1913068,274392.4776178916,2123384.42090251
+Pushpa Park,Park / playground,PN,72.8559288,19.1917385,274554.9383849477,2123430.222066614
+Veermata Jijabai Shahaji Bhosale Maidan,Park / playground,PN,72.8571721,19.1893119,274682.41291966697,2123159.961260402
+Municipal Ground,Park / playground,PN,72.8557982,19.1862202,274533.6825695925,2122819.453314128
+BMC Poddar Park,Park / playground,PN,72.8501484,19.1852226,273938.014500787,2122716.329852503
+Maheshwari Udyan,Park / playground,PN,72.8525577,19.1838448,274189.57220812165,2122560.666946935
+Raheja Federation Garden,Park / playground,PN,72.8558189,19.1818831,274529.95244721626,2122339.2610353124
+Vasant Bmc Garden,Park / playground,PN,72.8631953,19.1777464,275300.2837313287,2121871.754869028
+Sanjay Gandhi National Forest.,Park / playground,PN,72.8667016,19.1805615,275672.9439714796,2122178.898829139
+Baba Shaheb Bhimrao Ambedkar Park,Park / playground,PN,72.8591043,19.1849962,274879.7874356264,2122679.667153723
+Pradnya Ground,Park / playground,PN,72.8610873,19.1848644,275088.20196848107,2122662.514094923
+Salvi Park (BMC ground),Park / playground,PN,72.8665328,19.1886234,275666.11375314003,2123071.653792818
+Shahid Vijay Salasakar Udyan,Park / playground,PN,72.8594268,19.1921159,274923.3951094164,2123467.479731969
+Savitribai Phule Udyan,Park / playground,RS,72.8381205,19.2143208,272712.77381389297,2125953.5125876223
+Panchasheel Joggers' Park,Park / playground,RS,72.8394474,19.2127343,272850.14768304105,2125776.1340712016
+Ranchhod Padhiyar Udhyan,Park / playground,RC,72.8310322,19.2209749,271976.4555099509,2126699.4847428408
+MHADA public park,Park / playground,RC,72.8325863,19.2213382,272140.40066441905,2126737.6695546927
+Mangroves Park,Park / playground,RN,72.8501142,19.2581717,274034.23429305677,2130792.7078883355
+GSB Garden Dahisar,Park / playground,RN,72.8636855,19.2612998,275465.4422933619,2131121.4122533696
+Devyani Garden,Park / playground,RN,72.8622943,19.2617268,275319.75070063915,2131170.4866723334
+Nana Nani Park,Park / playground,RN,72.8655204,19.2571288,275652.6904753346,2130657.2619239897
+Ratan Nagar Garden,Park / playground,RN,72.8624,19.2395718,275300.67901185516,2128717.5364784827

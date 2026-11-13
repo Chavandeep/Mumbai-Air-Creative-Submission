@@ -1,0 +1,356 @@
+{
+ "train": {
+  "records": 48400,
+  "start": "2025-02-19 03:00:00",
+  "end": "2026-11-10 09:00:00",
+  "stations": 4,
+  "nulls": 0,
+  "duplicate_station_hours": 0,
+  "flag_high_1000": 19,
+  "three_reading_hours": 7328,
+  "per_station": [
+   {
+    "station": "Borivali East - IITM",
+    "hours": 12241,
+    "flagged": 4,
+    "max": 75203.525
+   },
+   {
+    "station": "Byculla - BMC",
+    "hours": 11683,
+    "flagged": 3,
+    "max": 3320.633333333333
+   },
+   {
+    "station": "Malad West - IITM",
+    "hours": 12343,
+    "flagged": 0,
+    "max": 718.2325
+   },
+   {
+    "station": "Shivaji Nagar - BMC",
+    "hours": 12133,
+    "flagged": 12,
+    "max": 241587.56333333332
+   }
+  ],
+  "completeness": {
+   "Borivali East - IITM": 0.8105,
+   "Byculla - BMC": 0.7736,
+   "Malad West - IITM": 0.8173,
+   "Shivaji Nagar - BMC": 0.8034
+  }
+ },
+ "history_2024": {
+  "records_raw": 216472,
+  "records_used": 216472,
+  "series": 29,
+  "series_without_coordinates": 0,
+  "series_outside_bmc_limits": 0
+ },
+ "history_2018_2020": {
+  "records": 87717,
+  "stations": 10,
+  "pm25_and_pm10": 83192
+ },
+ "legacy_observations_2020_2022": {
+  "records": 12452,
+  "note": "irregular samples, not hourly - inventoried, not used"
+ },
+ "other_mumbai_stations_2025_2026": {
+  "records": 9125,
+  "note": "no coordinates or cross-source mapping supplied - inventoried, not mapped"
+ },
+ "bmc_wards": {
+  "records": 24,
+  "geometry": [
+   "Polygon"
+  ],
+  "null_geometry": 0,
+  "invalid_geometry": 0,
+  "duplicate_geometry": 0,
+  "fields": [
+   "OBJECTID",
+   "WARD",
+   "REMARK",
+   "ABBREVIATION"
+  ],
+  "bounds": [
+   72.77611,
+   18.89273,
+   72.98097,
+   19.27022
+  ]
+ },
+ "bmc_prabhags": {
+  "records": 227,
+  "geometry": [
+   "Polygon"
+  ],
+  "null_geometry": 0,
+  "invalid_geometry": 1,
+  "duplicate_geometry": 0,
+  "fields": [
+   "OBJECTID",
+   "POPULATION",
+   "WARD",
+   "PRABHAG_NO"
+  ],
+  "bounds": [
+   72.77611,
+   18.89273,
+   72.98097,
+   19.27022
+  ],
+  "population_total": 12442373
+ },
+ "bmc_buildings": {
+  "records": 341841,
+  "geometry": [
+   "MultiPolygon",
+   "Polygon"
+  ],
+  "null_geometry": 0,
+  "invalid_geometry": 103,
+  "duplicate_geometry": 36462,
+  "fields": [
+   "OBJECTID",
+   "WARD",
+   "NO_OF_FLOO",
+   "TYPE",
+   "USAGE",
+   "CONSTRUCTI",
+   "AGE_BUILD",
+   "SLUM_NON_SLUM",
+   "Shape__Area"
+  ],
+  "bounds": [
+   72.77845,
+   18.89422,
+   72.97605,
+   19.26443
+  ],
+  "demolished_excluded": 2984,
+  "duplicate_footprints_removed": 36276,
+  "floors_parsed": 283324,
+  "floors_unparsed": 19257,
+  "outside_ward_polygons": 78,
+  "used": 299810
+ },
+ "bmc_streets": {
+  "records": 56804,
+  "geometry": [
+   "LineString",
+   "MultiLineString"
+  ],
+  "null_geometry": 7,
+  "invalid_geometry": 3,
+  "duplicate_geometry": 7,
+  "fields": [
+   "OBJECTID",
+   "WARD_ID",
+   "CARRIAGE_W",
+   "NO_OF_LANE",
+   "NAME",
+   "DRV_STATUS",
+   "LKM"
+  ],
+  "bounds": [
+   72.77942,
+   18.89406,
+   72.97969,
+   19.26639
+  ],
+  "total_km": 5040.3,
+  "km_with_carriageway_width": 1751.9,
+  "segments_with_width": 18788
+ },
+ "bmc_railway_lines": {
+  "records": 1829,
+  "geometry": [
+   "LineString",
+   "MultiLineString"
+  ],
+  "null_geometry": 0,
+  "invalid_geometry": 5,
+  "duplicate_geometry": 19,
+  "fields": [
+   "OBJECTID",
+   "NAME",
+   "REMARKS",
+   "SUB_TYPE"
+  ],
+  "bounds": [
+   72.81447,
+   18.93492,
+   72.88014,
+   19.05361
+  ]
+ },
+ "opencity_suburban_lines": {
+  "records": 106,
+  "lines": [
+   "CENTRAL RAILWAY",
+   "HARBOUR RAILWAY",
+   "Seawoods Targhar",
+   "TRANS-HARBOUR RAILWAY",
+   "Targhar Kharkopar",
+   "WESTERN RAILWAY"
+  ]
+ },
+ "bmc_waterbodies": {
+  "records": 31,
+  "geometry": [
+   "MultiPolygon",
+   "Polygon"
+  ],
+  "null_geometry": 0,
+  "invalid_geometry": 0,
+  "duplicate_geometry": 0,
+  "fields": [
+   "OBJECTID",
+   "NAME_OF_LAKE",
+   "TYPE"
+  ],
+  "bounds": [
+   72.79354,
+   18.93569,
+   72.88501,
+   19.05435
+  ]
+ },
+ "opencity_suburban_stations": {
+  "records": 106,
+  "without_coordinates": 0,
+  "outside_bmc_limits": 53,
+  "used": 53,
+  "duplicate_coordinates": 0
+ },
+ "opencity_best": {
+  "records": 6267,
+  "without_coordinates": 0,
+  "outside_bmc_limits": 684,
+  "used": 5583,
+  "duplicate_coordinates": 20,
+  "stops_used": 5559,
+  "depots_used": 24
+ },
+ "opencity_parks": {
+  "records": 991,
+  "without_coordinates": 1,
+  "outside_bmc_limits": 3,
+  "used": 987,
+  "duplicate_coordinates": 39
+ },
+ "bmc_civic_dispensary": {
+  "records": 166,
+  "used": 164
+ },
+ "bmc_civic_funeral_site": {
+  "records": 191,
+  "used": 189
+ },
+ "bmc_civic_hbt_clinic": {
+  "records": 205,
+  "used": 205
+ },
+ "bmc_civic_health_post": {
+  "records": 216,
+  "used": 215
+ },
+ "bmc_civic_hospital_dental": {
+  "records": 1,
+  "used": 1
+ },
+ "bmc_civic_hospital_main": {
+  "records": 4,
+  "used": 4
+ },
+ "bmc_civic_hospital_peripheral": {
+  "records": 8,
+  "used": 8
+ },
+ "bmc_civic_hospital_special": {
+  "records": 5,
+  "used": 5
+ },
+ "bmc_civic_maternity_home": {
+  "records": 30,
+  "used": 30
+ },
+ "bmc_civic_parking_off_street": {
+  "records": 49,
+  "used": 49
+ },
+ "bmc_civic_polyclinic": {
+  "records": 33,
+  "used": 33
+ },
+ "bmc_civic_public_toilet": {
+  "records": 8412,
+  "used": 8304
+ },
+ "bmc_civic_school_aided": {
+  "records": 404,
+  "used": 400
+ },
+ "bmc_civic_school_bmc": {
+  "records": 1134,
+  "used": 1123
+ },
+ "bmc_civic_school_unaided": {
+  "records": 709,
+  "used": 704
+ },
+ "bmc_dp_existing_amenities": {
+  "records": 8195,
+  "geometry": [
+   "MultiPolygon",
+   "Polygon"
+  ],
+  "null_geometry": 0,
+  "invalid_geometry": 72,
+  "duplicate_geometry": 3,
+  "fields": [
+   "FID_HE_DES",
+   "WARD",
+   "NEW_DES_MAINTYPE",
+   "NEW_DES_CODE",
+   "DISCRIPTION",
+   "TYPE",
+   "AREA"
+  ],
+  "bounds": [
+   72.78379,
+   18.89452,
+   72.97661,
+   19.26868
+  ]
+ },
+ "bmc_dp_reservations": {
+  "records": 5902,
+  "geometry": [
+   "MultiPolygon",
+   "Polygon"
+  ],
+  "null_geometry": 0,
+  "invalid_geometry": 75,
+  "duplicate_geometry": 0,
+  "fields": [
+   "OBJECTID",
+   "WARD",
+   "RES_CODE",
+   "RES_MAINTYPE",
+   "DISCRIPTION",
+   "TYPE",
+   "RES_AREA"
+  ],
+  "bounds": [
+   72.77936,
+   18.89745,
+   72.97501,
+   19.26486
+  ]
+ },
+ "dp_landfill_sites": 5
+}

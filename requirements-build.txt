@@ -1,0 +1,4 @@
+# Only needed to rebuild data/processed from raw sources (scripts/)
+-r requirements.txt
+geopandas>=1.0
+shapely>=2.0
